@@ -1,3 +1,11 @@
 KEYWORDS = [
-    "supply chain"
+    "supply chain",
+    "Containerfracht",
+    "Seefracht",
+    "Luftfracht",
+    "Lieferzeit",
+    "Lieferkette",
+    "Elektronikfertigung",
+    "Elektronikkomponent",
+    "PCB"
 ]
