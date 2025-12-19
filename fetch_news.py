@@ -124,4 +124,6 @@ def main():
         f.write("\n".join(debug_lines))
 
 
+
 if __name__ == "__main__":
+    main()
