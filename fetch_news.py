@@ -1,4 +1,3 @@
-
 # fetch_news.py
 import os
 import time
@@ -13,12 +12,12 @@ OUTPUT_FILE = "news.md"
 DEBUG_LOG = "news_debug.log"
 
 # Abfrage-Parameter
-LANGUAGE = "de"          # Deutsch bevorzugt
-MAX_PER_KEYWORD = 8      # schlank halten
-TIMEOUT = (10, 30)       # (connect=10s, read=30s)
+LANGUAGE = "de"           # Deutsch bevorzugt
+MAX_PER_KEYWORD = 8       # schlank halten
+TIMEOUT = (10, 30)        # (connect=10s, read=30s)
 MAX_RETRIES = 3
-BACKOFF_BASE_SEC = 2      # 2s, 4s, 8s
-DELAY_BETWEEN_CALLS = 1.0 # 1s zwischen Keywords (sequentiell)
+BACKOFF_BASE_SEC = 2       # 2s, 4s, 8s
+DELAY_BETWEEN_CALLS = 1.0  # 1s zwischen Keywords (sequentiell)
 
 def prepare_url(session: requests.Session, api_url: str, params: dict) -> str:
     """Baut die finale GET-URL (für Debug-Ausgaben)."""
@@ -65,7 +64,7 @@ def main():
             f.write("\n".join(debug_lines))
         return
 
-    # API-URL mit apiKey als Query (wie in den offiziellen Beispielen)
+    # API-URL mit apiKey als Query (wie in offiziellen Beispielen)
     api_url = f"{API_BASE}?apiKey={API_KEY}"
 
     # Session für HTTP-Reuse und sauberen UA
@@ -75,7 +74,6 @@ def main():
         "User-Agent": "SCM-NewsFetcher/1.1 (+github actions)"
     })
 
-   
     # Pro Keyword: eigene, sequenzielle Anfrage
     for kw in KEYWORDS:
         params = {
@@ -109,13 +107,12 @@ def main():
             debug_lines.append(f"[HTTP-ERROR] {kw}: status={status}, body={body}")
         except requests.Timeout:
             lines.append(f"| {kw} | **Zeitüberschreitung** nach {TIMEOUT[1]}s | -*- |")
-            debug_lines.append            debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
+            debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
         except Exception as e:
             lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
             debug_lines.append(f"[ERROR] {kw}: {e}")
 
         # Sequentielle Abfragen sicherstellen
-
         time.sleep(DELAY_BETWEEN_CALLS)
 
     # Dateien schreiben
