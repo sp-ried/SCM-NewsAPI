@@ -1,0 +1,3 @@
+KEYWORDS = [
+    "supply chain"
+]
