@@ -50,4 +50,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update daily news.md"
-          file_pattern          file_pattern: "news.md"
+          file_pattern: |
+            news.md
+            docs/news.md
+          branch: "main"
+
