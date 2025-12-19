@@ -75,6 +75,7 @@ def main():
         "User-Agent": "SCM-NewsFetcher/1.1 (+github actions)"
     })
 
+   
     # Pro Keyword: eigene, sequenzielle Anfrage
     for kw in KEYWORDS:
         params = {
@@ -101,7 +102,6 @@ def main():
                     link = n.get("url") or ""
                     lines.append(f"| {kw} | {title} | {link} |")
 
-
         except requests.HTTPError as e:
             status = e.response.status_code if e.response else "?"
             body = e.response.text[:200].replace("\n", " ") if e.response and e.response.text else str(e)
@@ -109,12 +109,13 @@ def main():
             debug_lines.append(f"[HTTP-ERROR] {kw}: status={status}, body={body}")
         except requests.Timeout:
             lines.append(f"| {kw} | **Zeitüberschreitung** nach {TIMEOUT[1]}s | -*- |")
-            debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
+            debug_lines.append            debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
         except Exception as e:
-            lines.append(f"| {kw} | **Fehler:** {e} | -*- |            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
-
+            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
+            debug_lines.append(f"[ERROR] {kw}: {e}")
 
         # Sequentielle Abfragen sicherstellen
+
         time.sleep(DELAY_BETWEEN_CALLS)
 
     # Dateien schreiben
