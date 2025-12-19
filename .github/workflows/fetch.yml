@@ -38,7 +38,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          echo "# SCM News Übersicht\n\nAktuelle Tabelle:\n" > docs/index.md
+          echo "# SCM News Übersicht" > docs/index.md
           if [[ -f news.md ]]; then
             cat news.md >> docs/index.md
           else
