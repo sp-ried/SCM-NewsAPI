@@ -13,7 +13,7 @@ OUTPUT_FILE = "news.md"
 DEBUG_LOG = "news_debug.log"
 
 # Abfrage-Parameter
-LANGUAGE = "en"          # optional: "de" (kann Trefferzahl stark reduzieren)
+LANGUAGE = "de"          # optional: "de" (kann Trefferzahl stark reduzieren)
 MAX_PER_KEYWORD = 8      # schlank halten
 TIMEOUT = (10, 30)       # (connect=10s, read=30s)
 MAX_RETRIES = 3
