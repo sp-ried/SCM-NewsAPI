@@ -110,15 +110,14 @@ def main():
             lines.append(f"| {kw} | **Zeitüberschreitung** nach {TIMEOUT[1]}s | -*- |")
             debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
         except Exception as e:
-            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
+            lines.append(f"| {kw} |            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
             debug_lines.append(f"[ERROR] {kw}: {e}")
 
         # Sequentielle Abfragen sicherstellen
         time.sleep(DELAY_BETWEEN_CALLS)
 
-
     # Dateien schreiben
-    with open    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
     with open(DEBUG_LOG, "w", encoding="utf-8") as f:
