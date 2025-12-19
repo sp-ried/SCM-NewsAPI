@@ -38,6 +38,11 @@ jobs:
           mkdir -p docs
           cp -f news.md docs/news.md
 
+      - name: Merge news.md into index.md
+        run: |
+          echo "# SCM News Übersicht\n\nAktuelle Tabelle:\n" > docs/index.md
+          cat news.md >> docs/index.md
+
       - name: Upload debug log
         uses: actions/upload-artifact@v4
         with:
