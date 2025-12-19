@@ -116,14 +116,13 @@ def main():
         # Sequentielle Abfragen sicherstellen
         time.sleep(DELAY_BETWEEN_CALLS)
 
+
     # Dateien schreiben
-       with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
     with open(DEBUG_LOG, "w", encoding="utf-8") as f:
         f.write("\n".join(debug_lines))
 
 
-
 if __name__ == "__main__":
-    main()
