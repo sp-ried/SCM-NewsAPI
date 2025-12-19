@@ -3,104 +3,120 @@
 import os
 import time
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
 from keywords import KEYWORDS
 
 API_BASE = "https://api.currentsapi.services/v1/search"
 API_KEY = os.environ.get("CURRENTS_API_KEY")
+
 OUTPUT_FILE = "news.md"
+DEBUG_LOG = "news_debug.log"
 
-# Performance/Rate-Limit: klein starten
-MAX_PER_KEYWORD = 8
-LANGUAGE = "en"  # optional: "de"
-# Optional: Tagesfilter (heute). CurrentsAPI unterstützt 'start_date'/'end_date' im ISO-Format (YYYY-MM-DD).
-USE_TODAY_WINDOW = True
-
-# Timeouts (connect, read)
-TIMEOUT = (10, 30)  # 10s Verbindungsaufbau, 30s Antwort lesen
-
-# Retry-Strategie
+# Abfrage-Parameter
+LANGUAGE = "en"          # optional: "de" (kann Trefferzahl stark reduzieren)
+MAX_PER_KEYWORD = 8      # schlank halten
+TIMEOUT = (10, 30)       # (connect=10s, read=30s)
 MAX_RETRIES = 3
-BACKOFF_BASE_SEC = 2  # exponentiell: 2s, 4s, 8s
+BACKOFF_BASE_SEC = 2      # 2s, 4s, 8s
+DELAY_BETWEEN_CALLS = 1.0 # 1s zwischen Keywords (sequentiell)
 
-def fetch_with_retry(session: requests.Session, api_url: str, keyword: str):
-    params = {
-        "keywords": keyword,
-        "language": LANGUAGE,
-        "limit": MAX_PER_KEYWORD,
-    }
-    if USE_TODAY_WINDOW:
-        # Filter auf heutiges Datum (UTC-basiert)
-        today = datetime.utcnow().date()
-        params["start_date"] = today.isoformat()
-        params["end_date"] = today.isoformat()
+def prepare_url(session: requests.Session, api_url: str, params: dict) -> str:
+    req = requests.Request("GET", api_url, params=params)
+    prepped = session.prepare_request(req)
+    return prepped.url
 
+def fetch_with_retry(session: requests.Session, api_url: str, params: dict):
     last_err = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             r = session.get(api_url, params=params, timeout=TIMEOUT)
             r.raise_for_status()
             data = r.json()
-            return data.get("news", [])
-        except requests.Timeout as e:
+            return r, data
+        except (requests.Timeout, requests.RequestException) as e:
             last_err = e
-        except requests.RequestException as e:
-            last_err = e
-
-        # Backoff (nur wenn weiterer Versuch folgt)
-        if attempt < MAX_RETRIES:
-            sleep_sec = BACKOFF_BASE_SEC ** attempt  # 2, 4, 8
-            time.sleep(sleep_sec)
-
-    # Nach allen Versuchen: Fehler zurückgeben
+            if attempt < MAX_RETRIES:
+                time.sleep(BACKOFF_BASE_SEC ** attempt)
     raise last_err if last_err else RuntimeError("Unbekannter Fehler")
 
 def main():
-    lines = []
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+    # Ausgabe-Datei vorbereiten
+    lines = []
     lines.append(f"# News-Übersicht\n\n*Stand: {now}*\n")
     lines.append("| Keyword | Headline | Link |\n|---|---|---|")
 
+    debug_lines = []
+    debug_lines.append(f"[INFO] Zeit: {now}")
+    debug_lines.append(f"[INFO] KEYWORDS: {', '.join(KEYWORDS)}")
+    debug_lines.append(f"[INFO] Sprache: {LANGUAGE}, Limit pro Keyword: {MAX_PER_KEYWORD}")
+
     if not API_KEY:
-        lines.append("| -*- | **Fehler:** Secret CURRENTS_API_KEY fehlt | -*- |")
+        msg = "Secret CURRENTS_API_KEY fehlt"
+        lines.append(f"| -*- | **Fehler:** {msg} | -*- |")
+        debug_lines.append(f"[ERROR] {msg}")
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("\n".join(lines))
+        with open(DEBUG_LOG, "w", encoding="utf-8") as f:
+            f.write("\n".join(debug_lines))
         return
 
     api_url = f"{API_BASE}?apiKey={API_KEY}"
 
-    # Session für Reuse + Header
+    # Session (Verbindungs-Reuse)
     session = requests.Session()
     session.headers.update({
         "Accept": "application/json",
-        "User-Agent": "SCM-NewsFetcher/1.0 (+github actions)"
+        "User-Agent": "SCM-NewsFetcher/1.1 (+github actions)"
     })
 
     for kw in KEYWORDS:
+        params = {
+            "keywords": kw,
+            "language": LANGUAGE,
+            "limit": MAX_PER_KEYWORD,
+        }
+
+        # Finale URL zeigen (GitHub maskiert den Secret-Wert im Log)
+        full_url = prepare_url(session, api_url, params)
+        print(f"[DEBUG] GET {full_url}")
+        debug_lines.append(f"[DEBUG] GET {full_url}")
+
         try:
-            items = fetch_with_retry(session, api_url, kw)
+            resp, data = fetch_with_retry(session, api_url, params)
+            items = data.get("news", []) or []
+
+            debug_lines.append(f"[OK] {kw}: status={resp.status_code}, items={len(items)}")
+
             if not items:
                 lines.append(f"| {kw} | *(keine Treffer heute)* | -*- |")
-                continue
-
-            # Kompakt: nur Titel+Link; Sonderzeichen im Titel entschärfen
-            for n in items:
-                title = (n.get("title") or "").replace("|", " ")
-                link = n.get("url") or ""
-                lines.append(f"| {kw} | {title} | {link} |")
+            else:
+                for n in items:
+                    title = (n.get("title") or "").replace("|", " ")
+                    link = n.get("url") or ""
+                    lines.append(f"| {kw} | {title} | {link} |")
 
         except requests.HTTPError as e:
             status = e.response.status_code if e.response else "?"
-            msg = e.response.text[:160].replace("\n", " ") if e.response and e.response.text else str(e)
-            lines.append(f"| {kw} | **HTTP {status}:** {msg} | -*- |")
+            body = e.response.text[:200].replace("\n", " ") if e.response and e.response.text else str(e)
+            lines.append(f"| {kw} | **HTTP {status}:** {body} | -*- |")
+            debug_lines.append(f"[HTTP-ERROR] {kw}: status={status}, body={body}")
         except requests.Timeout:
             lines.append(f"| {kw} | **Zeitüberschreitung** nach {TIMEOUT[1]}s | -*- |")
+            debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
         except Exception as e:
             lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
+            debug_lines.append(f"[ERROR] {kw}: {e}")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        # Sequentiell: kleine Pause
+        time.sleep(DELAY_BETWEEN_CALLS)
+
+    # Dateien schreiben
+    with open(OUTPUT_FILE, "    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-
+    with open(DEBUG_LOG, "w", encoding="utf-8") as f:
+        f.write("\n".join(debug_lines))
 
 if __name__ == "__main__":
     main()
