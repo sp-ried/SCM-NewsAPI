@@ -1,10 +1,10 @@
 
-# .github/workflows/fetch.yml
+---
 name: Fetch CurrentsAPI News
 
 on:
   schedule:
-    - cron: "7 5 * * *"  # leicht versetzt: 06:07 UTC täglich
+    - cron: "7 5 * * *"   # täglich 05:07 UTC
   workflow_dispatch: {}
 
 permissions:
@@ -38,10 +38,8 @@ jobs:
             news_debug.log
             news.md
 
-
-    - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: "chore: update daily news.md"
-        file_pattern: "news.md"
-        branch: "
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update daily news.md"
+          file_pattern          file_pattern: "news.md"
