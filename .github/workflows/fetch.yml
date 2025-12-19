@@ -33,6 +33,11 @@ jobs:
           CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
         run: python fetch_news.py
 
+      - name: Copy news.md to docs/
+        run: |
+          mkdir -p docs
+          cp -f news.md docs/news.md
+
       - name: Upload debug log
         uses: actions/upload-artifact@v4
         with:
