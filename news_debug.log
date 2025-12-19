@@ -1,0 +1,21 @@
+[INFO] Zeit: 2025-12-19 07:37 UTC
+[INFO] KEYWORDS: supply chain, Containerfracht, Seefracht, Luftfracht, Lieferzeit, Lieferkette, Elektronikfertigung, Elektronikkomponent, PCB
+[INFO] Sprache: de, Limit pro Keyword: 8
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=supply+chain&language=de&limit=8
+[TIMEOUT] supply chain: nach 30s
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Containerfracht&language=de&limit=8
+[OK] Containerfracht: status=200, items=0
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Seefracht&language=de&limit=8
+[OK] Seefracht: status=200, items=0
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Luftfracht&language=de&limit=8
+[OK] Luftfracht: status=200, items=1
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Lieferzeit&language=de&limit=8
+[OK] Lieferzeit: status=200, items=1
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Lieferkette&language=de&limit=8
+[OK] Lieferkette: status=200, items=30
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Elektronikfertigung&language=de&limit=8
+[OK] Elektronikfertigung: status=200, items=0
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=Elektronikkomponent&language=de&limit=8
+[OK] Elektronikkomponent: status=200, items=0
+[DEBUG] GET https://api.currentsapi.services/v1/search?apiKey=b3a6Q4Ca3GPn7-zwgcyjWRzaBfP4kcqWGh-l5UFsztBFJeqg&keywords=PCB&language=de&limit=8
+[OK] PCB: status=200, items=7
