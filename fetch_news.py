@@ -13,7 +13,7 @@ OUTPUT_FILE = "news.md"
 DEBUG_LOG = "news_debug.log"
 
 # Abfrage-Parameter
-LANGUAGE = "de"          # optional: "de" (kann Trefferzahl stark reduzieren)
+LANGUAGE = "de"          # Deutsch bevorzugt
 MAX_PER_KEYWORD = 8      # schlank halten
 TIMEOUT = (10, 30)       # (connect=10s, read=30s)
 MAX_RETRIES = 3
@@ -42,7 +42,6 @@ def fetch_with_retry(session: requests.Session, api_url: str, params: dict):
 def main():
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-    # Ausgabe-Datei vorbereiten
     lines = []
     lines.append(f"# News-Übersicht\n\n*Stand: {now}*\n")
     lines.append("| Keyword | Headline | Link |\n|---|---|---|")
@@ -64,7 +63,6 @@ def main():
 
     api_url = f"{API_BASE}?apiKey={API_KEY}"
 
-    # Session (Verbindungs-Reuse)
     session = requests.Session()
     session.headers.update({
         "Accept": "application/json",
@@ -78,7 +76,6 @@ def main():
             "limit": MAX_PER_KEYWORD,
         }
 
-        # Finale URL zeigen (GitHub maskiert den Secret-Wert im Log)
         full_url = prepare_url(session, api_url, params)
         print(f"[DEBUG] GET {full_url}")
         debug_lines.append(f"[DEBUG] GET {full_url}")
@@ -109,14 +106,16 @@ def main():
             lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
             debug_lines.append(f"[ERROR] {kw}: {e}")
 
-        # Sequentiell: kleine Pause
         time.sleep(DELAY_BETWEEN_CALLS)
 
     # Dateien schreiben
-    with open(OUTPUT_FILE, "    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
+
     with open(DEBUG_LOG, "w", encoding="utf-8") as f:
         f.write("\n".join(debug_lines))
 
+
 if __name__ == "__main__":
     main()
+``
