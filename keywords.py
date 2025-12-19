@@ -7,5 +7,6 @@ KEYWORDS = [
     "Lieferkette",
     "Elektronikfertigung",
     "Elektronikkomponent",
-    "PCB"
+    "PCB",
+    "Materialknappheit"
 ]
