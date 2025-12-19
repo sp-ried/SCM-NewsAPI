@@ -101,6 +101,7 @@ def main():
                     link = n.get("url") or ""
                     lines.append(f"| {kw} | {title} | {link} |")
 
+
         except requests.HTTPError as e:
             status = e.response.status_code if e.response else "?"
             body = e.response.text[:200].replace("\n", " ") if e.response and e.response.text else str(e)
@@ -110,8 +111,8 @@ def main():
             lines.append(f"| {kw} | **Zeitüberschreitung** nach {TIMEOUT[1]}s | -*- |")
             debug_lines.append(f"[TIMEOUT] {kw}: nach {TIMEOUT[1]}s")
         except Exception as e:
-            lines.append(f"| {kw} |            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
-            debug_lines.append(f"[ERROR] {kw}: {e}")
+            lines.append(f"| {kw} | **Fehler:** {e} | -*- |            lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
+
 
         # Sequentielle Abfragen sicherstellen
         time.sleep(DELAY_BETWEEN_CALLS)
@@ -123,5 +124,5 @@ def main():
     with open(DEBUG_LOG, "w", encoding="utf-8") as f:
         f.write("\n".join(debug_lines))
 
-
 if __name__ == "__main__":
+    main()
