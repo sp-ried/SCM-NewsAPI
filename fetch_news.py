@@ -21,11 +21,13 @@ BACKOFF_BASE_SEC = 2      # 2s, 4s, 8s
 DELAY_BETWEEN_CALLS = 1.0 # 1s zwischen Keywords (sequentiell)
 
 def prepare_url(session: requests.Session, api_url: str, params: dict) -> str:
+    """Baut die finale GET-URL (für Debug-Ausgaben)."""
     req = requests.Request("GET", api_url, params=params)
     prepped = session.prepare_request(req)
     return prepped.url
 
 def fetch_with_retry(session: requests.Session, api_url: str, params: dict):
+    """GET mit Retries/Backoff und JSON-Decode."""
     last_err = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -42,10 +44,12 @@ def fetch_with_retry(session: requests.Session, api_url: str, params: dict):
 def main():
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
+    # Markdown-Output vorbereiten
     lines = []
     lines.append(f"# News-Übersicht\n\n*Stand: {now}*\n")
     lines.append("| Keyword | Headline | Link |\n|---|---|---|")
 
+    # Debug-Log vorbereiten
     debug_lines = []
     debug_lines.append(f"[INFO] Zeit: {now}")
     debug_lines.append(f"[INFO] KEYWORDS: {', '.join(KEYWORDS)}")
@@ -61,14 +65,17 @@ def main():
             f.write("\n".join(debug_lines))
         return
 
+    # API-URL mit apiKey als Query (wie in den offiziellen Beispielen)
     api_url = f"{API_BASE}?apiKey={API_KEY}"
 
+    # Session für HTTP-Reuse und sauberen UA
     session = requests.Session()
     session.headers.update({
         "Accept": "application/json",
         "User-Agent": "SCM-NewsFetcher/1.1 (+github actions)"
     })
 
+    # Pro Keyword: eigene, sequenzielle Anfrage
     for kw in KEYWORDS:
         params = {
             "keywords": kw,
@@ -106,10 +113,11 @@ def main():
             lines.append(f"| {kw} | **Fehler:** {e} | -*- |")
             debug_lines.append(f"[ERROR] {kw}: {e}")
 
+        # Sequentielle Abfragen sicherstellen
         time.sleep(DELAY_BETWEEN_CALLS)
 
     # Dateien schreiben
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+       with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
     with open(DEBUG_LOG, "w", encoding="utf-8") as f:
@@ -117,5 +125,3 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-``
