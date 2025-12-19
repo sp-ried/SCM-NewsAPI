@@ -1,12 +1,14 @@
+
 # .github/workflows/fetch.yml
 name: Fetch CurrentsAPI News
 
-
 on:
   schedule:
-    - cron: "7 5 * * *"
+    - cron: "7 5 * * *"  # leicht versetzt: 06:07 UTC täglich
   workflow_dispatch: {}
 
+permissions:
+  contents: write
 
 jobs:
   run:
@@ -23,13 +25,21 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Generate news.md
+      - name: Generate news.md (mit Debug-URLs)
         env:
           CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
         run: python fetch_news.py
+
+      - name: Upload debug log
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-debug
+          path: |
+            news_debug.log
+            news.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update daily news.md"
-          file_pattern: "news.md"
+                   file_pattern: "news.md"
