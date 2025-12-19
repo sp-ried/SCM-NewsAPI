@@ -33,16 +33,20 @@ jobs:
           CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
         run: python fetch_news.py
 
-      - name: Copy news.md to docs/
-        run: |
-          mkdir -p docs
-          cp -f news.md docs/news.md
 
-      - name: Merge news.md into index.md
+      - name: Merge news.md into docs/index.md
+        shell: bash
         run: |
+          set -euo pipefail
           echo "# SCM News Übersicht\n\nAktuelle Tabelle:\n" > docs/index.md
-          cat news.md >> docs/index.md
-
+          if [[ -f news.md ]]; then
+            cat news.md >> docs/index.md
+          else
+            echo "_Hinweis: news.md nicht gefunden._" >> docs/index.md
+          fi
+          echo "Vorschau auf docs/index.md:"
+          head -n 30 docs/index.md || true
+      
       - name: Upload debug log
         uses: actions/upload-artifact@v4
         with:
@@ -50,13 +54,11 @@ jobs:
           path: |
             news_debug.log
             news.md
-
+      
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update daily news.md"
+          commit_message: "chore: update docs/index.md aus news.md (CI)"
           file_pattern: |
-            news.md
-            docs/news.md
-          branch: "main"
-
+            docs/index.md
+          branch: main
