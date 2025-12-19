@@ -52,4 +52,6 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-if __name__ ==if __name__ == "__main__":
+
+if __name__ == "__main__":
+    main()
