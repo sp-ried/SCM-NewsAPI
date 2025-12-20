@@ -1,7 +1,7 @@
-# SCM News Übersicht\n\nAktuelle Tabelle:\n
+# SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2025-12-19 08:59 UTC*
+*Stand: 2025-12-20 05:44 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -9,6 +9,7 @@
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo: Streit um Flugsicherheit zwischen Piloten und Managern | https://www.manager-magazin.de/unternehmen/industrie/lufthansa-cargo-streit-um-flugsicherheit-zwischen-piloten-und-managern-a-7cd03f20-c83d-48a6-bbf5-2f57f26239b1 |
+| Lieferzeit | Magirus zieht im Rahmen seiner umfassenden Transformation eine erste positive Bilanz und setzt für 2026 weiter konsequent auf Qualität, Verlässlichkeit und Verantwortung | https://www.presseportal.de/pm/181687/6183381 |
 | Lieferzeit | Onlinehandel: Hohe Retourenquote belastet Händler | https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb |
 | Lieferkette | Geoanalytics im Trend: „Es hilft bei Ernteprognosen, Waldbränden und Katastrophenschutz“ - Video - WELT | https://www.welt.de/wirtschaft/video6942a1a9b83be38bded693e7/geoanalytics-im-trend-es-hilft-bei-ernteprognosen-waldbraenden-und-katastrophenschutz.html |
 | Lieferkette | Rezept für den Wiederaufbau | https://www.mpg.de/25906564/pharmabranche-ukraine |
@@ -49,3 +50,4 @@
 | PCB | Chemie: Bayer einigt sich mit 200 Klägern wegen Monsanto-Chemikalie – Aktie steigt | https://www.handelsblatt.com/unternehmen/industrie/chemie-bayer-einigt-sich-mit-200-klaegern-wegen-monsanto-chemikalie/100149048.html |
 | PCB | Bayer kann viele Klagen um Umweltchemikalie wohl beilegen | https://www.noz.de/deutschland-welt/wirtschaft/artikel/bayer-kann-viele-klagen-um-umweltchemikalie-wohl-beilegen-49152643 |
 | PCB | der8enchtable: Thermal Grizzly stellt Benchtable mit aktivem PCB vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/consumer-electronics/gadgets/66753-der8enchtable-thermal-grizzly-stellt-benchtable-mit-aktivem-pcb-vor.html |
+| Materialknappheit | *(keine Treffer heute)* | -*- |
