@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2025-12-20 05:44 UTC*
+*Stand: 2025-12-21 05:45 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
