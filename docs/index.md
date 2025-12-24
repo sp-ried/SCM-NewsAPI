@@ -1,11 +1,13 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2025-12-23 05:51 UTC*
+*Stand: 2025-12-24 05:51 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
-| supply chain | **Zeitüberschreitung** nach 30s | -*- |
+| supply chain | Awareness für Web-Security: Die OWASP Top Ten 2025 | https://www.heise.de/hintergrund/Awareness-fuer-Web-Security-Die-OWASP-Top-Ten-2025-11098119.html?view=print |
+| supply chain | Direkte Einsparungen durch optimierte Verpackung: So reduzieren Unternehmen jetzt ihre Kosten | https://www.presseportal.de/pm/114335/6110259 |
+| supply chain | US-Aussteller auf der CISCE 2025 wachsen um 15 % und unterstreichen die verstärkte Zusammenarbeit in der Lieferkette | https://www.presseportal.de/pm/179067/6084491 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo: Streit um Flugsicherheit zwischen Piloten und Managern | https://www.manager-magazin.de/unternehmen/industrie/lufthansa-cargo-streit-um-flugsicherheit-zwischen-piloten-und-managern-a-7cd03f20-c83d-48a6-bbf5-2f57f26239b1 |
@@ -43,6 +45,7 @@
 | Lieferkette | Einigung!: EU will Lieferkettengesetz abschwächen | https://www.bild.de/politik/einigung-eu-will-lieferkettengesetz-abschwaechen-6937814911f914c89b85732e |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Rückseitige Anschlüsse und 64 MB ROM: MSI MAG X870E TOMAHAWK MAX WIFI PZ im Test - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/mainboards/67439-rueckseitige-anschluesse-und-64-mb-bios-rom-msi-mag-x870e-tomahawk-max-wifi-pz-im-test.html |
 | PCB | NVIDIA RTX Titan Ada: Kompaktes, um 90 Grad gedrehtes PCB zeigt sich in voller Pracht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67730-nvidia-rtx-titan-ada-kompaktes-um-90-grad-gedrehtes-pcb-zeigt-sich-in-voller-pracht.html |
 | PCB | Tech-Gadget Flipper One: Neue Rendergrafiken des Innenlebens geben Rätsel auf | https://www.heise.de/news/Tech-Gadget-Flipper-One-Neue-Rendergrafiken-des-Innenlebens-geben-Raetsel-auf-11108574.html?view=print |
 | PCB | Modulares PCB-Design: GeForce RTX 5090 und RTX Pro 6000 Blackwell kaum reparierbar - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67531-modulares-pcb-design-geforce-rtx-5090-und-rtx-pro-6000-blackwell-kaum-reparierbar.html |
