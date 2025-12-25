@@ -1,13 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2025-12-24 05:51 UTC*
+*Stand: 2025-12-25 05:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
-| supply chain | Awareness für Web-Security: Die OWASP Top Ten 2025 | https://www.heise.de/hintergrund/Awareness-fuer-Web-Security-Die-OWASP-Top-Ten-2025-11098119.html?view=print |
-| supply chain | Direkte Einsparungen durch optimierte Verpackung: So reduzieren Unternehmen jetzt ihre Kosten | https://www.presseportal.de/pm/114335/6110259 |
-| supply chain | US-Aussteller auf der CISCE 2025 wachsen um 15 % und unterstreichen die verstärkte Zusammenarbeit in der Lieferkette | https://www.presseportal.de/pm/179067/6084491 |
+| supply chain | **Zeitüberschreitung** nach 30s | -*- |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo: Streit um Flugsicherheit zwischen Piloten und Managern | https://www.manager-magazin.de/unternehmen/industrie/lufthansa-cargo-streit-um-flugsicherheit-zwischen-piloten-und-managern-a-7cd03f20-c83d-48a6-bbf5-2f57f26239b1 |
