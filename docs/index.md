@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-05 06:03 UTC*
+*Stand: 2026-01-06 05:51 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -43,6 +43,7 @@
 | Lieferkette | Einigung!: EU will Lieferkettengesetz abschwächen | https://www.bild.de/politik/einigung-eu-will-lieferkettengesetz-abschwaechen-6937814911f914c89b85732e |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Bis zu 2.500 W, AiO-Kühler und riesiges Display: MSI GeForce RTX 5090 Lightning zeigt sich erneut | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67831-bis-zu-2-500-w-aio-kuehler-und-riesiges-display-msi-geforce-rtx-5090-lightning-vorgestellt.html |
 | PCB | Rückseitige Anschlüsse und 64 MB ROM: MSI MAG X870E TOMAHAWK MAX WIFI PZ im Test - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/mainboards/67439-rueckseitige-anschluesse-und-64-mb-bios-rom-msi-mag-x870e-tomahawk-max-wifi-pz-im-test.html |
 | PCB | NVIDIA RTX Titan Ada: Kompaktes, um 90 Grad gedrehtes PCB zeigt sich in voller Pracht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67730-nvidia-rtx-titan-ada-kompaktes-um-90-grad-gedrehtes-pcb-zeigt-sich-in-voller-pracht.html |
 | PCB | Tech-Gadget Flipper One: Neue Rendergrafiken des Innenlebens geben Rätsel auf | https://www.heise.de/news/Tech-Gadget-Flipper-One-Neue-Rendergrafiken-des-Innenlebens-geben-Raetsel-auf-11108574.html?view=print |
