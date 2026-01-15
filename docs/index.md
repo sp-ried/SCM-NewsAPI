@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-14 05:52 UTC*
+*Stand: 2026-01-15 05:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,6 +13,7 @@
 | Luftfracht | Lufthansa Cargo: Streit um Flugsicherheit zwischen Piloten und Managern | https://www.manager-magazin.de/unternehmen/industrie/lufthansa-cargo-streit-um-flugsicherheit-zwischen-piloten-und-managern-a-7cd03f20-c83d-48a6-bbf5-2f57f26239b1 |
 | Lieferzeit | Magirus zieht im Rahmen seiner umfassenden Transformation eine erste positive Bilanz und setzt für 2026 weiter konsequent auf Qualität, Verlässlichkeit und Verantwortung | https://www.presseportal.de/pm/181687/6183381 |
 | Lieferzeit | Onlinehandel: Hohe Retourenquote belastet Händler | https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb |
+| Lieferkette | Trotz Zollstreits: „China ist nicht ersetzbar in den internationalen Lieferketten“ - Video - WELT | https://www.welt.de/wirtschaft/video696787b196b63b90d87f58d5/trotz-zollstreits-china-ist-nicht-ersetzbar-in-den-internationalen-lieferketten.html |
 | Lieferkette | Seltene Erden: Wie Europa sich aus der Abhängigkeit befreien will | https://www.zeit.de/2025/54/seltene-erden-china-europa-industrie-abhaengigkeit-rohstoffe |
 | Lieferkette | Geoanalytics im Trend: „Es hilft bei Ernteprognosen, Waldbränden und Katastrophenschutz“ - Video - WELT | https://www.welt.de/wirtschaft/video6942a1a9b83be38bded693e7/geoanalytics-im-trend-es-hilft-bei-ernteprognosen-waldbraenden-und-katastrophenschutz.html |
 | Lieferkette | Rezept für den Wiederaufbau | https://www.mpg.de/25906564/pharmabranche-ukraine |
@@ -42,7 +43,6 @@
 | Lieferkette | Kinder- und Zwangsarbeit: Einigung auf abgeschwächtes EU-Lieferkettengesetz erzielt | https://www.kleinezeitung.at/politik/eu/20387624/einigung-auf-abgeschwaechtes-eu-lieferkettengesetz-erzielt |
 | Lieferkette | Noch nicht in Kraft, schon wird abgeschwächt: EU will Lieferkettengesetz ändern | https://www.diepresse.com/20387626/einigung-auf-abgeschwaechtes-eu-lieferkettengesetz-erzielt |
 | Lieferkette | Europäische Union: EU einigt sich auf Abschwächung des Lieferkettengesetzes | https://www.zeit.de/politik/ausland/2025-12/eu-lieferkettengesetz-einigung-abschwaechung-menschenrechte |
-| Lieferkette | Einigung!: EU will Lieferkettengesetz abschwächen | https://www.bild.de/politik/einigung-eu-will-lieferkettengesetz-abschwaechen-6937814911f914c89b85732e |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Bis zu 2.500 W, AiO-Kühler und riesiges Display: MSI GeForce RTX 5090 Lightning zeigt sich erneut | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67831-bis-zu-2-500-w-aio-kuehler-und-riesiges-display-msi-geforce-rtx-5090-lightning-vorgestellt.html |
