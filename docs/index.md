@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-15 05:52 UTC*
+*Stand: 2026-01-16 05:51 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -45,6 +45,7 @@
 | Lieferkette | Europäische Union: EU einigt sich auf Abschwächung des Lieferkettengesetzes | https://www.zeit.de/politik/ausland/2025-12/eu-lieferkettengesetz-einigung-abschwaechung-menschenrechte |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | AORUS RTX 5090 Xtreme Waterforce: Modder rüstet zweiten 12V-2x6-Anschluss nach | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67973-aorus-rtx-5090-xtreme-waterforce-modder-ruestet-zweiten-12v-2x6-anschluss-nach.html |
 | PCB | Bis zu 2.500 W, AiO-Kühler und riesiges Display: MSI GeForce RTX 5090 Lightning zeigt sich erneut | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67831-bis-zu-2-500-w-aio-kuehler-und-riesiges-display-msi-geforce-rtx-5090-lightning-vorgestellt.html |
 | PCB | Rückseitige Anschlüsse und 64 MB ROM: MSI MAG X870E TOMAHAWK MAX WIFI PZ im Test - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/mainboards/67439-rueckseitige-anschluesse-und-64-mb-bios-rom-msi-mag-x870e-tomahawk-max-wifi-pz-im-test.html |
 | PCB | NVIDIA RTX Titan Ada: Kompaktes, um 90 Grad gedrehtes PCB zeigt sich in voller Pracht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67730-nvidia-rtx-titan-ada-kompaktes-um-90-grad-gedrehtes-pcb-zeigt-sich-in-voller-pracht.html |
