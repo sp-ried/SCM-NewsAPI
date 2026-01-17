@@ -1,19 +1,18 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-16 05:51 UTC*
+*Stand: 2026-01-17 05:32 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
-| supply chain | Awareness für Web-Security: Die OWASP Top Ten 2025 | https://www.heise.de/hintergrund/Awareness-fuer-Web-Security-Die-OWASP-Top-Ten-2025-11098119.html?view=print |
-| supply chain | Direkte Einsparungen durch optimierte Verpackung: So reduzieren Unternehmen jetzt ihre Kosten | https://www.presseportal.de/pm/114335/6110259 |
-| supply chain | US-Aussteller auf der CISCE 2025 wachsen um 15 % und unterstreichen die verstärkte Zusammenarbeit in der Lieferkette | https://www.presseportal.de/pm/179067/6084491 |
+| supply chain | **Zeitüberschreitung** nach 30s | -*- |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo: Streit um Flugsicherheit zwischen Piloten und Managern | https://www.manager-magazin.de/unternehmen/industrie/lufthansa-cargo-streit-um-flugsicherheit-zwischen-piloten-und-managern-a-7cd03f20-c83d-48a6-bbf5-2f57f26239b1 |
 | Lieferzeit | Magirus zieht im Rahmen seiner umfassenden Transformation eine erste positive Bilanz und setzt für 2026 weiter konsequent auf Qualität, Verlässlichkeit und Verantwortung | https://www.presseportal.de/pm/181687/6183381 |
 | Lieferzeit | Onlinehandel: Hohe Retourenquote belastet Händler | https://www.spiegel.de/wirtschaft/service/onlinehandel-hohe-retourenquote-belastet-haendler-a-c40f66da-1cc4-4674-b69b-2dd56744e6fb |
 | Lieferkette | Trotz Zollstreits: „China ist nicht ersetzbar in den internationalen Lieferketten“ - Video - WELT | https://www.welt.de/wirtschaft/video696787b196b63b90d87f58d5/trotz-zollstreits-china-ist-nicht-ersetzbar-in-den-internationalen-lieferketten.html |
+| Lieferkette | USA fordern Partnerländer auf, bei wichtigen Rohstoffen unabhängiger von China zu werden | https://www.focus.de/finanzen/news/usa-fordern-partnerlaender-auf-bei-wichtigen-rohstoffen-unabhaengiger-von-china-zu-werden_5eda9961-de3b-4e9e-a470-ca8547f89ac7.html |
 | Lieferkette | Seltene Erden: Wie Europa sich aus der Abhängigkeit befreien will | https://www.zeit.de/2025/54/seltene-erden-china-europa-industrie-abhaengigkeit-rohstoffe |
 | Lieferkette | Geoanalytics im Trend: „Es hilft bei Ernteprognosen, Waldbränden und Katastrophenschutz“ - Video - WELT | https://www.welt.de/wirtschaft/video6942a1a9b83be38bded693e7/geoanalytics-im-trend-es-hilft-bei-ernteprognosen-waldbraenden-und-katastrophenschutz.html |
 | Lieferkette | Rezept für den Wiederaufbau | https://www.mpg.de/25906564/pharmabranche-ukraine |
@@ -42,7 +41,6 @@
 | Lieferkette | Lieferkettengesetz: EU einigt sich auf Abschwächung | https://kurier.at/politik/ausland/lieferketten-gesetz-eu-abgeschwaecht-parlament-grossunternehmen/403110581 |
 | Lieferkette | Kinder- und Zwangsarbeit: Einigung auf abgeschwächtes EU-Lieferkettengesetz erzielt | https://www.kleinezeitung.at/politik/eu/20387624/einigung-auf-abgeschwaechtes-eu-lieferkettengesetz-erzielt |
 | Lieferkette | Noch nicht in Kraft, schon wird abgeschwächt: EU will Lieferkettengesetz ändern | https://www.diepresse.com/20387626/einigung-auf-abgeschwaechtes-eu-lieferkettengesetz-erzielt |
-| Lieferkette | Europäische Union: EU einigt sich auf Abschwächung des Lieferkettengesetzes | https://www.zeit.de/politik/ausland/2025-12/eu-lieferkettengesetz-einigung-abschwaechung-menschenrechte |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | AORUS RTX 5090 Xtreme Waterforce: Modder rüstet zweiten 12V-2x6-Anschluss nach | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67973-aorus-rtx-5090-xtreme-waterforce-modder-ruestet-zweiten-12v-2x6-anschluss-nach.html |
