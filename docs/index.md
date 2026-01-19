@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-18 05:35 UTC*
+*Stand: 2026-01-19 05:44 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
