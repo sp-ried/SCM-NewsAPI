@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-19 05:44 UTC*
+*Stand: 2026-01-20 05:42 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | EU gegen USA und China: Diese Machthebel hat Brüssel wirklich | https://www.focus.de/finanzen/news/eu-gegen-usa-und-china-diese-machthebel-hat-bruessel-wirklich_645de977-b637-4b0e-a037-0285dc9e6c92.html |
 | Lieferkette | Was hinter der seltsamen Silber-Lücke steckt | https://www.welt.de/finanzen/plus696a3ce404401bff3baa52c5/shanghai-102-new-york-90-dollar-das-steckt-hinter-der-seltsamen-silber-luecke.html |
 | Lieferkette | Trotz Zollstreits: „China ist nicht ersetzbar in den internationalen Lieferketten“ - Video - WELT | https://www.welt.de/wirtschaft/video696787b196b63b90d87f58d5/trotz-zollstreits-china-ist-nicht-ersetzbar-in-den-internationalen-lieferketten.html |
 | Lieferkette | USA fordern Partnerländer auf, bei wichtigen Rohstoffen unabhängiger von China zu werden | https://www.focus.de/finanzen/news/usa-fordern-partnerlaender-auf-bei-wichtigen-rohstoffen-unabhaengiger-von-china-zu-werden_5eda9961-de3b-4e9e-a470-ca8547f89ac7.html |
