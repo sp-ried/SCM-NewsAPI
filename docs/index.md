@@ -1,15 +1,17 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-20 05:42 UTC*
+*Stand: 2026-01-21 05:40 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | *(keine Treffer heute)* | -*- |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
-| Luftfracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Wieder mehr Passagiere 2025: Touristen, Luftfracht, Bienen: Aufwind für den Airport Graz | https://www.kleinezeitung.at/wirtschaft/20497567/touristen-luftfracht-bienen-aufwind-fuer-den-airport-graz |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Wien: Wissenschafter: Weltweite Klimaschäden für Österreich teuer | https://www.kleinezeitung.at/service/newsticker/chronik/20497271/wissenschafter-weltweite-klimaschaeden-fuer-oesterreich-teuer |
+| Lieferkette | Geopolitische Spannungen erhöhen Risiken für deutsche Wirtschaft | https://www.presseportal.de/pm/52329/6199869 |
 | Lieferkette | EU gegen USA und China: Diese Machthebel hat Brüssel wirklich | https://www.focus.de/finanzen/news/eu-gegen-usa-und-china-diese-machthebel-hat-bruessel-wirklich_645de977-b637-4b0e-a037-0285dc9e6c92.html |
 | Lieferkette | Was hinter der seltsamen Silber-Lücke steckt | https://www.welt.de/finanzen/plus696a3ce404401bff3baa52c5/shanghai-102-new-york-90-dollar-das-steckt-hinter-der-seltsamen-silber-luecke.html |
 | Lieferkette | Trotz Zollstreits: „China ist nicht ersetzbar in den internationalen Lieferketten“ - Video - WELT | https://www.welt.de/wirtschaft/video696787b196b63b90d87f58d5/trotz-zollstreits-china-ist-nicht-ersetzbar-in-den-internationalen-lieferketten.html |
@@ -17,5 +19,4 @@
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | AORUS RTX 5090 Xtreme Waterforce: Modder rüstet zweiten 12V-2x6-Anschluss nach | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67973-aorus-rtx-5090-xtreme-waterforce-modder-ruestet-zweiten-12v-2x6-anschluss-nach.html |
-| PCB | Bis zu 2.500 W, AiO-Kühler und riesiges Display: MSI GeForce RTX 5090 Lightning zeigt sich erneut | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67831-bis-zu-2-500-w-aio-kuehler-und-riesiges-display-msi-geforce-rtx-5090-lightning-vorgestellt.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
