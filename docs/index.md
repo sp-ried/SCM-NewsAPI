@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-21 05:40 UTC*
+*Stand: 2026-01-22 05:42 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Wieder mehr Passagiere 2025: Touristen, Luftfracht, Bienen: Aufwind für den Airport Graz | https://www.kleinezeitung.at/wirtschaft/20497567/touristen-luftfracht-bienen-aufwind-fuer-den-airport-graz |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Wegen drohender Umwelt- und Gesundheitsgefährdung durch US-Fracking-Gas: Deutsche Umwelthilfe reicht Beschwerden gegen SEFE und EnBW beim BAFA ein | https://www.presseportal.de/pm/22521/6200859 |
 | Lieferkette | Wien: Wissenschafter: Weltweite Klimaschäden für Österreich teuer | https://www.kleinezeitung.at/service/newsticker/chronik/20497271/wissenschafter-weltweite-klimaschaeden-fuer-oesterreich-teuer |
 | Lieferkette | Geopolitische Spannungen erhöhen Risiken für deutsche Wirtschaft | https://www.presseportal.de/pm/52329/6199869 |
 | Lieferkette | EU gegen USA und China: Diese Machthebel hat Brüssel wirklich | https://www.focus.de/finanzen/news/eu-gegen-usa-und-china-diese-machthebel-hat-bruessel-wirklich_645de977-b637-4b0e-a037-0285dc9e6c92.html |
