@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-23 05:39 UTC*
+*Stand: 2026-01-24 05:33 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -18,6 +18,8 @@
 | Lieferkette | Trotz Zollstreits: „China ist nicht ersetzbar in den internationalen Lieferketten“ - Video - WELT | https://www.welt.de/wirtschaft/video696787b196b63b90d87f58d5/trotz-zollstreits-china-ist-nicht-ersetzbar-in-den-internationalen-lieferketten.html |
 | Lieferkette | USA fordern Partnerländer auf, bei wichtigen Rohstoffen unabhängiger von China zu werden | https://www.focus.de/finanzen/news/usa-fordern-partnerlaender-auf-bei-wichtigen-rohstoffen-unabhaengiger-von-china-zu-werden_5eda9961-de3b-4e9e-a470-ca8547f89ac7.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
-| Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
+| Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
+| PCB | Apple-Zulieferer gehackt: Angreifer drohen mit Veröffentlichung sensibler Produktdaten   t3n | https://t3n.de/news/apple-zulieferer-gehackt-angreifer-drohen-mit-veroeffentlichung-sensibler-produktdaten-1726617/ |
 | PCB | AORUS RTX 5090 Xtreme Waterforce: Modder rüstet zweiten 12V-2x6-Anschluss nach | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67973-aorus-rtx-5090-xtreme-waterforce-modder-ruestet-zweiten-12v-2x6-anschluss-nach.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
