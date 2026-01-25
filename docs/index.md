@@ -1,11 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-24 05:33 UTC*
+*Stand: 2026-01-25 05:39 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
-| supply chain | *(keine Treffer heute)* | -*- |
+| supply chain | **Zeitüberschreitung** nach 30s | -*- |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Wieder mehr Passagiere 2025: Touristen, Luftfracht, Bienen: Aufwind für den Airport Graz | https://www.kleinezeitung.at/wirtschaft/20497567/touristen-luftfracht-bienen-aufwind-fuer-den-airport-graz |
