@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-30 05:58 UTC*
+*Stand: 2026-01-31 05:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Wieder mehr Passagiere 2025: Touristen, Luftfracht, Bienen: Aufwind für den Airport Graz | https://www.kleinezeitung.at/wirtschaft/20497567/touristen-luftfracht-bienen-aufwind-fuer-den-airport-graz |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Absatz von Fairtrade-Kakao 2025 deutlich gestiegen / Fairtrade auf der Süßwarenmesse ISM | https://www.presseportal.de/pm/52482/6207443 |
 | Lieferkette | Freihandel mit Indien: Europas strategische Antwort auf Trump und China | https://www.watson.de/politik/international/355096313-eu-und-indien-bauen-freihandelszone-auf-wegen-trump-und-china |
 | Lieferkette | Winter-Chaos lähmt US-Gasproduktion – mit Folgen für Deutschland | https://www.focus.de/finanzen/winter-chaos-laehmt-us-gasproduktion-mit-folgen-fuer-deutschland_c19e8e8c-351b-4c58-98c0-d5ad0c7dedf8.html |
 | Lieferkette | Wegen drohender Umwelt- und Gesundheitsgefährdung durch US-Fracking-Gas: Deutsche Umwelthilfe reicht Beschwerden gegen SEFE und EnBW beim BAFA ein | https://www.presseportal.de/pm/22521/6200859 |
@@ -21,5 +22,4 @@
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
 | PCB | Apple-Zulieferer gehackt: Angreifer drohen mit Veröffentlichung sensibler Produktdaten   t3n | https://t3n.de/news/apple-zulieferer-gehackt-angreifer-drohen-mit-veroeffentlichung-sensibler-produktdaten-1726617/ |
-| PCB | AORUS RTX 5090 Xtreme Waterforce: Modder rüstet zweiten 12V-2x6-Anschluss nach | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/67973-aorus-rtx-5090-xtreme-waterforce-modder-ruestet-zweiten-12v-2x6-anschluss-nach.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
