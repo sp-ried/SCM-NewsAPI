@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-01-31 05:50 UTC*
+*Stand: 2026-02-01 06:05 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -17,7 +17,6 @@
 | Lieferkette | Wien: Wissenschafter: Weltweite Klimaschäden für Österreich teuer | https://www.kleinezeitung.at/service/newsticker/chronik/20497271/wissenschafter-weltweite-klimaschaeden-fuer-oesterreich-teuer |
 | Lieferkette | Geopolitische Spannungen erhöhen Risiken für deutsche Wirtschaft | https://www.presseportal.de/pm/52329/6199869 |
 | Lieferkette | EU gegen USA und China: Diese Machthebel hat Brüssel wirklich | https://www.focus.de/finanzen/news/eu-gegen-usa-und-china-diese-machthebel-hat-bruessel-wirklich_645de977-b637-4b0e-a037-0285dc9e6c92.html |
-| Lieferkette | Was hinter der seltsamen Silber-Lücke steckt | https://www.welt.de/finanzen/plus696a3ce404401bff3baa52c5/shanghai-102-new-york-90-dollar-das-steckt-hinter-der-seltsamen-silber-luecke.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
