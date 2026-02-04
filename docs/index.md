@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-03 06:02 UTC*
+*Stand: 2026-02-04 06:00 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,6 @@
 | Lieferkette | Wegen drohender Umwelt- und Gesundheitsgefährdung durch US-Fracking-Gas: Deutsche Umwelthilfe reicht Beschwerden gegen SEFE und EnBW beim BAFA ein | https://www.presseportal.de/pm/22521/6200859 |
 | Lieferkette | Wien: Wissenschafter: Weltweite Klimaschäden für Österreich teuer | https://www.kleinezeitung.at/service/newsticker/chronik/20497271/wissenschafter-weltweite-klimaschaeden-fuer-oesterreich-teuer |
 | Lieferkette | Geopolitische Spannungen erhöhen Risiken für deutsche Wirtschaft | https://www.presseportal.de/pm/52329/6199869 |
-| Lieferkette | EU gegen USA und China: Diese Machthebel hat Brüssel wirklich | https://www.focus.de/finanzen/news/eu-gegen-usa-und-china-diese-machthebel-hat-bruessel-wirklich_645de977-b637-4b0e-a037-0285dc9e6c92.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
