@@ -1,21 +1,19 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-04 06:00 UTC*
+*Stand: 2026-02-05 06:06 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Körber erhöht seinen Anteil am Godrej Körber Joint-Venture auf 100 Prozent | https://www.presseportal.de/pm/71329/6206714 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
-| Luftfracht | Wieder mehr Passagiere 2025: Touristen, Luftfracht, Bienen: Aufwind für den Airport Graz | https://www.kleinezeitung.at/wirtschaft/20497567/touristen-luftfracht-bienen-aufwind-fuer-den-airport-graz |
+| Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | Absatz von Fairtrade-Kakao 2025 deutlich gestiegen / Fairtrade auf der Süßwarenmesse ISM | https://www.presseportal.de/pm/52482/6207443 |
 | Lieferkette | Freihandel mit Indien: Europas strategische Antwort auf Trump und China | https://www.watson.de/politik/international/355096313-eu-und-indien-bauen-freihandelszone-auf-wegen-trump-und-china |
 | Lieferkette | Winter-Chaos lähmt US-Gasproduktion – mit Folgen für Deutschland | https://www.focus.de/finanzen/winter-chaos-laehmt-us-gasproduktion-mit-folgen-fuer-deutschland_c19e8e8c-351b-4c58-98c0-d5ad0c7dedf8.html |
 | Lieferkette | Wegen drohender Umwelt- und Gesundheitsgefährdung durch US-Fracking-Gas: Deutsche Umwelthilfe reicht Beschwerden gegen SEFE und EnBW beim BAFA ein | https://www.presseportal.de/pm/22521/6200859 |
-| Lieferkette | Wien: Wissenschafter: Weltweite Klimaschäden für Österreich teuer | https://www.kleinezeitung.at/service/newsticker/chronik/20497271/wissenschafter-weltweite-klimaschaeden-fuer-oesterreich-teuer |
-| Lieferkette | Geopolitische Spannungen erhöhen Risiken für deutsche Wirtschaft | https://www.presseportal.de/pm/52329/6199869 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
 | Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
