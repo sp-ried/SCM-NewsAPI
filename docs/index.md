@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-07 05:53 UTC*
+*Stand: 2026-02-08 06:04 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,6 @@
 | Lieferkette | Freihandel mit Indien: Europas strategische Antwort auf Trump und China | https://www.watson.de/politik/international/355096313-eu-und-indien-bauen-freihandelszone-auf-wegen-trump-und-china |
 | Lieferkette | Winter-Chaos lähmt US-Gasproduktion – mit Folgen für Deutschland | https://www.focus.de/finanzen/winter-chaos-laehmt-us-gasproduktion-mit-folgen-fuer-deutschland_c19e8e8c-351b-4c58-98c0-d5ad0c7dedf8.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
-| Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.hna.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
-| Elektronikkomponent | Italienischer “Firmenpranger”: Mitarbeiter sollen über Entlassungen von Kollegen abstimmen | https://www.merkur.de/wirtschaft/italienischer-firmenpranger-mitarbeiter-sollen-ueber-entlassungen-von-kollegen-abstimmen-zr-94136788.html |
-| PCB | Apple-Zulieferer gehackt: Angreifer drohen mit Veröffentlichung sensibler Produktdaten   t3n | https://t3n.de/news/apple-zulieferer-gehackt-angreifer-drohen-mit-veroeffentlichung-sensibler-produktdaten-1726617/ |
+| Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | *(keine Treffer heute)* | -*- |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
