@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-09 06:14 UTC*
+*Stand: 2026-02-10 06:17 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Kosten senken und Prozesse optimieren mit Industrieverpackungen als Wertschöpfungsfaktor | https://www.presseportal.de/pm/114335/6213416 |
 | supply chain | Körber erhöht seinen Anteil am Godrej Körber Joint-Venture auf 100 Prozent | https://www.presseportal.de/pm/71329/6206714 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
