@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-11 06:14 UTC*
+*Stand: 2026-02-12 06:12 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,7 +15,6 @@
 | Lieferkette | Seltene Erden: USA, EU und Japan verkünden Rohstoffpartnerschaft | https://www.kleinezeitung.at/wirtschaft/20549372/usa-planen-eine-handelsallianz-fuer-seltene-erden |
 | Lieferkette | Absatz von Fairtrade-Kakao 2025 deutlich gestiegen / Fairtrade auf der Süßwarenmesse ISM | https://www.presseportal.de/pm/52482/6207443 |
 | Lieferkette | Freihandel mit Indien: Europas strategische Antwort auf Trump und China | https://www.watson.de/politik/international/355096313-eu-und-indien-bauen-freihandelszone-auf-wegen-trump-und-china |
-| Lieferkette | Winter-Chaos lähmt US-Gasproduktion – mit Folgen für Deutschland | https://www.focus.de/finanzen/winter-chaos-laehmt-us-gasproduktion-mit-folgen-fuer-deutschland_c19e8e8c-351b-4c58-98c0-d5ad0c7dedf8.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
