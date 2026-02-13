@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-12 06:12 UTC*
+*Stand: 2026-02-13 06:10 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -14,7 +14,6 @@
 | Lieferkette | Lieferkettengesetz: Wie die USA versuchten, im Europaparlament Einfluss zu nehmen | https://www.spiegel.de/politik/deutschland/lieferkettengesetz-wie-die-usa-versuchten-im-europaparlament-einfluss-zu-nehmen-a-e51c671c-d99c-49b1-916f-230c3fae9642 |
 | Lieferkette | Seltene Erden: USA, EU und Japan verkünden Rohstoffpartnerschaft | https://www.kleinezeitung.at/wirtschaft/20549372/usa-planen-eine-handelsallianz-fuer-seltene-erden |
 | Lieferkette | Absatz von Fairtrade-Kakao 2025 deutlich gestiegen / Fairtrade auf der Süßwarenmesse ISM | https://www.presseportal.de/pm/52482/6207443 |
-| Lieferkette | Freihandel mit Indien: Europas strategische Antwort auf Trump und China | https://www.watson.de/politik/international/355096313-eu-und-indien-bauen-freihandelszone-auf-wegen-trump-und-china |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
