@@ -1,16 +1,17 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-13 06:10 UTC*
+*Stand: 2026-02-14 05:56 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Kosten senken und Prozesse optimieren mit Industrieverpackungen als Wertschöpfungsfaktor | https://www.presseportal.de/pm/114335/6213416 |
-| supply chain | Körber erhöht seinen Anteil am Godrej Körber Joint-Venture auf 100 Prozent | https://www.presseportal.de/pm/71329/6206714 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | Machbarkeit, Kapazität, Lieferzeit: FACTUREE zeigt Top-Fragen an KI-Agenten in der Beschaffung | https://www.presseportal.de/pm/140442/6211247 |
+| Lieferkette | Analyse: Internationale Berichte über Militärtechnologie im Sudan-Konflikt werfen Fragen zu Lieferketten auf | https://www.presseportal.de/pm/182015/6216331 |
+| Lieferkette | Wie Deutschland unabhängiger von China bei Seltenen Erden werden kann | https://t3n.de/news/deep-dive-wie-deutschland-unabhaengiger-von-china-bei-seltenen-erden-werden-kann-1729411/ |
 | Lieferkette | Lieferkettengesetz: Wie die USA versuchten, im Europaparlament Einfluss zu nehmen | https://www.spiegel.de/politik/deutschland/lieferkettengesetz-wie-die-usa-versuchten-im-europaparlament-einfluss-zu-nehmen-a-e51c671c-d99c-49b1-916f-230c3fae9642 |
 | Lieferkette | Seltene Erden: USA, EU und Japan verkünden Rohstoffpartnerschaft | https://www.kleinezeitung.at/wirtschaft/20549372/usa-planen-eine-handelsallianz-fuer-seltene-erden |
 | Lieferkette | Absatz von Fairtrade-Kakao 2025 deutlich gestiegen / Fairtrade auf der Süßwarenmesse ISM | https://www.presseportal.de/pm/52482/6207443 |
