@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-21 05:53 UTC*
+*Stand: 2026-02-22 06:01 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Lula und Modi schließen Abkommen zu Seltenerdmetallen | https://orf.at/stories/3420918/ |
 | Lieferkette | Bei 1300 Medikamenten gibt es Probleme mit dem Nachschub | https://www.diepresse.com/20590584/bei-1300-medikamenten-gibt-es-probleme-mit-dem-nachschub |
 | Lieferkette | Analyse: Internationale Berichte über Militärtechnologie im Sudan-Konflikt werfen Fragen zu Lieferketten auf | https://www.presseportal.de/pm/182015/6216331 |
 | Lieferkette | Wie Deutschland unabhängiger von China bei Seltenen Erden werden kann | https://t3n.de/news/deep-dive-wie-deutschland-unabhaengiger-von-china-bei-seltenen-erden-werden-kann-1729411/ |
