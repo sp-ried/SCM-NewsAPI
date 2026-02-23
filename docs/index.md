@@ -1,5 +1,5 @@
-# SCM News Übersicht
-# News-Übersicht
+# Supply Chain Management News Feed Deutschland
+# Übersicht aktueller Meldungen
 
 *Stand: 2026-02-23 06:13 UTC*
 
