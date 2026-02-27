@@ -1,15 +1,16 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-02-26 06:08 UTC*
+*Stand: 2026-02-27 06:02 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | *(keine Treffer heute)* | -*- |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
-| Luftfracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Lieferketten-Wurm mit eigenem MCP-Server verbreitet sich über GitHub | https://www.heise.de/news/Lieferketten-Wurm-mit-eigenem-MCP-Server-verbreitet-sich-ueber-GitHub-11190554.html?view=print |
 | Lieferkette | EU-Bürokratieabbau: Neue Regeln für Lieferketten und Daten | https://kurier.at/wirtschaft/eu-kmu-klein-und-mittelbetriebe-datenschutz-lieferketten-buerokratie/403134574 |
 | Lieferkette | Lula und Modi schließen Abkommen zu Seltenerdmetallen | https://orf.at/stories/3420918/ |
 | Lieferkette | Bei 1300 Medikamenten gibt es Probleme mit dem Nachschub | https://www.diepresse.com/20590584/bei-1300-medikamenten-gibt-es-probleme-mit-dem-nachschub |
