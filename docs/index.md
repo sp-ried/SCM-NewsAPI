@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-01 06:00 UTC*
+*Stand: 2026-03-02 06:02 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | Versteckte Kosten, lange Lieferzeiten, null Vertrauen: So verlierst du internationale Kunden | https://t3n.de/news/cross-border-e-commerce-studie-internationale-kaeufer-erwartungen-1723541/ |
+| Lieferkette | Naher Osten: Badelt rechnet mit höheren Energiepreisen | https://orf.at/stories/3421768/ |
 | Lieferkette | NORMA zieht mit IFCO Mehrwegsteigen starke Nachhaltigkeitsbilanz für 2025 / Mehr als 4.175 Tonnen CO2 durch ressourcenschonende Transportverpackungen gespart | https://www.presseportal.de/pm/62097/6225170 |
 | Lieferkette | Lieferketten-Wurm mit eigenem MCP-Server verbreitet sich über GitHub | https://www.heise.de/news/Lieferketten-Wurm-mit-eigenem-MCP-Server-verbreitet-sich-ueber-GitHub-11190554.html?view=print |
 | Lieferkette | EU-Bürokratieabbau: Neue Regeln für Lieferketten und Daten | https://kurier.at/wirtschaft/eu-kmu-klein-und-mittelbetriebe-datenschutz-lieferketten-buerokratie/403134574 |
