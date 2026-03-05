@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-04 05:55 UTC*
+*Stand: 2026-03-05 05:59 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,6 +11,10 @@
 | Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | "Ein Regimewechsel im Iran kann das deutsche Wirtschaftswachstum um 0,5 Prozent beschleunigen" | https://www.welt.de/wirtschaft/plus69a5bebb4ffe244904b657ae/top-oekonom-felbermayr-ein-regimewechsel-im-iran-kann-das-deutsche-wirtschaftswachstum-um-0-5-prozent-beschleunigen.html |
 | Lieferzeit | Versteckte Kosten, lange Lieferzeiten, null Vertrauen: So verlierst du internationale Kunden | https://t3n.de/news/cross-border-e-commerce-studie-internationale-kaeufer-erwartungen-1723541/ |
+| Lieferkette | Problematischer Kaffee-Genuss: Neue Studie der Deutschen Umwelthilfe zeigt Abholzung, Pestizideinsatz und Arbeitsrechtsverletzungen in Kaffee-Lieferketten | https://www.presseportal.de/pm/22521/6229043 |
+| Lieferkette | Druck der US-Regierung: Anthropic fliegt aus der Lieferkette von Rüstungsunternehmen - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68449-druck-der-us-regierung-anthropic-fliegt-aus-der-lieferkette-von-ruestungsunternehmen.html |
+| Lieferkette | : | https://taz.de/Visuelle-Kirchenkritik-im-Domschatz/!6157855/ |
+| Lieferkette | "Dann haben wir eine fette Erhöhung der Inflation" | https://www.welt.de/videos/video69a6dae08e29d3d438222225/steigende-preise-wegen-iran-dann-haben-wir-eine-fette-erhoehung-der-inflation.html |
 | Lieferkette | Naher Osten: Badelt rechnet mit höheren Energiepreisen | https://orf.at/stories/3421768/ |
 | Lieferkette | NORMA zieht mit IFCO Mehrwegsteigen starke Nachhaltigkeitsbilanz für 2025 / Mehr als 4.175 Tonnen CO2 durch ressourcenschonende Transportverpackungen gespart | https://www.presseportal.de/pm/62097/6225170 |
 | Lieferkette | Lieferketten-Wurm mit eigenem MCP-Server verbreitet sich über GitHub | https://www.heise.de/news/Lieferketten-Wurm-mit-eigenem-MCP-Server-verbreitet-sich-ueber-GitHub-11190554.html?view=print |
