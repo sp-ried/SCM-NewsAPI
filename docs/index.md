@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-06 05:56 UTC*
+*Stand: 2026-03-07 05:48 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -12,6 +12,7 @@
 | Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | "Ein Regimewechsel im Iran kann das deutsche Wirtschaftswachstum um 0,5 Prozent beschleunigen" | https://www.welt.de/wirtschaft/plus69a5bebb4ffe244904b657ae/top-oekonom-felbermayr-ein-regimewechsel-im-iran-kann-das-deutsche-wirtschaftswachstum-um-0-5-prozent-beschleunigen.html |
 | Lieferzeit | Versteckte Kosten, lange Lieferzeiten, null Vertrauen: So verlierst du internationale Kunden | https://t3n.de/news/cross-border-e-commerce-studie-internationale-kaeufer-erwartungen-1723541/ |
+| Lieferkette | Pentagon stuft Anthropic als Lieferkettenrisiko ein – mit potenziellen Folgen für die gesamte KI-Branche   t3n | https://t3n.de/news/pentagon-stuft-anthropic-als-lieferkettenrisiko-ein-mit-potenziellen-folgen-fuer-die-gesamte-ki-branche-1732730/ |
 | Lieferkette | Merz reist nach Peking, doch die echte Verflechtung liegt anderswo: Was in Taicang über Deutschlands China-Abhängigkeit verrät | https://www.hna.de/wirtschaft/560-deutsche-firmen-in-chinesischer-stadt-was-taicang-ueber-unsere-neue-abhaengigkeit-verraet-zr-94199017.html |
 | Lieferkette | Krieg im Nahen Osten: Droht Supermärkten ein Versorgungsengpass? | https://www.bild.de/leben-wissen/mein-geld-finanzportal/krieg-im-nahen-osten-droht-supermaerkten-ein-versorgungsengpass-69a83803625a8415070ae4bd |
 | Lieferkette | Problematischer Kaffee-Genuss: Neue Studie der Deutschen Umwelthilfe zeigt Abholzung, Pestizideinsatz und Arbeitsrechtsverletzungen in Kaffee-Lieferketten | https://www.presseportal.de/pm/22521/6229043 |
