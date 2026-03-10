@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-09 06:08 UTC*
+*Stand: 2026-03-10 05:56 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -12,6 +12,7 @@
 | Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | "Ein Regimewechsel im Iran kann das deutsche Wirtschaftswachstum um 0,5 Prozent beschleunigen" | https://www.welt.de/wirtschaft/plus69a5bebb4ffe244904b657ae/top-oekonom-felbermayr-ein-regimewechsel-im-iran-kann-das-deutsche-wirtschaftswachstum-um-0-5-prozent-beschleunigen.html |
 | Lieferzeit | Versteckte Kosten, lange Lieferzeiten, null Vertrauen: So verlierst du internationale Kunden | https://t3n.de/news/cross-border-e-commerce-studie-internationale-kaeufer-erwartungen-1723541/ |
+| Lieferkette | KI-Unternehmen Anthropic verklagt US-Regierung | https://orf.at/stories/3423299/ |
 | Lieferkette | Folgen von Iran-Krieg für Österreich: "Spüren Preise und latentes Inflationsrisiko" | https://www.diepresse.com/20657432/folgen-von-iran-krieg-fuer-oesterreich-spueren-preise-und-latentes |
 | Lieferkette | Pentagon stuft Anthropic als Lieferkettenrisiko ein – mit potenziellen Folgen für die gesamte KI-Branche   t3n | https://t3n.de/news/pentagon-stuft-anthropic-als-lieferkettenrisiko-ein-mit-potenziellen-folgen-fuer-die-gesamte-ki-branche-1732730/ |
 | Lieferkette | Merz reist nach Peking, doch die echte Verflechtung liegt anderswo: Was in Taicang über Deutschlands China-Abhängigkeit verrät | https://www.hna.de/wirtschaft/560-deutsche-firmen-in-chinesischer-stadt-was-taicang-ueber-unsere-neue-abhaengigkeit-verraet-zr-94199017.html |
