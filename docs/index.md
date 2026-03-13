@@ -1,18 +1,20 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-12 06:02 UTC*
+*Stand: 2026-03-13 06:00 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | *(keine Treffer heute)* | -*- |
-| Containerfracht | *(keine Treffer heute)* | -*- |
+| Containerfracht | Hapag-Lloyd-Sprecher zum Frachter-Einschlag: „Um 3 Uhr gab es einen Angriff“ | https://www.bild.de/politik/angriff-im-morgengrauen-auf-deutsches-schiff-wir-haben-noch-trinkwasser-fuer-3-bis-4-wochen-69b2b5d338797877ddaa0b83 |
 | Seefracht | Iran-Konflikt fordert Logistiker | https://vorarlberg.orf.at/stories/3344576/ |
 | Luftfracht | DHL baut hunderte Stellen am Luftfrachtdrehkreuz in Leipzig ab | https://www.presseportal.de/pm/47409/6233057 |
 | Luftfracht | Iran-Konflikt fordert Logistiker | https://vorarlberg.orf.at/stories/3344576/ |
 | Luftfracht | Europäischer Gerichtshof: EuGH bestätigt hohe Geldbußen wegen Luftfrachtkartell | https://www.zeit.de/wirtschaft/2026-02/eugh-urteil-kartell-luftfahrt-lufthasa |
 | Lieferzeit | "Ein Regimewechsel im Iran kann das deutsche Wirtschaftswachstum um 0,5 Prozent beschleunigen" | https://www.welt.de/wirtschaft/plus69a5bebb4ffe244904b657ae/top-oekonom-felbermayr-ein-regimewechsel-im-iran-kann-das-deutsche-wirtschaftswachstum-um-0-5-prozent-beschleunigen.html |
 | Lieferzeit | Versteckte Kosten, lange Lieferzeiten, null Vertrauen: So verlierst du internationale Kunden | https://t3n.de/news/cross-border-e-commerce-studie-internationale-kaeufer-erwartungen-1723541/ |
+| Lieferkette | EU beendet Zollbefreiung für Kleinsendungen und sorgt für strukturelle Folgen für E-Commerce und Lieferketten | https://www.presseportal.de/pm/118051/6234500 |
+| Lieferkette | Wien: Hälfte der E-Zigaretten in Europa aus irregulären Quellen | https://www.kleinezeitung.at/service/newsticker/chronik/20669509/haelfte-der-e-zigaretten-in-europa-aus-irregulaeren-quellen |
 | Lieferkette | Risiko für die Lieferkette: Anthropic wehrt sich gegen Einstufung des Pentagons - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68493-risiko-fuer-die-lieferkette-anthropic-wehrt-sich-gegen-einstufung-des-pentagons.html |
 | Lieferkette | KI-Unternehmen Anthropic verklagt US-Regierung | https://orf.at/stories/3423299/ |
 | Lieferkette | Folgen von Iran-Krieg für Österreich: "Spüren Preise und latentes Inflationsrisiko" | https://www.diepresse.com/20657432/folgen-von-iran-krieg-fuer-oesterreich-spueren-preise-und-latentes |
