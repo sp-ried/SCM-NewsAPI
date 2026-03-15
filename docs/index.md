@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-14 05:57 UTC*
+*Stand: 2026-03-15 06:09 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -26,7 +26,6 @@
 | Lieferkette | : | https://taz.de/Visuelle-Kirchenkritik-im-Domschatz/!6157855/ |
 | Lieferkette | "Dann haben wir eine fette Erhöhung der Inflation" | https://www.welt.de/videos/video69a6dae08e29d3d438222225/steigende-preise-wegen-iran-dann-haben-wir-eine-fette-erhoehung-der-inflation.html |
 | Lieferkette | Naher Osten: Badelt rechnet mit höheren Energiepreisen | https://orf.at/stories/3421768/ |
-| Lieferkette | NORMA zieht mit IFCO Mehrwegsteigen starke Nachhaltigkeitsbilanz für 2025 / Mehr als 4.175 Tonnen CO2 durch ressourcenschonende Transportverpackungen gespart | https://www.presseportal.de/pm/62097/6225170 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
