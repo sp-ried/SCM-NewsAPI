@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-17 06:10 UTC*
+*Stand: 2026-03-18 06:10 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -12,7 +12,7 @@
 | Luftfracht | DHL baut hunderte Stellen am Luftfrachtdrehkreuz in Leipzig ab | https://www.presseportal.de/pm/47409/6233057 |
 | Luftfracht | Iran-Konflikt fordert Logistiker | https://vorarlberg.orf.at/stories/3344576/ |
 | Lieferzeit | JD.com: Angriff auf Amazon im europäischen Markt mit Joybuy | https://www.manager-magazin.de/unternehmen/tech/jd-com-angriff-auf-amazon-im-europaeischen-markt-mit-joybuy-a-523c5bc0-4f47-48f5-8004-ae36e5f807ed |
-| Lieferzeit | "Ein Regimewechsel im Iran kann das deutsche Wirtschaftswachstum um 0,5 Prozent beschleunigen" | https://www.welt.de/wirtschaft/plus69a5bebb4ffe244904b657ae/top-oekonom-felbermayr-ein-regimewechsel-im-iran-kann-das-deutsche-wirtschaftswachstum-um-0-5-prozent-beschleunigen.html |
+| Lieferkette | Was dahinter steckt: Düngerpreise explodieren: Steigen nun weltweit die Nahrungsmittelpreise? | https://www.kleinezeitung.at/wirtschaft/20685814/duengerpreise-explodieren-steigen-nun-weltweit-die-nahrungsmittelpreise |
 | Lieferkette | Erste Lieferketten reißen: China reagiert auf Iran-Krieg – deutsche Schlüsselbranche schlägt Alarm | https://www.merkur.de/wirtschaft/iran-krieg-trifft-deutsche-schluesselbranche-erste-lieferketten-reissen-warnung-vor-massiven-engpaessen-94220299.html |
 | Lieferkette | Blockierte Lieferketten, steigende Energiepreise: Was der Iran-Krieg für Rechenzentren bedeutet   t3n | https://t3n.de/news/blockierte-lieferketten-steigende-energiepreise-was-der-iran-krieg-fuer-rechenzentren-bedeutet-1734024/ |
 | Lieferkette | Chemiebranche fürchtet Lieferkettenengpässe wegen Iran-Krieg | https://www.noz.de/deutschland-welt/wirtschaft/artikel/chemiebranche-fuerchtet-lieferkettenengpaesse-wegen-iran-krieg-50162843 |
