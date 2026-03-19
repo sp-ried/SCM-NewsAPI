@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-18 06:10 UTC*
+*Stand: 2026-03-19 06:07 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -27,7 +27,6 @@
 | Lieferkette | Problematischer Kaffee-Genuss: Neue Studie der Deutschen Umwelthilfe zeigt Abholzung, Pestizideinsatz und Arbeitsrechtsverletzungen in Kaffee-Lieferketten | https://www.presseportal.de/pm/22521/6229043 |
 | Lieferkette | Druck der US-Regierung: Anthropic fliegt aus der Lieferkette von Rüstungsunternehmen - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68449-druck-der-us-regierung-anthropic-fliegt-aus-der-lieferkette-von-ruestungsunternehmen.html |
 | Lieferkette | : | https://taz.de/Visuelle-Kirchenkritik-im-Domschatz/!6157855/ |
-| Lieferkette | "Dann haben wir eine fette Erhöhung der Inflation" | https://www.welt.de/videos/video69a6dae08e29d3d438222225/steigende-preise-wegen-iran-dann-haben-wir-eine-fette-erhoehung-der-inflation.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
