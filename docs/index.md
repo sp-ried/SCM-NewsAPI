@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-19 06:07 UTC*
+*Stand: 2026-03-20 06:02 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -24,9 +24,6 @@
 | Lieferkette | Pentagon stuft Anthropic als Lieferkettenrisiko ein – mit potenziellen Folgen für die gesamte KI-Branche   t3n | https://t3n.de/news/pentagon-stuft-anthropic-als-lieferkettenrisiko-ein-mit-potenziellen-folgen-fuer-die-gesamte-ki-branche-1732730/ |
 | Lieferkette | Merz reist nach Peking, doch die echte Verflechtung liegt anderswo: Was in Taicang über Deutschlands China-Abhängigkeit verrät | https://www.hna.de/wirtschaft/560-deutsche-firmen-in-chinesischer-stadt-was-taicang-ueber-unsere-neue-abhaengigkeit-verraet-zr-94199017.html |
 | Lieferkette | Krieg im Nahen Osten: Droht Supermärkten ein Versorgungsengpass? | https://www.bild.de/leben-wissen/mein-geld-finanzportal/krieg-im-nahen-osten-droht-supermaerkten-ein-versorgungsengpass-69a83803625a8415070ae4bd |
-| Lieferkette | Problematischer Kaffee-Genuss: Neue Studie der Deutschen Umwelthilfe zeigt Abholzung, Pestizideinsatz und Arbeitsrechtsverletzungen in Kaffee-Lieferketten | https://www.presseportal.de/pm/22521/6229043 |
-| Lieferkette | Druck der US-Regierung: Anthropic fliegt aus der Lieferkette von Rüstungsunternehmen - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68449-druck-der-us-regierung-anthropic-fliegt-aus-der-lieferkette-von-ruestungsunternehmen.html |
-| Lieferkette | : | https://taz.de/Visuelle-Kirchenkritik-im-Domschatz/!6157855/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
