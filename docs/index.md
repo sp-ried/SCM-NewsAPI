@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-21 05:52 UTC*
+*Stand: 2026-03-22 06:03 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -20,7 +20,6 @@
 | Lieferkette | Risiko für die Lieferkette: Anthropic wehrt sich gegen Einstufung des Pentagons - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68493-risiko-fuer-die-lieferkette-anthropic-wehrt-sich-gegen-einstufung-des-pentagons.html |
 | Lieferkette | KI-Unternehmen Anthropic verklagt US-Regierung | https://orf.at/stories/3423299/ |
 | Lieferkette | Folgen von Iran-Krieg für Österreich: "Spüren Preise und latentes Inflationsrisiko" | https://www.diepresse.com/20657432/folgen-von-iran-krieg-fuer-oesterreich-spueren-preise-und-latentes |
-| Lieferkette | Pentagon stuft Anthropic als Lieferkettenrisiko ein – mit potenziellen Folgen für die gesamte KI-Branche   t3n | https://t3n.de/news/pentagon-stuft-anthropic-als-lieferkettenrisiko-ein-mit-potenziellen-folgen-fuer-die-gesamte-ki-branche-1732730/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
