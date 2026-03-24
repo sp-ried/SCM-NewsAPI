@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-23 06:15 UTC*
+*Stand: 2026-03-24 06:10 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -19,7 +19,6 @@
 | Lieferkette | Wien: Hälfte der E-Zigaretten in Europa aus irregulären Quellen | https://www.kleinezeitung.at/service/newsticker/chronik/20669509/haelfte-der-e-zigaretten-in-europa-aus-irregulaeren-quellen |
 | Lieferkette | Risiko für die Lieferkette: Anthropic wehrt sich gegen Einstufung des Pentagons - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/68493-risiko-fuer-die-lieferkette-anthropic-wehrt-sich-gegen-einstufung-des-pentagons.html |
 | Lieferkette | KI-Unternehmen Anthropic verklagt US-Regierung | https://orf.at/stories/3423299/ |
-| Lieferkette | Folgen von Iran-Krieg für Österreich: "Spüren Preise und latentes Inflationsrisiko" | https://www.diepresse.com/20657432/folgen-von-iran-krieg-fuer-oesterreich-spueren-preise-und-latentes |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
