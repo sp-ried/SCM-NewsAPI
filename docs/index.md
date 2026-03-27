@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-26 06:16 UTC*
+*Stand: 2026-03-27 06:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,8 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Um bis zu 70 Prozent: Iran-Krieg treibt die Kosten für Luftfracht massiv in die Höhe | https://www.kleinezeitung.at/wirtschaft/20676028/iran-krieg-treibt-die-kosten-fuer-luftfracht-massiv-in-die-hoehe |
 | Lieferzeit | JD.com: Angriff auf Amazon im europäischen Markt mit Joybuy | https://www.manager-magazin.de/unternehmen/tech/jd-com-angriff-auf-amazon-im-europaeischen-markt-mit-joybuy-a-523c5bc0-4f47-48f5-8004-ae36e5f807ed |
+| Lieferkette | Ferrari, Bentley und Rolls-Royce: Blockierte Hormusstraße im Irankrieg zwingt Ferrari zu Lufttransporten | https://www.manager-magazin.de/unternehmen/autoindustrie/ferrari-bentley-und-rolls-royce-blockierte-hormusstrasse-im-irankrieg-zwingt-ferrari-zu-lufttransporten-a-a27fc2c4-28e7-44df-85a1-a83fc4b3ab92 |
+| Lieferkette | Projektarbeit zu Wasser- und Biodiversitätsrisiken: EDEKA-Verbund übernimmt Vorreiterrolle bei Süßwasserschutz- und Biodiversitätsprojekten im Handel | https://www.presseportal.de/pm/51907/6243798 |
 | Lieferkette | Energiekrise: „Die Verbraucher müssen sich darauf einstellen, dass die Kosten steigen“ - Video - WELT | https://www.welt.de/politik/ausland/video69c2ba74af187d606b811b39/energiekrise-die-verbraucher-muessen-sich-darauf-einstellen-dass-die-kosten-steigen.html |
 | Lieferkette | "Unsere Staatsfinanzen sind ruiniert – Der Reformbedarf gigantisch" | https://www.welt.de/politik/deutschland/video69c29637af187d606b8116fa/statement-von-weidel-und-chrupalla-unsere-staatsfinanzen-sind-ruiniert-der-reformbedarf-gigantisch.html |
 | Lieferkette | OMV-Chef: Iran-Krieg ist "echte Unterbrechung" der Lieferketten | https://kurier.at/wirtschaft/omv-chef-stern-iran-krieg-lieferketten-oel-gas-energie/403143865 |
