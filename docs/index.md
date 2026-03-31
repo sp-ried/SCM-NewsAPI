@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-30 06:58 UTC*
+*Stand: 2026-03-31 06:21 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -24,8 +24,8 @@
 | Luftfracht | Der fliegende Wal wird grösser: Airbus setzt auf die Beluga XL | https://www.nzz.ch/mobilitaet/volumentransport-in-der-luft-der-fliegende-wal-wird-noch-groesser-ld.1929554 |
 | Luftfracht | Wie Iran-Krieg und Kosten die deutsche Modeindustrie unter Druck setzen | https://www.wiwo.de/unternehmen/handel/wie-iran-krieg-und-kosten-die-deutsche-modeindustrie-unter-druck-setzen/100209093.html |
 | Luftfracht | Militärische Eskorte an der Straße von Hormus – ein Logistiker... | https://www.diepresse.com/20679711/militaerische-eskorte-an-der-strasse-von-hormus-ein-logistiker-sagt-wer |
-| Luftfracht | Um bis zu 70 Prozent: Iran-Krieg treibt die Kosten für Luftfracht massiv in die Höhe | https://www.kleinezeitung.at/wirtschaft/20676028/iran-krieg-treibt-die-kosten-fuer-luftfracht-massiv-in-die-hoehe |
 | Lieferzeit | Elektro-Reisebus-Flotte in Salzburg gestartet | https://salzburg.orf.at/stories/3347539/ |
+| Lieferkette | KitKat-Diebstahl: Lastwagen mit 12 Tonnen Schokoriegel gestohlen | https://kurier.at/chronik/welt/kitkat-lastwagen-diebstahl-gestohlen-polen-italien/403146059 |
 | Lieferkette | Mercedes-Benz, BMW und VW als Kunden: Autokrise stürzt weiteres Industrieunternehmen in die Insolvenz | https://www.merkur.de/wirtschaft/autokrise-stuerzt-weiteres-industrieunternehmen-in-die-insolvenz-94236483.html |
 | Lieferkette | Die Lieferkette denkt mit - eine BearingPoint-Studie zeigt, wie erfolgreiche Unternehmen auf Zölle und geopolitische Spannungen reagieren | https://www.presseportal.de/pm/68073/6243571 |
 | Lieferkette | Datensicherheit: Wie Cyberkriminelle über Dienstleister Unternehmen angreifen | https://www.handelsblatt.com/technik/it-internet/datensicherheit-wie-cyberkriminelle-ueber-dienstleister-unternehmen-angreifen/100204863.html |
@@ -40,8 +40,6 @@
 | Lieferkette | Trump nutzt Zwangsarbeit als neuen Hebel für Zölle gegen die Schweiz | https://www.tagesanzeiger.ch/zwangsarbeit-trump-droht-schweiz-mit-neuen-zoellen-754553725846 |
 | Lieferkette | Navigation in der Straße von Hormus: GPS-Spoofing nimmt Schiffen am Persischen Golf die Orientierung | https://www.spektrum.de/news/navigation-gps-spoofing-stoert-schiffe-in-der-strasse-von-hormus/2314725 |
 | Lieferkette | Energiespeicher: Tesla und LG Energy bauen neue Batteriefabrik in Michigan | https://www.handelsblatt.com/unternehmen/energie/energiespeicher-tesla-und-lg-energy-bauen-neue-batteriefabrik-in-michigan/100209052.html |
-| Lieferkette | Blockierte Lieferketten, steigende Energiepreise: Was der Iran-Krieg für Rechenzentren bedeutet   t3n | https://t3n.de/news/blockierte-lieferketten-steigende-energiepreise-was-der-iran-krieg-fuer-rechenzentren-bedeutet-1734024/ |
-| Lieferkette | Iran-Krieg: Die Industrie der Golf-Staaten steckt in einer Sackgasse | https://www.wiwo.de/technologie/wirtschaft-von-oben/iran-krieg-die-industrie-der-golf-staaten-steckt-in-einer-sackgasse/100206933.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
