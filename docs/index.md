@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-03-31 06:21 UTC*
+*Stand: 2026-04-01 06:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -39,7 +39,6 @@
 | Lieferkette | Kerosinmangel zwingt Pakistans Flughäfen zu ungewöhnlicher Maßnahme | https://www.focus.de/finanzen/kerosinmangel-zwingt-pakistans-flughaefen-zu-ungewoehnlicher-massnahme_805c6ee0-4256-413f-a301-e73ab240cb28.html |
 | Lieferkette | Trump nutzt Zwangsarbeit als neuen Hebel für Zölle gegen die Schweiz | https://www.tagesanzeiger.ch/zwangsarbeit-trump-droht-schweiz-mit-neuen-zoellen-754553725846 |
 | Lieferkette | Navigation in der Straße von Hormus: GPS-Spoofing nimmt Schiffen am Persischen Golf die Orientierung | https://www.spektrum.de/news/navigation-gps-spoofing-stoert-schiffe-in-der-strasse-von-hormus/2314725 |
-| Lieferkette | Energiespeicher: Tesla und LG Energy bauen neue Batteriefabrik in Michigan | https://www.handelsblatt.com/unternehmen/energie/energiespeicher-tesla-und-lg-energy-bauen-neue-batteriefabrik-in-michigan/100209052.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
