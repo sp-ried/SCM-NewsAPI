@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-01 06:52 UTC*
+*Stand: 2026-04-02 06:17 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Malware auf npm: HTTP-Client axios lädt Backdoor für Windows, macOS und Linux | https://www.heise.de/news/Malware-auf-npm-HTTP-Client-axios-laedt-Backdoor-fuer-Windows-macOS-und-Linux-11242675.html |
 | supply chain | Iran-Krieg: Wie Europas Logistikkonzerne ihre Lieferketten absichern | https://www.handelsblatt.com/unternehmen/dienstleister/iran-krieg-wie-europas-logistikkonzerne-ihre-lieferketten-absichern/100210353.html |
 | supply chain | Anthropic: US-Gericht blockiert Pentagon-Sperre gegen KI-Firma | https://www.manager-magazin.de/unternehmen/tech/anthropic-us-gericht-blockiert-pentagon-sperre-gegen-ki-firma-a-ec1f6660-210b-441b-9067-cec058aac410 |
 | supply chain | US-Gericht blockiert Pentagon-Sanktionen gegen Anthropic | https://www.spiegel.de/wirtschaft/usa-gericht-blockiert-pentagon-sanktionen-gegen-anthropic-a-fe811dc3-d775-49ab-9322-ca5f0b731c6b |
@@ -22,9 +23,10 @@
 | Seefracht | Millionen für Hormus-Durchfahrt: Irans Geschäft mit der Verzweiflung | https://www.focus.de/politik/manche-laender-sind-bereit-sein-zu-zahlen-millionen-fuer-hormus-durchfahrt-irans-geschaeft-mit-der-verzweiflung_01cf09f3-23e8-480f-9829-41b6bec53dd8.html |
 | Luftfracht | Ferrari, Bentley und Rolls-Royce: Blockierte Hormusstraße im Irankrieg zwingt Ferrari zu Lufttransporten | https://www.manager-magazin.de/unternehmen/autoindustrie/ferrari-bentley-und-rolls-royce-blockierte-hormusstrasse-im-irankrieg-zwingt-ferrari-zu-lufttransporten-a-a27fc2c4-28e7-44df-85a1-a83fc4b3ab92 |
 | Luftfracht | Der fliegende Wal wird grösser: Airbus setzt auf die Beluga XL | https://www.nzz.ch/mobilitaet/volumentransport-in-der-luft-der-fliegende-wal-wird-noch-groesser-ld.1929554 |
-| Luftfracht | Wie Iran-Krieg und Kosten die deutsche Modeindustrie unter Druck setzen | https://www.wiwo.de/unternehmen/handel/wie-iran-krieg-und-kosten-die-deutsche-modeindustrie-unter-druck-setzen/100209093.html |
-| Luftfracht | Militärische Eskorte an der Straße von Hormus – ein Logistiker... | https://www.diepresse.com/20679711/militaerische-eskorte-an-der-strasse-von-hormus-ein-logistiker-sagt-wer |
+| Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
 | Lieferzeit | Elektro-Reisebus-Flotte in Salzburg gestartet | https://salzburg.orf.at/stories/3347539/ |
+| Lieferkette | Irisches Aluminium für Russland: „Das könnte die Ziele der Nato untergraben“ | https://taz.de/Irisches-Aluminium-fuer-Russland/!6167686/ |
+| Lieferkette | China erhält die erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch unerschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-die-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-unerschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
 | Lieferkette | KitKat-Diebstahl: Lastwagen mit 12 Tonnen Schokoriegel gestohlen | https://kurier.at/chronik/welt/kitkat-lastwagen-diebstahl-gestohlen-polen-italien/403146059 |
 | Lieferkette | Mercedes-Benz, BMW und VW als Kunden: Autokrise stürzt weiteres Industrieunternehmen in die Insolvenz | https://www.merkur.de/wirtschaft/autokrise-stuerzt-weiteres-industrieunternehmen-in-die-insolvenz-94236483.html |
 | Lieferkette | Die Lieferkette denkt mit - eine BearingPoint-Studie zeigt, wie erfolgreiche Unternehmen auf Zölle und geopolitische Spannungen reagieren | https://www.presseportal.de/pm/68073/6243571 |
@@ -37,9 +39,7 @@
 | Lieferkette | Rohstoffe: Wichtiger Lithiumproduzent erzwingt Investitionen mit Exportstopp | https://www.handelsblatt.com/politik/international/rohstoffe-wichtiger-lithiumproduzent-erzwingt-investitionen-mit-exportstopp/100205475.html |
 | Lieferkette | Steigende Spritpreise belasten Betriebe | https://ooe.orf.at/stories/3346253/ |
 | Lieferkette | Kerosinmangel zwingt Pakistans Flughäfen zu ungewöhnlicher Maßnahme | https://www.focus.de/finanzen/kerosinmangel-zwingt-pakistans-flughaefen-zu-ungewoehnlicher-massnahme_805c6ee0-4256-413f-a301-e73ab240cb28.html |
-| Lieferkette | Trump nutzt Zwangsarbeit als neuen Hebel für Zölle gegen die Schweiz | https://www.tagesanzeiger.ch/zwangsarbeit-trump-droht-schweiz-mit-neuen-zoellen-754553725846 |
-| Lieferkette | Navigation in der Straße von Hormus: GPS-Spoofing nimmt Schiffen am Persischen Golf die Orientierung | https://www.spektrum.de/news/navigation-gps-spoofing-stoert-schiffe-in-der-strasse-von-hormus/2314725 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | *(keine Treffer heute)* | -*- |
+| PCB | Glitzer als Feature: NVIDIA GeForce RTX 5090 Princess Edition – Mehr FPS durch Glitzer? - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/grafikkarten/68677-nvidia-geforce-rtx-5090-princess-edition-%E2%80%93-mehr-fps-durch-glitzer.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
