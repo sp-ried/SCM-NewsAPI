@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-03 06:17 UTC*
+*Stand: 2026-04-04 06:08 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,14 +16,12 @@
 | supply chain | Supply-Chain-Attacke auf LiteLLM: Betroffene sollen Credentials sofort ändern | https://www.heise.de/news/Supply-Chain-Attacke-auf-LiteLLM-Betroffene-sollen-Credentials-sofort-aendern-11223618.html |
 | supply chain | Datensicherheit: Wie Cyberkriminelle über Dienstleister Unternehmen angreifen | https://www.handelsblatt.com/technik/it-internet/datensicherheit-wie-cyberkriminelle-ueber-dienstleister-unternehmen-angreifen/100204863.html |
 | supply chain | Beiersdorf zieht von Basel nach Zürich – und hebt Löhne der Mitarbeitenden an | https://www.nzz.ch/zuerich/nivea-hersteller-beiersdorf-zieht-vom-steuerguenstigen-basel-ins-teure-zuerich-um-und-hebt-auch-den-lohn-der-betroffenen-angestellten-auf-zuercher-niveau-an-ld.1930773 |
-| supply chain | Hormus-Blockade trifft europäische Länder unterschiedlich stark | https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html |
-| supply chain | Iran-Krieg: Hormus-Blockade belastet Italien stärker als Deutschland | https://www.spiegel.de/wirtschaft/iran-krieg-hormus-blockade-belastet-italien-staerker-als-deutschland-a-d25d3f51-d4f5-4375-9df3-846262bcf064 |
-| supply chain | Wie wirkt sich die Hormus-Blockade auf Österreich aus? | https://kurier.at/politik/ausland/hormuz-blockade-oesterreich/403142286 |
 | Containerfracht | Iran-Krieg: Containerschifffahrt massiv gestört, Notfallpläne bei Hapag-Lloyd | https://www.manager-magazin.de/unternehmen/handel/iran-krieg-containerschifffahrt-massiv-gestoert-notfallplaene-bei-hapag-lloyd-a-da4df9e2-acc4-45da-9c63-42d4b8356145 |
 | Seefracht | Millionen für Hormus-Durchfahrt: Irans Geschäft mit der Verzweiflung | https://www.focus.de/politik/manche-laender-sind-bereit-sein-zu-zahlen-millionen-fuer-hormus-durchfahrt-irans-geschaeft-mit-der-verzweiflung_01cf09f3-23e8-480f-9829-41b6bec53dd8.html |
 | Luftfracht | Ferrari, Bentley und Rolls-Royce: Blockierte Hormusstraße im Irankrieg zwingt Ferrari zu Lufttransporten | https://www.manager-magazin.de/unternehmen/autoindustrie/ferrari-bentley-und-rolls-royce-blockierte-hormusstrasse-im-irankrieg-zwingt-ferrari-zu-lufttransporten-a-a27fc2c4-28e7-44df-85a1-a83fc4b3ab92 |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
 | Lieferzeit | Elektro-Reisebus-Flotte in Salzburg gestartet | https://salzburg.orf.at/stories/3347539/ |
+| Lieferkette | Iran-Krieg: Hyundai meldet gestörte Lieferkette | https://www.wiwo.de/unternehmen/auto/iran-krieg-hyundai-meldet-gestoerte-lieferkette/100214289.html |
 | Lieferkette | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | Lieferkette | Irisches Aluminium für Russland: „Das könnte die Ziele der Nato untergraben“ | https://taz.de/Irisches-Aluminium-fuer-Russland/!6167686/ |
 | Lieferkette | China erhält die erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch unerschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-die-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-unerschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
@@ -40,5 +38,6 @@
 | Lieferkette | Steigende Spritpreise belasten Betriebe | https://ooe.orf.at/stories/3346253/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
 | PCB | Glitzer als Feature: NVIDIA GeForce RTX 5090 Princess Edition – Mehr FPS durch Glitzer? - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/grafikkarten/68677-nvidia-geforce-rtx-5090-princess-edition-%E2%80%93-mehr-fps-durch-glitzer.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
