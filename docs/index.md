@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-04 06:08 UTC*
+*Stand: 2026-04-05 06:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,7 @@
 | supply chain | Supply-Chain-Attacke auf LiteLLM: Betroffene sollen Credentials sofort ändern | https://www.heise.de/news/Supply-Chain-Attacke-auf-LiteLLM-Betroffene-sollen-Credentials-sofort-aendern-11223618.html |
 | supply chain | Datensicherheit: Wie Cyberkriminelle über Dienstleister Unternehmen angreifen | https://www.handelsblatt.com/technik/it-internet/datensicherheit-wie-cyberkriminelle-ueber-dienstleister-unternehmen-angreifen/100204863.html |
 | supply chain | Beiersdorf zieht von Basel nach Zürich – und hebt Löhne der Mitarbeitenden an | https://www.nzz.ch/zuerich/nivea-hersteller-beiersdorf-zieht-vom-steuerguenstigen-basel-ins-teure-zuerich-um-und-hebt-auch-den-lohn-der-betroffenen-angestellten-auf-zuercher-niveau-an-ld.1930773 |
-| Containerfracht | Iran-Krieg: Containerschifffahrt massiv gestört, Notfallpläne bei Hapag-Lloyd | https://www.manager-magazin.de/unternehmen/handel/iran-krieg-containerschifffahrt-massiv-gestoert-notfallplaene-bei-hapag-lloyd-a-da4df9e2-acc4-45da-9c63-42d4b8356145 |
+| Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Millionen für Hormus-Durchfahrt: Irans Geschäft mit der Verzweiflung | https://www.focus.de/politik/manche-laender-sind-bereit-sein-zu-zahlen-millionen-fuer-hormus-durchfahrt-irans-geschaeft-mit-der-verzweiflung_01cf09f3-23e8-480f-9829-41b6bec53dd8.html |
 | Luftfracht | Ferrari, Bentley und Rolls-Royce: Blockierte Hormusstraße im Irankrieg zwingt Ferrari zu Lufttransporten | https://www.manager-magazin.de/unternehmen/autoindustrie/ferrari-bentley-und-rolls-royce-blockierte-hormusstrasse-im-irankrieg-zwingt-ferrari-zu-lufttransporten-a-a27fc2c4-28e7-44df-85a1-a83fc4b3ab92 |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
@@ -35,7 +35,6 @@
 | Lieferkette | Energiekrise? Für Konzerne ein Geschäft | https://kurier.at/meinung/gastkommentare/energiekrise-fuer-konzerne-ein-geschaeft/403143406 |
 | Lieferkette | Rohstoffe: Wichtiger Lithiumproduzent erzwingt Investitionen mit Exportstopp | https://www.handelsblatt.com/politik/international/rohstoffe-wichtiger-lithiumproduzent-erzwingt-investitionen-mit-exportstopp-01/100205475.html |
 | Lieferkette | Rohstoffe: Wichtiger Lithiumproduzent erzwingt Investitionen mit Exportstopp | https://www.handelsblatt.com/politik/international/rohstoffe-wichtiger-lithiumproduzent-erzwingt-investitionen-mit-exportstopp/100205475.html |
-| Lieferkette | Steigende Spritpreise belasten Betriebe | https://ooe.orf.at/stories/3346253/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
