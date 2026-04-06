@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-05 06:18 UTC*
+*Stand: 2026-04-06 07:00 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -21,6 +21,7 @@
 | Luftfracht | Ferrari, Bentley und Rolls-Royce: Blockierte Hormusstraße im Irankrieg zwingt Ferrari zu Lufttransporten | https://www.manager-magazin.de/unternehmen/autoindustrie/ferrari-bentley-und-rolls-royce-blockierte-hormusstrasse-im-irankrieg-zwingt-ferrari-zu-lufttransporten-a-a27fc2c4-28e7-44df-85a1-a83fc4b3ab92 |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
 | Lieferzeit | Elektro-Reisebus-Flotte in Salzburg gestartet | https://salzburg.orf.at/stories/3347539/ |
+| Lieferkette | China erhält erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch nicht erschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-nicht-erschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
 | Lieferkette | Iran-Krieg: Hyundai meldet gestörte Lieferkette | https://www.wiwo.de/unternehmen/auto/iran-krieg-hyundai-meldet-gestoerte-lieferkette/100214289.html |
 | Lieferkette | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | Lieferkette | Irisches Aluminium für Russland: „Das könnte die Ziele der Nato untergraben“ | https://taz.de/Irisches-Aluminium-fuer-Russland/!6167686/ |
@@ -34,7 +35,6 @@
 | Lieferkette | Ukraine-Krieg: SP-Roth will Exportkontrollen für CH-Produkte | https://www.blick.ch/politik/sp-staenderaetin-will-kontrollen-keine-schweizer-teile-fuer-den-russischen-angriffskrieg-id21805865.html |
 | Lieferkette | Energiekrise? Für Konzerne ein Geschäft | https://kurier.at/meinung/gastkommentare/energiekrise-fuer-konzerne-ein-geschaeft/403143406 |
 | Lieferkette | Rohstoffe: Wichtiger Lithiumproduzent erzwingt Investitionen mit Exportstopp | https://www.handelsblatt.com/politik/international/rohstoffe-wichtiger-lithiumproduzent-erzwingt-investitionen-mit-exportstopp-01/100205475.html |
-| Lieferkette | Rohstoffe: Wichtiger Lithiumproduzent erzwingt Investitionen mit Exportstopp | https://www.handelsblatt.com/politik/international/rohstoffe-wichtiger-lithiumproduzent-erzwingt-investitionen-mit-exportstopp/100205475.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
