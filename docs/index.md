@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-13 07:21 UTC*
+*Stand: 2026-04-14 06:58 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,10 +11,11 @@
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
-| Seefracht | Millionen für Hormus-Durchfahrt: Irans Geschäft mit der Verzweiflung | https://www.focus.de/politik/manche-laender-sind-bereit-sein-zu-zahlen-millionen-fuer-hormus-durchfahrt-irans-geschaeft-mit-der-verzweiflung_01cf09f3-23e8-480f-9829-41b6bec53dd8.html |
 | Luftfracht | Kerosinknappheit und Flugausfälle in Europa und Asien | https://www.sueddeutsche.de/wirtschaft/kerosinknappheit-flugausfaelle-europa-asien-li.3461678 |
+| Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
+| Lieferkette | Mit vier Tipps sparen Sie Lebensmittel und Geld | https://www.focus.de/finanzen/mit-vier-tipps-sparen-sie-lebensmittel-und-geld_76ff3dab-742f-4de5-ad4a-5808a3d488e5.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Diese Produkte sollten Ihre Haustiere nicht fressen | https://www.merkur.de/verbraucher/hunde-und-katzenfutter-im-rueckruf-diese-produkte-sollten-ihre-haustiere-nicht-fressen-94258672.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Verzehr kann Ihre Haustiere gefährden | https://www.hna.de/verbraucher/rueckruf-von-hunde-und-katzenfutter-verzehr-kann-ihre-vierbeiner-gefaehrden-zr-94258460.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Verzehr kann Ihre Haustiere gefährden | https://www.merkur.de/verbraucher/rueckruf-von-hunde-und-katzenfutter-verzehr-kann-ihre-vierbeiner-gefaehrden-zr-94258460.html |
