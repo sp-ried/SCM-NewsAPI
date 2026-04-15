@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-14 06:58 UTC*
+*Stand: 2026-04-15 06:59 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,6 +15,9 @@
 | Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
+| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-1 |
+| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-0 |
+| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806 |
 | Lieferkette | Mit vier Tipps sparen Sie Lebensmittel und Geld | https://www.focus.de/finanzen/mit-vier-tipps-sparen-sie-lebensmittel-und-geld_76ff3dab-742f-4de5-ad4a-5808a3d488e5.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Diese Produkte sollten Ihre Haustiere nicht fressen | https://www.merkur.de/verbraucher/hunde-und-katzenfutter-im-rueckruf-diese-produkte-sollten-ihre-haustiere-nicht-fressen-94258672.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Verzehr kann Ihre Haustiere gefährden | https://www.hna.de/verbraucher/rueckruf-von-hunde-und-katzenfutter-verzehr-kann-ihre-vierbeiner-gefaehrden-zr-94258460.html |
@@ -33,7 +36,6 @@
 | Lieferkette | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | Lieferkette | Irisches Aluminium für Russland: „Das könnte die Ziele der Nato untergraben“ | https://taz.de/Irisches-Aluminium-fuer-Russland/!6167686/ |
 | Lieferkette | China erhält die erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch unerschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-die-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-unerschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
-| Lieferkette | KitKat-Diebstahl: Lastwagen mit 12 Tonnen Schokoriegel gestohlen | https://kurier.at/chronik/welt/kitkat-lastwagen-diebstahl-gestohlen-polen-italien/403146059 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
