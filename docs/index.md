@@ -1,20 +1,23 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-15 06:59 UTC*
+*Stand: 2026-04-16 07:01 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | supply chain | axios@1.14.1 Supply Chain Attacke: Was jetzt zu tun ist | https://dev.to/emree_demir/axios1141-supply-chain-attacke-was-jetzt-zu-tun-ist-4jh |
 | supply chain | Malware auf npm: HTTP-Client axios lädt Backdoor für Windows, macOS und Linux | https://www.heise.de/news/Malware-auf-npm-HTTP-Client-axios-laedt-Backdoor-fuer-Windows-macOS-und-Linux-11242675.html |
-| Containerfracht | *(keine Treffer heute)* | -*- |
+| Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Luftfracht | Kerosinknappheit und Flugausfälle in Europa und Asien | https://www.sueddeutsche.de/wirtschaft/kerosinknappheit-flugausfaelle-europa-asien-li.3461678 |
 | Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
 | Lieferzeit | Chips: Ein Jahr Lieferzeit – Chipmangel bedroht Mittelständler | https://www.handelsblatt.com/technik/it-internet/chips-ein-jahr-lieferzeit-chipmangel-bedroht-mittelstaendler/100208889.html |
+| Lieferkette | Rocket Lab schließt Übernahme von Mynaric ab und erweitert sein wachsendes Portfolio an Raumfahrtsystemen um optische Laserkommunikation | https://www.globenewswire.com/news-release/2026/04/15/3274817/0/de/Rocket-Lab-schlie%C3%9Ft-%C3%9Cbernahme-von-Mynaric-ab-und-erweitert-sein-wachsendes-Portfolio-an-Raumfahrtsystemen-um-optische-Laserkommunikation.html |
+| Lieferkette | Aldi zieht Konsequenzen: Neue Regeln für mehr Tierwohl | https://www.watson.de/!825410869 |
+| Lieferkette | Bugs ohne Bounty: Eclipse Foundation startet Sicherheitsprogramm für Open VSX | https://www.heise.de/news/Bugs-ohne-Bounty-Eclipse-Foundation-startet-Sicherheitsprogramm-fuer-Open-VSX-11257225.html |
 | Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-1 |
 | Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-0 |
 | Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806 |
@@ -35,7 +38,6 @@
 | Lieferkette | Impact Analytics gibt strategische Partnerschaft mit AllSaints bekannt | https://www.globenewswire.com/news-release/2026/04/03/3267943/0/de/Impact-Analytics-gibt-strategische-Partnerschaft-mit-AllSaints-bekannt.html |
 | Lieferkette | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | Lieferkette | Irisches Aluminium für Russland: „Das könnte die Ziele der Nato untergraben“ | https://taz.de/Irisches-Aluminium-fuer-Russland/!6167686/ |
-| Lieferkette | China erhält die erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch unerschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-die-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-unerschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
