@@ -1,13 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-17 07:01 UTC*
+*Stand: 2026-04-18 06:17 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Forscher finden 108 Chrome-Erweiterungen, die Werbung einblenden und Daten stehlen   t3n | https://t3n.de/news/forscher-finden-108-chrome-erweiterungen-die-werbung-einblenden-und-daten-stehlen-1738638/ |
-| supply chain | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
-| supply chain | axios@1.14.1 Supply Chain Attacke: Was jetzt zu tun ist | https://dev.to/emree_demir/axios1141-supply-chain-attacke-was-jetzt-zu-tun-ist-4jh |
 | Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
@@ -36,7 +34,6 @@
 | Lieferkette | Iran-Krieg: Hyundai meldet gestörte Lieferkette | https://www.wiwo.de/unternehmen/auto/iran-krieg-hyundai-meldet-gestoerte-lieferkette/100214289.html |
 | Lieferkette | Bekanntgabe der Referenten für The Battery Show Europe 2026 | https://www.globenewswire.com/news-release/2026/04/03/3267951/0/de/Bekanntgabe-der-Referenten-f%C3%BCr-The-Battery-Show-Europe-2026.html |
 | Lieferkette | Impact Analytics gibt strategische Partnerschaft mit AllSaints bekannt | https://www.globenewswire.com/news-release/2026/04/03/3267943/0/de/Impact-Analytics-gibt-strategische-Partnerschaft-mit-AllSaints-bekannt.html |
-| Lieferkette | Störungen in Chancen verwandeln | https://www.presseportal.de/pm/182288/6248880 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
