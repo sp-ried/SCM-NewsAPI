@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-18 06:17 UTC*
+*Stand: 2026-04-19 06:51 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -31,10 +31,7 @@
 | Lieferkette | „Made in Italy, geliefert nach Israel“: Bericht deckt Italiens Rolle bei Israels Krieg in Gaza auf | https://www.nachdenkseiten.de/?p=148810 |
 | Lieferkette | Iran-Krieg: Wie die Kerosin-Knappheit Asiens Airlines trifft | https://www.wiwo.de/unternehmen/industrie/iran-krieg-wie-die-kerosin-knappheit-asiens-airlines-trifft/100214966.html |
 | Lieferkette | China erhält erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch nicht erschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-nicht-erschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
-| Lieferkette | Iran-Krieg: Hyundai meldet gestörte Lieferkette | https://www.wiwo.de/unternehmen/auto/iran-krieg-hyundai-meldet-gestoerte-lieferkette/100214289.html |
-| Lieferkette | Bekanntgabe der Referenten für The Battery Show Europe 2026 | https://www.globenewswire.com/news-release/2026/04/03/3267951/0/de/Bekanntgabe-der-Referenten-f%C3%BCr-The-Battery-Show-Europe-2026.html |
-| Lieferkette | Impact Analytics gibt strategische Partnerschaft mit AllSaints bekannt | https://www.globenewswire.com/news-release/2026/04/03/3267943/0/de/Impact-Analytics-gibt-strategische-Partnerschaft-mit-AllSaints-bekannt.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | Dunkles Wurzelholz mit viel Stil: Gigabyte stellte das X870E Aero X3D Dark Wood vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/68714-dunkles-wurzelholz-mit-viel-stil-gigabyte-stellte-das-x870e-aero-x3d-dark-wood-vor.html |
+| PCB | *(keine Treffer heute)* | -*- |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
