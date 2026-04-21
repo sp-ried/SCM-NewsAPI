@@ -1,17 +1,21 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-20 07:22 UTC*
+*Stand: 2026-04-21 07:02 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Forscher finden 108 Chrome-Erweiterungen, die Werbung einblenden und Daten stehlen   t3n | https://t3n.de/news/forscher-finden-108-chrome-erweiterungen-die-werbung-einblenden-und-daten-stehlen-1738638/ |
+| Containerfracht | Iranisches Schiff gestürmt: USA stolpern immer tiefer in die Eskalationsfalle | https://www.kleinezeitung.at/politik/aussenpolitik/20787619/usa-stolpern-immer-tiefer-in-die-eskalationsfalle |
 | Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
+| Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Luftfracht | Kerosinknappheit und Flugausfälle in Europa und Asien | https://www.sueddeutsche.de/wirtschaft/kerosinknappheit-flugausfaelle-europa-asien-li.3461678 |
 | Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
+| Lieferkette | Klicken Sie hier für Klimafreundlichkeit! | https://www.diepresse.com/20778282/klicken-sie-hier-fuer-klimafreundlichkeit |
+| Lieferkette | Reindustrialisierung tritt in Europa und den USA in selektivere, strategischere Phase ein | https://www.presseportal.de/pm/16952/6259220 |
 | Lieferkette | Variable Blende: Produktion für neue iPhone-Kamera gestartet | https://www.bild.de/leben-wissen/digital/variable-blende-produktion-fuer-neue-iphone-kamera-gestartet-69e0d40a04fccc11ef07a1cc |
 | Lieferkette | Rocket Lab schließt Übernahme von Mynaric ab und erweitert sein wachsendes Portfolio an Raumfahrtsystemen um optische Laserkommunikation | https://www.globenewswire.com/news-release/2026/04/15/3274817/0/de/Rocket-Lab-schlie%C3%9Ft-%C3%9Cbernahme-von-Mynaric-ab-und-erweitert-sein-wachsendes-Portfolio-an-Raumfahrtsystemen-um-optische-Laserkommunikation.html |
 | Lieferkette | Aldi zieht Konsequenzen: Neue Regeln für mehr Tierwohl | https://www.watson.de/!825410869 |
@@ -30,7 +34,6 @@
 | Lieferkette | Aldi Süd setzt als erster deutscher Supermarkt auf tierschutzgerechte Betäubung von Garnelen / Bis 2035 soll die gesamte Lieferkette umgestellt werden | https://www.presseportal.de/pm/181138/6251232 |
 | Lieferkette | „Made in Italy, geliefert nach Israel“: Bericht deckt Italiens Rolle bei Israels Krieg in Gaza auf | https://www.nachdenkseiten.de/?p=148810 |
 | Lieferkette | Iran-Krieg: Wie die Kerosin-Knappheit Asiens Airlines trifft | https://www.wiwo.de/unternehmen/industrie/iran-krieg-wie-die-kerosin-knappheit-asiens-airlines-trifft/100214966.html |
-| Lieferkette | China erhält erste Lieferung von 200.000 Tonnen aus Afrikas größtem noch nicht erschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-noch-nicht-erschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
