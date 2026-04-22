@@ -1,11 +1,13 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-21 07:02 UTC*
+*Stand: 2026-04-22 07:02 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Forscher finden 108 Chrome-Erweiterungen, die Werbung einblenden und Daten stehlen   t3n | https://t3n.de/news/forscher-finden-108-chrome-erweiterungen-die-werbung-einblenden-und-daten-stehlen-1738638/ |
+| Containerfracht | Amerikaner vermuten militärisch nutzbare Güter an Bord des beschlagnahmten Tankers | https://www.focus.de/politik/ausland/amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-des-beschlagnahmten-tankers_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
+| Containerfracht | Beschlagnahmter Frachter: Amerikaner vermuten militärisch nutzbare Güter an Bord von Touska | https://www.focus.de/politik/ausland/beschlagnahmter-frachter-amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-von-touska_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
 | Containerfracht | Iranisches Schiff gestürmt: USA stolpern immer tiefer in die Eskalationsfalle | https://www.kleinezeitung.at/politik/aussenpolitik/20787619/usa-stolpern-immer-tiefer-in-die-eskalationsfalle |
 | Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
