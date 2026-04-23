@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-22 07:02 UTC*
+*Stand: 2026-04-23 07:06 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,7 +13,6 @@
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
-| Luftfracht | Kerosinknappheit und Flugausfälle in Europa und Asien | https://www.sueddeutsche.de/wirtschaft/kerosinknappheit-flugausfaelle-europa-asien-li.3461678 |
 | Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
 | Lieferkette | Klicken Sie hier für Klimafreundlichkeit! | https://www.diepresse.com/20778282/klicken-sie-hier-fuer-klimafreundlichkeit |
@@ -35,7 +34,6 @@
 | Lieferkette | Benzin- und Dieselpreise schießen durch die Decke – und Plastik könnte als Nächstes dran sein | https://t3n.de/news/nach-benzin-und-diesel-auch-kunststoffe-koennten-teurer-werden-und-sie-sind-viel-schwieriger-zu-ersetzen-1737491/ |
 | Lieferkette | Aldi Süd setzt als erster deutscher Supermarkt auf tierschutzgerechte Betäubung von Garnelen / Bis 2035 soll die gesamte Lieferkette umgestellt werden | https://www.presseportal.de/pm/181138/6251232 |
 | Lieferkette | „Made in Italy, geliefert nach Israel“: Bericht deckt Italiens Rolle bei Israels Krieg in Gaza auf | https://www.nachdenkseiten.de/?p=148810 |
-| Lieferkette | Iran-Krieg: Wie die Kerosin-Knappheit Asiens Airlines trifft | https://www.wiwo.de/unternehmen/industrie/iran-krieg-wie-die-kerosin-knappheit-asiens-airlines-trifft/100214966.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
