@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-23 07:06 UTC*
+*Stand: 2026-04-24 07:08 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,6 +10,7 @@
 | Containerfracht | Beschlagnahmter Frachter: Amerikaner vermuten militärisch nutzbare Güter an Bord von Touska | https://www.focus.de/politik/ausland/beschlagnahmter-frachter-amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-von-touska_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
 | Containerfracht | Iranisches Schiff gestürmt: USA stolpern immer tiefer in die Eskalationsfalle | https://www.kleinezeitung.at/politik/aussenpolitik/20787619/usa-stolpern-immer-tiefer-in-die-eskalationsfalle |
 | Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
+| Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.merkur.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Seefracht | Krieg im Nahen Osten löst Schockwelle aus: Darum droht jetzt vielen afrikanischen Ländern eine Krise | https://www.hna.de/politik/krieg-im-nahen-osten-loest-schockwelle-aus-darum-droht-jetzt-vielen-afrikanischen-laendern-eine-krise-zr-94254060.html |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
@@ -29,11 +30,6 @@
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Verzehr kann Ihre Haustiere gefährden | https://www.hna.de/verbraucher/rueckruf-von-hunde-und-katzenfutter-verzehr-kann-ihre-vierbeiner-gefaehrden-zr-94258460.html |
 | Lieferkette | Rückruf von Hunde- und Katzenfutter: Verzehr kann Ihre Haustiere gefährden | https://www.merkur.de/verbraucher/rueckruf-von-hunde-und-katzenfutter-verzehr-kann-ihre-vierbeiner-gefaehrden-zr-94258460.html |
 | Lieferkette | General Motors investiert 150 Millionen Dollar in die Modernisierung des Werks in Saginaw | https://www.focus.de/finanzen/general-motors-investiert-150-millionen-dollar-in-die-modernisierung-des-werks-in-saginaw_03e42144-7417-44d3-99ac-95ee352c3163.html |
-| Lieferkette | China erhält erste Lieferung von 200.000 Tonnen aus Afrikas größtem bisher nicht erschlossenen Eisenerzprojekt | https://www.focus.de/finanzen/news/china-erhaelt-erste-lieferung-von-200-000-tonnen-aus-afrikas-groesstem-bisher-nicht-erschlossenen-eisenerzprojekt_5c7c30ad-1366-4d72-afa7-2a83b7de57ca.html |
-| Lieferkette | Modellbahnen: Roco wirtschaftlich im Aufwind | https://salzburg.orf.at/stories/3349146/ |
-| Lieferkette | Benzin- und Dieselpreise schießen durch die Decke – und Plastik könnte als Nächstes dran sein | https://t3n.de/news/nach-benzin-und-diesel-auch-kunststoffe-koennten-teurer-werden-und-sie-sind-viel-schwieriger-zu-ersetzen-1737491/ |
-| Lieferkette | Aldi Süd setzt als erster deutscher Supermarkt auf tierschutzgerechte Betäubung von Garnelen / Bis 2035 soll die gesamte Lieferkette umgestellt werden | https://www.presseportal.de/pm/181138/6251232 |
-| Lieferkette | „Made in Italy, geliefert nach Israel“: Bericht deckt Italiens Rolle bei Israels Krieg in Gaza auf | https://www.nachdenkseiten.de/?p=148810 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
