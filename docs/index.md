@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-25 06:24 UTC*
+*Stand: 2026-04-26 07:03 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,10 +11,16 @@
 | Containerfracht | Iranisches Schiff gestürmt: USA stolpern immer tiefer in die Eskalationsfalle | https://www.kleinezeitung.at/politik/aussenpolitik/20787619/usa-stolpern-immer-tiefer-in-die-eskalationsfalle |
 | Containerfracht | Kollateralschaden des Irankrieges: Die maritimen Geiseln vom Persischen Golf | https://taz.de/Kollateralschaden-des-Irankrieges/!6171140/ |
 | Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
+| Luftfracht | Energiekosten-Explosion: „Wir machen wieder die gleichen Fehler wie bei der Gaskrise“ | https://www.wiwo.de/politik/europa/energiekosten-explosion-wir-machen-wieder-die-gleichen-fehler-wie-bei-der-gaskrise/100219753.html |
+| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/iqLzymcMr3EPe6hq?ref=rss&ecode=8OMOMSFVQpKddvSm |
+| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/9vv99TnyU6CPithr?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
+| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | Diese Mac-Modelle kann Apple nicht mehr liefern | https://www.bild.de/leben-wissen/digital/diese-mac-modelle-kann-apple-nicht-mehr-liefern-69dd00df5be318f759f0c133 |
 | Lieferzeit | Deutsche Händler entdecken Temu | https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html |
+| Lieferkette | Swissmem-Umfrage zu Iran-Krieg: Die Schweizer Industrie befürchtet Produktionsstörungen | https://www.nzz.ch/wirtschaft/iran-krieg-die-schweizer-industrie-befuerchtet-produktionsstoerungen-ld.10003944 |
+| Lieferkette | Debatte um Wiedereinstieg: So klimafreundlich ist Atomkraft wirklich | https://taz.de/Debatte-um-Wiedereinstieg/!6171812/ |
 | Lieferkette | Rüstungsindustrie: Rheinmetall-Chef berichtet von Hunderttausenden Bewerbungen im Jahr | https://www.zeit.de/wirtschaft/2026-04/rheinmetall-bewerbungen-armin-papperger-zulieferer-autoindustrie |
 | Lieferkette | Rüstungskonzern: Rheinmetall wächst rasant – 350.000 Bewerbungen im Jahr | https://www.handelsblatt.com/unternehmen/industrie/ruestungskonzern-rheinmetall-waechst-rasant-350.000-bewerbungen-im-jahr/100219759.html |
 | Lieferkette | Gebrüder Weiss eröffnet neues Center in Wolfurt | https://vorarlberg.orf.at/stories/3351413/ |
