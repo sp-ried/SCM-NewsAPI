@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-04-29 07:32 UTC*
+*Stand: 2026-04-30 07:36 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -22,6 +22,10 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-bauernmaerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
+| Lieferkette | Airbus: „Wir sehen keine Änderung des Bestellverhaltens“ | https://www.handelsblatt.com/unternehmen/handel-konsumgueter/airbus-wir-sehen-keine-aenderung-des-bestellverhaltens/100220816.html |
+| Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-maerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
+| Lieferkette | Check Point warnt: Cyberkriminelle nehmen Fertigungssektor ins Visier | https://www.presseportal.de/pm/14890/6264919 |
 | Lieferkette | Konflikt mit dem Pentagon: USA wollen Streit mit KI-Firma Anthropic offenbar beilegen | https://www.wiwo.de/unternehmen/it/konflikt-mit-dem-pentagon-usa-wollen-streit-mit-ki-firma-anthropic-offenbar-beilegen/100220902.html |
 | Lieferkette | KI: US-Regierung will Streit mit Anthropic offenbar beilegen | https://www.handelsblatt.com/technik/ki/ki-us-regierung-will-streit-mit-anthropic-offenbar-beilegen/100220891.html |
 | Lieferkette | KI-Agenten statt Apps: OpenAI soll an einem eigenen Smartphone arbeiten   t3n | https://t3n.de/news/ki-agenten-statt-apps-openai-soll-an-eigenen-smartphone-arbeiten-1740145/ |
@@ -39,11 +43,7 @@
 | Lieferkette | Variable Blende: Produktion für neue iPhone-Kamera gestartet | https://www.bild.de/leben-wissen/digital/variable-blende-produktion-fuer-neue-iphone-kamera-gestartet-69e0d40a04fccc11ef07a1cc |
 | Lieferkette | Rocket Lab schließt Übernahme von Mynaric ab und erweitert sein wachsendes Portfolio an Raumfahrtsystemen um optische Laserkommunikation | https://www.globenewswire.com/news-release/2026/04/15/3274817/0/de/Rocket-Lab-schlie%C3%9Ft-%C3%9Cbernahme-von-Mynaric-ab-und-erweitert-sein-wachsendes-Portfolio-an-Raumfahrtsystemen-um-optische-Laserkommunikation.html |
 | Lieferkette | Aldi zieht Konsequenzen: Neue Regeln für mehr Tierwohl | https://www.watson.de/!825410869 |
-| Lieferkette | Bugs ohne Bounty: Eclipse Foundation startet Sicherheitsprogramm für Open VSX | https://www.heise.de/news/Bugs-ohne-Bounty-Eclipse-Foundation-startet-Sicherheitsprogramm-fuer-Open-VSX-11257225.html |
-| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-1 |
-| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806-0 |
-| Lieferkette | Faltbares iPhone: Kommt ein Apple-Foldable im September? | https://www.schweizer-illustrierte.ch/news/faltbares-iphone-kommt-ein-apple-foldable-im-september-927806 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | *(keine Treffer heute)* | -*- |
+| PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
