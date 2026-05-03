@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-02 07:06 UTC*
+*Stand: 2026-05-03 07:24 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | Amerikaner vermuten militärisch nutzbare Güter an Bord des beschlagnahmten Tankers | https://www.focus.de/politik/ausland/amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-des-beschlagnahmten-tankers_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
 | Containerfracht | Beschlagnahmter Frachter: Amerikaner vermuten militärisch nutzbare Güter an Bord von Touska | https://www.focus.de/politik/ausland/beschlagnahmter-frachter-amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-von-touska_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
@@ -22,6 +23,7 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
 | Lieferkette | OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden | https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/ |
 | Lieferkette | Pentagon will KI von sieben Anbietern nutzen | https://orf.at/stories/3428539/ |
 | Lieferkette | Künstliche Intelligenz: Pentagon will KI von diesen sieben Anbietern für geheime Anwendungen nutzen | https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-pentagon-will-ki-von-diesen-sieben-anbietern-fuer-geheime-anwendungen-nutzen/100221659.html |
