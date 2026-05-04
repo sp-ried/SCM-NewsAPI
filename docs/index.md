@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-03 07:24 UTC*
+*Stand: 2026-05-04 07:53 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,6 +13,7 @@
 | Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Nordex startet mit Ergebnissprung ins Jahr | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-nordex-startet-mit-ergebnissprung-ins-jahr/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
+| Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
@@ -23,6 +24,7 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Was hinter der verblüffenden Bilanz von Apple steckt | https://www.focus.de/finanzen/boerse/was-hinter-der-verblueffenden-bilanz-von-apple-steckt_e89c28f5-acbd-4336-a8a7-560f215782e6.html |
 | Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
 | Lieferkette | OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden | https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/ |
 | Lieferkette | Pentagon will KI von sieben Anbietern nutzen | https://orf.at/stories/3428539/ |
@@ -52,4 +54,4 @@
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
-| Materialknappheit | *(keine Treffer heute)* | -*- |
+| Materialknappheit | Materialengpässe infolge des Iran-Kriegs: Autobranche „schafft es nicht aus der Krise“ | https://www.tagesspiegel.de/wirtschaft/materialengpasse-infolge-des-iran-kriegs-autobranche-schafft-es-nicht-aus-der-krise-15552217.html |
