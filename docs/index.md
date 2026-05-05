@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-04 07:53 UTC*
+*Stand: 2026-05-05 07:25 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | Amerikaner vermuten militärisch nutzbare Güter an Bord des beschlagnahmten Tankers | https://www.focus.de/politik/ausland/amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-des-beschlagnahmten-tankers_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
@@ -24,6 +25,8 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Lynas Rare Earths: Die Raffinerie, die Chinas Monopol herausfordert | https://www.nzz.ch/wirtschaft/wie-aus-dreck-ein-begehrter-stoff-wird-von-der-herausforderung-eine-westliche-lieferkette-fuer-seltene-erden-aufzubauen-ld.10003639 |
+| Lieferkette | Infineon: Wie der Halbleiter-Konzern mit dem KI-Skalpell die Chiptestkosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-mit-dem-ki-skalpell-die-chiptestkosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Lieferkette | Was hinter der verblüffenden Bilanz von Apple steckt | https://www.focus.de/finanzen/boerse/was-hinter-der-verblueffenden-bilanz-von-apple-steckt_e89c28f5-acbd-4336-a8a7-560f215782e6.html |
 | Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
 | Lieferkette | OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden | https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/ |
@@ -54,4 +57,5 @@
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
+| Materialknappheit | Autoindustrie meldet schlechte Stimmung und fehlende Vorprodukte | https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-meldet-schlechte-stimmung-und-fehlende-vorprodukte-a-66b421f0-288a-44eb-8935-3fd1c16f1cff |
 | Materialknappheit | Materialengpässe infolge des Iran-Kriegs: Autobranche „schafft es nicht aus der Krise“ | https://www.tagesspiegel.de/wirtschaft/materialengpasse-infolge-des-iran-kriegs-autobranche-schafft-es-nicht-aus-der-krise-15552217.html |
