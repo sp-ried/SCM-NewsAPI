@@ -1,16 +1,17 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-05 07:25 UTC*
+*Stand: 2026-05-06 07:42 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
+| supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
 | supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | Amerikaner vermuten militärisch nutzbare Güter an Bord des beschlagnahmten Tankers | https://www.focus.de/politik/ausland/amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-des-beschlagnahmten-tankers_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
 | Containerfracht | Beschlagnahmter Frachter: Amerikaner vermuten militärisch nutzbare Güter an Bord von Touska | https://www.focus.de/politik/ausland/beschlagnahmter-frachter-amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-von-touska_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
-| Containerfracht | Iranisches Schiff gestürmt: USA stolpern immer tiefer in die Eskalationsfalle | https://www.kleinezeitung.at/politik/aussenpolitik/20787619/usa-stolpern-immer-tiefer-in-die-eskalationsfalle |
 | Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Nordex startet mit Ergebnissprung ins Jahr | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-nordex-startet-mit-ergebnissprung-ins-jahr/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
@@ -23,9 +24,16 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/9vv99TnyU6CPithr?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
-| Luftfracht | „Dann muss man der Wirtschaft Vorzug vor Urlaubsfliegern geben“ – Streit um drohenden Kerosinmangel - WELT | https://www.welt.de/politik/deutschland/article69e60af2b6150a5f72a94d2f/dann-muss-man-der-wirtschaft-vorzug-vor-urlaubsfliegern-geben-streit-um-drohenden-kerosinmangel.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Foodwatch: Nur drei von 84 Lachsprodukten „rückverfolgbar“ | https://orf.at/stories/3428973/ |
+| Lieferkette | Nur drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://kurier.at/wirtschaft/nur-drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar/403157108 |
+| Lieferkette | Wien: Drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://www.kleinezeitung.at/artikel/22299127/drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar |
+| Lieferkette | SK pharmteco erhält SBTi-Validierung für wissenschaftsbasierte Netto-Null-Ziele bis 2040 | https://www.globenewswire.com/news-release/2026/05/05/3288146/0/de/SK-pharmteco-erh%C3%A4lt-SBTi-Validierung-f%C3%BCr-wissenschaftsbasierte-Netto-Null-Ziele-bis-2040.html |
+| Lieferkette | Apple überrascht mit Chip-Plan: Warum der Konzern die Fertigung... | https://www.diepresse.com/22071842/apple-ueberrascht-mit-chip-plan-warum-der-konzern-die-fertigung-aus-zu |
+| Lieferkette | Landwirtschaft in Städten könnte 28 Prozent des Gemüsebedarfs in Europa decken | https://www.merkur.de/wissen/urbane-landwirtschaft-in-europa-koennte-28-prozent-gemuesebedarf-decken-zr-94292305.html |
+| Lieferkette | Digitaler Produktpass mit neuen Funktionen: bonprix bereitet sich frühzeitig auf Ökodesign-Verordnung vor | https://www.presseportal.de/pm/59646/6268829 |
 | Lieferkette | Lynas Rare Earths: Die Raffinerie, die Chinas Monopol herausfordert | https://www.nzz.ch/wirtschaft/wie-aus-dreck-ein-begehrter-stoff-wird-von-der-herausforderung-eine-westliche-lieferkette-fuer-seltene-erden-aufzubauen-ld.10003639 |
+| Lieferkette | Infineon: Wie der Halbleiter-Konzern jeden einzelnen Chip testet und die Kosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-jeden-einzelnen-chip-testet-und-die-kosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Lieferkette | Infineon: Wie der Halbleiter-Konzern mit dem KI-Skalpell die Chiptestkosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-mit-dem-ki-skalpell-die-chiptestkosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Lieferkette | Was hinter der verblüffenden Bilanz von Apple steckt | https://www.focus.de/finanzen/boerse/was-hinter-der-verblueffenden-bilanz-von-apple-steckt_e89c28f5-acbd-4336-a8a7-560f215782e6.html |
 | Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
@@ -47,13 +55,6 @@
 | Lieferkette | „Dreistes Greenwashing“: Umwelthilfe verklagt McDonald's | https://taz.de/Dreistes-Greenwashing/!6174570/ |
 | Lieferkette | Bergbaureformen in der DR Kongo: Eine neue Miliz für ein „sicheres Umfeld“ in Kongos Bergbau | https://taz.de/Bergbaureformen-in-der-DR-Kongo/!6174345/ |
 | Lieferkette | Deutsche Umwelthilfe klagt gegen McDonald's: Dreistes Greenwashing und irreführende Zukunftsversprechen | https://www.presseportal.de/pm/22521/6262962 |
-| Lieferkette | Swissmem-Umfrage zu Iran-Krieg: Die Schweizer Industrie befürchtet Produktionsstörungen | https://www.nzz.ch/wirtschaft/iran-krieg-die-schweizer-industrie-befuerchtet-produktionsstoerungen-ld.10003944 |
-| Lieferkette | Debatte um Wiedereinstieg: So klimafreundlich ist Atomkraft wirklich | https://taz.de/Debatte-um-Wiedereinstieg/!6171812/ |
-| Lieferkette | Rüstungsindustrie: Rheinmetall-Chef berichtet von Hunderttausenden Bewerbungen im Jahr | https://www.zeit.de/wirtschaft/2026-04/rheinmetall-bewerbungen-armin-papperger-zulieferer-autoindustrie |
-| Lieferkette | Rüstungskonzern: Rheinmetall wächst rasant – 350.000 Bewerbungen im Jahr | https://www.handelsblatt.com/unternehmen/industrie/ruestungskonzern-rheinmetall-waechst-rasant-350.000-bewerbungen-im-jahr/100219759.html |
-| Lieferkette | Gebrüder Weiss eröffnet neues Center in Wolfurt | https://vorarlberg.orf.at/stories/3351413/ |
-| Lieferkette | Klicken Sie hier für Klimafreundlichkeit! | https://www.diepresse.com/20778282/klicken-sie-hier-fuer-klimafreundlichkeit |
-| Lieferkette | Reindustrialisierung tritt in Europa und den USA in selektivere, strategischere Phase ein | https://www.presseportal.de/pm/16952/6259220 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
