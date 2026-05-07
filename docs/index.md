@@ -1,17 +1,18 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-06 07:42 UTC*
+*Stand: 2026-05-07 07:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Supply-Chain-Angriff: Daemon Tools verbreitet seit Wochen Schadsoftware - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/software/anwendungsprogramme/68991-supply-chain-angriff-daemon-tools-verbreitet-seit-wochen-schadsoftware.html |
+| supply chain | KURIER.live: Ein Austausch über goldene Werte | https://kurier.at/wirtschaft/karriere/business-people-female-empowerment-hoxton-lisz-hirn-werte/403157283 |
 | supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
 | supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
 | supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
-| Containerfracht | Amerikaner vermuten militärisch nutzbare Güter an Bord des beschlagnahmten Tankers | https://www.focus.de/politik/ausland/amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-des-beschlagnahmten-tankers_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
-| Containerfracht | Beschlagnahmter Frachter: Amerikaner vermuten militärisch nutzbare Güter an Bord von Touska | https://www.focus.de/politik/ausland/beschlagnahmter-frachter-amerikaner-vermuten-militaerisch-nutzbare-gueter-an-bord-von-touska_904efb3f-33b2-4190-82fa-653ac90d00b5.html |
+| Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Nordex startet mit Ergebnissprung ins Jahr | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-nordex-startet-mit-ergebnissprung-ins-jahr/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
@@ -25,6 +26,8 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | HZA-GI: Bundesweite Zollkontrollen bei Paketdienstleistern: Auch Prüfungen in Nord-, Ost- und Mittelhessen | https://www.presseportal.de/blaulicht/pm/121247/6270214 |
+| Lieferkette | Anlage in Gent gebaut: Steirer setzen Meilenstein für nachhaltigen Flugkraftstoff | https://www.kleinezeitung.at/artikel/22428456/steirer-setzen-meilenstein-fuer-nachhaltigen-flugkraftstoff |
 | Lieferkette | Foodwatch: Nur drei von 84 Lachsprodukten „rückverfolgbar“ | https://orf.at/stories/3428973/ |
 | Lieferkette | Nur drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://kurier.at/wirtschaft/nur-drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar/403157108 |
 | Lieferkette | Wien: Drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://www.kleinezeitung.at/artikel/22299127/drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar |
@@ -53,10 +56,9 @@
 | Lieferkette | KI-Agenten statt Apps: OpenAI soll an einem eigenen Smartphone arbeiten   t3n | https://t3n.de/news/ki-agenten-statt-apps-openai-soll-an-eigenen-smartphone-arbeiten-1740145/ |
 | Lieferkette | Halbleiter: Elon Musks Terafab – der riskanteste Chip-Plan der Welt | https://www.handelsblatt.com/technik/it-internet/halbleiter-elon-musks-terafab-der-riskanteste-chip-plan-der-welt/100217924.html |
 | Lieferkette | „Dreistes Greenwashing“: Umwelthilfe verklagt McDonald's | https://taz.de/Dreistes-Greenwashing/!6174570/ |
-| Lieferkette | Bergbaureformen in der DR Kongo: Eine neue Miliz für ein „sicheres Umfeld“ in Kongos Bergbau | https://taz.de/Bergbaureformen-in-der-DR-Kongo/!6174345/ |
-| Lieferkette | Deutsche Umwelthilfe klagt gegen McDonald's: Dreistes Greenwashing und irreführende Zukunftsversprechen | https://www.presseportal.de/pm/22521/6262962 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
+| Materialknappheit | ifo-Institut: Geschäftsklima in Chemieindustrie sinkt auf Dreijahrestief | https://www.handelsblatt.com/unternehmen/industrie/ifo-institut-geschaeftsklima-in-chemieindustrie-sinkt-auf-dreijahrestief/100222845.html |
 | Materialknappheit | Autoindustrie meldet schlechte Stimmung und fehlende Vorprodukte | https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-meldet-schlechte-stimmung-und-fehlende-vorprodukte-a-66b421f0-288a-44eb-8935-3fd1c16f1cff |
 | Materialknappheit | Materialengpässe infolge des Iran-Kriegs: Autobranche „schafft es nicht aus der Krise“ | https://www.tagesspiegel.de/wirtschaft/materialengpasse-infolge-des-iran-kriegs-autobranche-schafft-es-nicht-aus-der-krise-15552217.html |
