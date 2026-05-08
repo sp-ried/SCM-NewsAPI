@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-07 07:50 UTC*
+*Stand: 2026-05-08 06:58 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | supply chain | Supply-Chain-Angriff: Daemon Tools verbreitet seit Wochen Schadsoftware - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/software/anwendungsprogramme/68991-supply-chain-angriff-daemon-tools-verbreitet-seit-wochen-schadsoftware.html |
 | supply chain | KURIER.live: Ein Austausch über goldene Werte | https://kurier.at/wirtschaft/karriere/business-people-female-empowerment-hoxton-lisz-hirn-werte/403157283 |
 | supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
@@ -26,6 +27,7 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | Lieferkette | HZA-GI: Bundesweite Zollkontrollen bei Paketdienstleistern: Auch Prüfungen in Nord-, Ost- und Mittelhessen | https://www.presseportal.de/blaulicht/pm/121247/6270214 |
 | Lieferkette | Anlage in Gent gebaut: Steirer setzen Meilenstein für nachhaltigen Flugkraftstoff | https://www.kleinezeitung.at/artikel/22428456/steirer-setzen-meilenstein-fuer-nachhaltigen-flugkraftstoff |
 | Lieferkette | Foodwatch: Nur drei von 84 Lachsprodukten „rückverfolgbar“ | https://orf.at/stories/3428973/ |
@@ -55,7 +57,6 @@
 | Lieferkette | KI: US-Regierung will Streit mit Anthropic offenbar beilegen | https://www.handelsblatt.com/technik/ki/ki-us-regierung-will-streit-mit-anthropic-offenbar-beilegen/100220891.html |
 | Lieferkette | KI-Agenten statt Apps: OpenAI soll an einem eigenen Smartphone arbeiten   t3n | https://t3n.de/news/ki-agenten-statt-apps-openai-soll-an-eigenen-smartphone-arbeiten-1740145/ |
 | Lieferkette | Halbleiter: Elon Musks Terafab – der riskanteste Chip-Plan der Welt | https://www.handelsblatt.com/technik/it-internet/halbleiter-elon-musks-terafab-der-riskanteste-chip-plan-der-welt/100217924.html |
-| Lieferkette | „Dreistes Greenwashing“: Umwelthilfe verklagt McDonald's | https://taz.de/Dreistes-Greenwashing/!6174570/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
