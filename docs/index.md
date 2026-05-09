@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-08 06:58 UTC*
+*Stand: 2026-05-09 07:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,6 @@
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
 | Seefracht | Geschäftszahlen im Newsblog: Nordex startet mit Ergebnissprung ins Jahr | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-nordex-startet-mit-ergebnissprung-ins-jahr/24098412.html |
-| Seefracht | Geschäftszahlen im Newsblog: Kühne+Nagel spürt Nahost-Konflikt in der Seefracht | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-kuehnenagel-spuert-nahost-konflikt-in-der-seefracht/24098412.html |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
@@ -26,7 +25,10 @@
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/9vv99TnyU6CPithr?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
-| Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
+| Lieferkette | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Formel D: Der Automotive-Dienstleister und der Preis der Krisenjahre | http://www.wiwo.de/unternehmen/auto/formel-d-der-automotive-dienstleister-und-der-preis-der-krisenjahre/100223227.html |
 | Lieferkette | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | Lieferkette | HZA-GI: Bundesweite Zollkontrollen bei Paketdienstleistern: Auch Prüfungen in Nord-, Ost- und Mittelhessen | https://www.presseportal.de/blaulicht/pm/121247/6270214 |
 | Lieferkette | Anlage in Gent gebaut: Steirer setzen Meilenstein für nachhaltigen Flugkraftstoff | https://www.kleinezeitung.at/artikel/22428456/steirer-setzen-meilenstein-fuer-nachhaltigen-flugkraftstoff |
@@ -54,9 +56,6 @@
 | Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-maerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
 | Lieferkette | Check Point warnt: Cyberkriminelle nehmen Fertigungssektor ins Visier | https://www.presseportal.de/pm/14890/6264919 |
 | Lieferkette | Konflikt mit dem Pentagon: USA wollen Streit mit KI-Firma Anthropic offenbar beilegen | https://www.wiwo.de/unternehmen/it/konflikt-mit-dem-pentagon-usa-wollen-streit-mit-ki-firma-anthropic-offenbar-beilegen/100220902.html |
-| Lieferkette | KI: US-Regierung will Streit mit Anthropic offenbar beilegen | https://www.handelsblatt.com/technik/ki/ki-us-regierung-will-streit-mit-anthropic-offenbar-beilegen/100220891.html |
-| Lieferkette | KI-Agenten statt Apps: OpenAI soll an einem eigenen Smartphone arbeiten   t3n | https://t3n.de/news/ki-agenten-statt-apps-openai-soll-an-eigenen-smartphone-arbeiten-1740145/ |
-| Lieferkette | Halbleiter: Elon Musks Terafab – der riskanteste Chip-Plan der Welt | https://www.handelsblatt.com/technik/it-internet/halbleiter-elon-musks-terafab-der-riskanteste-chip-plan-der-welt/100217924.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
