@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-09 07:18 UTC*
+*Stand: 2026-05-10 07:32 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | BörsenWoche 558: Analyse: Das sind die neuen Amazon-Pläne | http://www.wiwo.de/finanzen/boerse/boersenwoche-558-analyse-das-sind-die-neuen-amazon-plaene/100222929.html |
 | supply chain | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | supply chain | Supply-Chain-Angriff: Daemon Tools verbreitet seit Wochen Schadsoftware - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/software/anwendungsprogramme/68991-supply-chain-angriff-daemon-tools-verbreitet-seit-wochen-schadsoftware.html |
 | supply chain | KURIER.live: Ein Austausch über goldene Werte | https://kurier.at/wirtschaft/karriere/business-people-female-empowerment-hoxton-lisz-hirn-werte/403157283 |
@@ -21,11 +22,8 @@
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Energiekosten-Explosion: „Wir machen wieder die gleichen Fehler wie bei der Gaskrise“ | https://www.wiwo.de/politik/europa/energiekosten-explosion-wir-machen-wieder-die-gleichen-fehler-wie-bei-der-gaskrise/100219753.html |
-| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/iqLzymcMr3EPe6hq?ref=rss&ecode=8OMOMSFVQpKddvSm |
-| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/9vv99TnyU6CPithr?ref=rss&ecode=8OMOMSFVQpKddvSm |
-| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/EynDuSY6YOhv3Lb8?ref=rss&ecode=8OMOMSFVQpKddvSm |
-| Luftfracht | Thailand setzt auf Luftfracht-Offensive zur Stärkung von Exporten im Milliardenbereich - Pattaya Mail | https://world.einnews.com/article/907968246/oPZaJq0QR6yKk4__?ref=rss&ecode=8OMOMSFVQpKddvSm |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
 | Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
 | Lieferkette | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
 | Lieferkette | Formel D: Der Automotive-Dienstleister und der Preis der Krisenjahre | http://www.wiwo.de/unternehmen/auto/formel-d-der-automotive-dienstleister-und-der-preis-der-krisenjahre/100223227.html |
@@ -55,7 +53,6 @@
 | Lieferkette | Airbus: „Wir sehen keine Änderung des Bestellverhaltens“ | https://www.handelsblatt.com/unternehmen/handel-konsumgueter/airbus-wir-sehen-keine-aenderung-des-bestellverhaltens/100220816.html |
 | Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-maerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
 | Lieferkette | Check Point warnt: Cyberkriminelle nehmen Fertigungssektor ins Visier | https://www.presseportal.de/pm/14890/6264919 |
-| Lieferkette | Konflikt mit dem Pentagon: USA wollen Streit mit KI-Firma Anthropic offenbar beilegen | https://www.wiwo.de/unternehmen/it/konflikt-mit-dem-pentagon-usa-wollen-streit-mit-ki-firma-anthropic-offenbar-beilegen/100220902.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
