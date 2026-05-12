@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-11 08:32 UTC*
+*Stand: 2026-05-12 07:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,11 +16,12 @@
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
-| Seefracht | Geschäftszahlen im Newsblog: Nordex startet mit Ergebnissprung ins Jahr | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-nordex-startet-mit-ergebnissprung-ins-jahr/24098412.html |
+| Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
+| Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
 | Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
 | Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
