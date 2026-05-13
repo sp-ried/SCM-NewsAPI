@@ -1,10 +1,12 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-12 07:52 UTC*
+*Stand: 2026-05-13 08:08 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
+| supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
 | supply chain | BörsenWoche 558: Analyse: Das sind die neuen Amazon-Pläne | http://www.wiwo.de/finanzen/boerse/boersenwoche-558-analyse-das-sind-die-neuen-amazon-plaene/100222929.html |
 | supply chain | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | supply chain | Supply-Chain-Angriff: Daemon Tools verbreitet seit Wochen Schadsoftware - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/software/anwendungsprogramme/68991-supply-chain-angriff-daemon-tools-verbreitet-seit-wochen-schadsoftware.html |
@@ -15,7 +17,7 @@
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | *(keine Treffer heute)* | -*- |
-| Seefracht | Geschäftszahlen im Newsblog: Edeka-Verbund steigert Umsatz auf 77,3 Milliarden Euro | https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-edeka-verbund-steigert-umsatz-auf-773-milliarden-euro/24098412.html |
+| Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
