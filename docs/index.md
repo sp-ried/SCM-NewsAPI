@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-13 08:08 UTC*
+*Stand: 2026-05-14 07:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,16 +15,16 @@
 | supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
 | supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
-| supply chain | Kritik an Österreichs Abhängigkeit: „Ölversorgung ist auf eine... | https://www.diepresse.com/20948660/kritik-an-oesterreichs-abhaengigkeit-oelversorgung-ist-auf-eine-einzige |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
-| Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
+| Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
 | Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
 | Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
 | Lieferkette | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
@@ -53,8 +53,6 @@
 | Lieferkette | Wenn der Urlaubsflieger ausfällt: Was Reisende jetzt wissen müssen | https://www.hna.de/leben/reise/warum-du-diesen-sommer-lieber-auf-eine-flugreise-verzichten-solltest-kerosinmangel-zr-94286235.html |
 | Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-bauernmaerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
 | Lieferkette | Airbus: „Wir sehen keine Änderung des Bestellverhaltens“ | https://www.handelsblatt.com/unternehmen/handel-konsumgueter/airbus-wir-sehen-keine-aenderung-des-bestellverhaltens/100220816.html |
-| Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-maerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
-| Lieferkette | Check Point warnt: Cyberkriminelle nehmen Fertigungssektor ins Visier | https://www.presseportal.de/pm/14890/6264919 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
