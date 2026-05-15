@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-14 07:52 UTC*
+*Stand: 2026-05-15 08:13 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -17,12 +17,14 @@
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
 | Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
 | Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
 | Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
@@ -51,11 +53,9 @@
 | Lieferkette | iPhone-Konzern: Apple: Deutlich höhere Kosten für Speicherchips | https://www.tagesspiegel.de/gesellschaft/medien/iphone-konzern-apple-deutlich-hohere-kosten-fur-speicherchips-15546424.html |
 | Lieferkette | Apple-Quartalszahlen: iPhone-Konzern mit Rekordquartal – trotz der Lieferengpässe | https://www.wiwo.de/unternehmen/it/iphone-konzern-apple-deutlich-hoehere-kosten-fuer-speicherchips/100221563.html |
 | Lieferkette | Wenn der Urlaubsflieger ausfällt: Was Reisende jetzt wissen müssen | https://www.hna.de/leben/reise/warum-du-diesen-sommer-lieber-auf-eine-flugreise-verzichten-solltest-kerosinmangel-zr-94286235.html |
-| Lieferkette | "Gibt Menschen, die seit 1993 zu uns kommen": Hans (57) und Katleen (47) stehen seit über 30 Jahren auf Märkten | https://www.focus.de/panorama/welt/gibt-menschen-die-seit-1993-zu-uns-kommen-hans-57-und-katleen-47-stehen-seit-ueber-30-jahren-auf-bauernmaerkten_d549c772-f262-42a3-9fab-a39db4277862.html |
-| Lieferkette | Airbus: „Wir sehen keine Änderung des Bestellverhaltens“ | https://www.handelsblatt.com/unternehmen/handel-konsumgueter/airbus-wir-sehen-keine-aenderung-des-bestellverhaltens/100220816.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | Galax und KFA2: Ein weiterer NVIDIA-Partner verschwindet vom Markt - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/68934-galax-und-kfa2-ein-weiterer-nvidia-partner-verschwindet-vom-markt.html |
+| PCB | *(keine Treffer heute)* | -*- |
 | Materialknappheit | ifo-Institut: Geschäftsklima in Chemieindustrie sinkt auf Dreijahrestief | https://www.handelsblatt.com/unternehmen/industrie/ifo-institut-geschaeftsklima-in-chemieindustrie-sinkt-auf-dreijahrestief/100222845.html |
 | Materialknappheit | Autoindustrie meldet schlechte Stimmung und fehlende Vorprodukte | https://www.spiegel.de/wirtschaft/unternehmen/autoindustrie-meldet-schlechte-stimmung-und-fehlende-vorprodukte-a-66b421f0-288a-44eb-8935-3fd1c16f1cff |
 | Materialknappheit | Materialengpässe infolge des Iran-Kriegs: Autobranche „schafft es nicht aus der Krise“ | https://www.tagesspiegel.de/wirtschaft/materialengpasse-infolge-des-iran-kriegs-autobranche-schafft-es-nicht-aus-der-krise-15552217.html |
