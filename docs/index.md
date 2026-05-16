@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-15 08:13 UTC*
+*Stand: 2026-05-16 07:25 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -17,13 +17,15 @@
 | supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
 | Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
-| Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da die Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-die-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
+| Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Amazon eröffnet ein Verteilzentrum in Kassel mit 300 Arbeitsplätzen | https://www.hna.de/kassel/amazon-eroeffnet-ein-verteilzentrum-in-kassel-mit-300-arbeitsplaetzen-94307674.html |
 | Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
 | Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
 | Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
@@ -49,10 +51,6 @@
 | Lieferkette | OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden | https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/ |
 | Lieferkette | Pentagon will KI von sieben Anbietern nutzen | https://orf.at/stories/3428539/ |
 | Lieferkette | Künstliche Intelligenz: Pentagon will KI von diesen sieben Anbietern für geheime Anwendungen nutzen | https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-pentagon-will-ki-von-diesen-sieben-anbietern-fuer-geheime-anwendungen-nutzen/100221659.html |
-| Lieferkette | Apple-Quartalszahlen: iPhone-Konzern mit Rekordquartal – trotz der Lieferengpässe | https://www.wiwo.de/unternehmen/it/apple-quartalszahlen-iphone-konzern-mit-rekordquartal-trotz-der-lieferengpaesse/100221563.html |
-| Lieferkette | iPhone-Konzern: Apple: Deutlich höhere Kosten für Speicherchips | https://www.tagesspiegel.de/gesellschaft/medien/iphone-konzern-apple-deutlich-hohere-kosten-fur-speicherchips-15546424.html |
-| Lieferkette | Apple-Quartalszahlen: iPhone-Konzern mit Rekordquartal – trotz der Lieferengpässe | https://www.wiwo.de/unternehmen/it/iphone-konzern-apple-deutlich-hoehere-kosten-fuer-speicherchips/100221563.html |
-| Lieferkette | Wenn der Urlaubsflieger ausfällt: Was Reisende jetzt wissen müssen | https://www.hna.de/leben/reise/warum-du-diesen-sommer-lieber-auf-eine-flugreise-verzichten-solltest-kerosinmangel-zr-94286235.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
