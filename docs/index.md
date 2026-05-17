@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-16 07:25 UTC*
+*Stand: 2026-05-17 07:41 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -14,14 +14,13 @@
 | supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
 | supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
 | supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
-| supply chain | Developer-Häppchen fürs Wochenende – kleinere News der Woche | https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
 | Luftfracht | Ägypten treibt einen alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-einen-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
-| Luftfracht | Ägypten treibt alternativen Schifffahrtskorridor zwischen Europa und der Golfregion voran, da Verluste in der Straße von Hormus unerträglich werden | https://www.focus.de/finanzen/news/aegypten-treibt-alternativen-schifffahrtskorridor-zwischen-europa-und-der-golfregion-voran-da-verluste-in-der-strasse-von-hormus-unertraeglich-werden_c482651e-cd20-4112-835f-47e52c56b41c.html |
+| Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
@@ -48,9 +47,6 @@
 | Lieferkette | Infineon: Wie der Halbleiter-Konzern mit dem KI-Skalpell die Chiptestkosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-mit-dem-ki-skalpell-die-chiptestkosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Lieferkette | Was hinter der verblüffenden Bilanz von Apple steckt | https://www.focus.de/finanzen/boerse/was-hinter-der-verblueffenden-bilanz-von-apple-steckt_e89c28f5-acbd-4336-a8a7-560f215782e6.html |
 | Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
-| Lieferkette | OpenAI plant offenbar eigenes Smartphone – und könnte Apple und Samsung gefährlich werden | https://t3n.de/news/openai-smartphone-apple-samsung-konkurrenz-1740145/ |
-| Lieferkette | Pentagon will KI von sieben Anbietern nutzen | https://orf.at/stories/3428539/ |
-| Lieferkette | Künstliche Intelligenz: Pentagon will KI von diesen sieben Anbietern für geheime Anwendungen nutzen | https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-pentagon-will-ki-von-diesen-sieben-anbietern-fuer-geheime-anwendungen-nutzen/100221659.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
