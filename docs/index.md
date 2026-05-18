@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-17 07:41 UTC*
+*Stand: 2026-05-18 08:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -24,6 +24,8 @@
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
+| Lieferkette | Weltladentag in Korbach: Faire Früchte zeigen den Weg zu gerechten Löhnen für Bauern | https://www.hna.de/lokales/frankenberg/korbach-ort55370/faire-fruechte-zeigen-den-weg-zu-gerechten-loehnen-fuer-bauern-94309967.html |
 | Lieferkette | Amazon eröffnet ein Verteilzentrum in Kassel mit 300 Arbeitsplätzen | https://www.hna.de/kassel/amazon-eroeffnet-ein-verteilzentrum-in-kassel-mit-300-arbeitsplaetzen-94307674.html |
 | Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
 | Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
@@ -45,8 +47,6 @@
 | Lieferkette | Lynas Rare Earths: Die Raffinerie, die Chinas Monopol herausfordert | https://www.nzz.ch/wirtschaft/wie-aus-dreck-ein-begehrter-stoff-wird-von-der-herausforderung-eine-westliche-lieferkette-fuer-seltene-erden-aufzubauen-ld.10003639 |
 | Lieferkette | Infineon: Wie der Halbleiter-Konzern jeden einzelnen Chip testet und die Kosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-jeden-einzelnen-chip-testet-und-die-kosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Lieferkette | Infineon: Wie der Halbleiter-Konzern mit dem KI-Skalpell die Chiptestkosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-mit-dem-ki-skalpell-die-chiptestkosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
-| Lieferkette | Was hinter der verblüffenden Bilanz von Apple steckt | https://www.focus.de/finanzen/boerse/was-hinter-der-verblueffenden-bilanz-von-apple-steckt_e89c28f5-acbd-4336-a8a7-560f215782e6.html |
-| Lieferkette | Korbacher Weltladen rückt unfairen Handel auf dem globalen Obstmarkt in den Fokus | https://www.hna.de/lokales/frankenberg/korbach-ort55370/fairer-handel-rueckt-ausbeutung-auf-dem-obstmarkt-in-den-fokus-94286146.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
