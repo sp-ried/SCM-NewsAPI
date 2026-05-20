@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-19 08:36 UTC*
+*Stand: 2026-05-20 08:33 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
 | supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
 | supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
 | supply chain | BörsenWoche 558: Analyse: Das sind die neuen Amazon-Pläne | http://www.wiwo.de/finanzen/boerse/boersenwoche-558-analyse-das-sind-die-neuen-amazon-plaene/100222929.html |
@@ -13,16 +14,20 @@
 | supply chain | KURIER.live: Ein Austausch über goldene Werte | https://kurier.at/wirtschaft/karriere/business-people-female-empowerment-hoxton-lisz-hirn-werte/403157283 |
 | supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
 | supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
-| supply chain | Bösartige npm-Pakete: SAP-Software kompromittiert | https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
+| Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | ESET warnt vor neuer KI-Angriffsfläche und investiert 40 Millionen Euro in "AI Security" | https://www.presseportal.de/pm/71571/6278264 |
+| Lieferkette | Karen Hao kritisiert europäischen KI-Kurs | https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/ |
+| Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.merkur.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
+| Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.hna.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
 | Lieferkette | aDvens Threat Report 2025/2026: Sechs Trends in einer immer komplexeren Cyberbedrohungslandschaft | https://www.presseportal.de/pm/180001/6277526 |
 | Lieferkette | Vom Saatgut bis zum Produkt: Amway stellt eigenes Amway Tracing Tool vor | https://www.presseportal.de/pm/182322/6276665 |
 | Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
@@ -45,10 +50,8 @@
 | Lieferkette | Apple überrascht mit Chip-Plan: Warum der Konzern die Fertigung... | https://www.diepresse.com/22071842/apple-ueberrascht-mit-chip-plan-warum-der-konzern-die-fertigung-aus-zu |
 | Lieferkette | Landwirtschaft in Städten könnte 28 Prozent des Gemüsebedarfs in Europa decken | https://www.merkur.de/wissen/urbane-landwirtschaft-in-europa-koennte-28-prozent-gemuesebedarf-decken-zr-94292305.html |
 | Lieferkette | Digitaler Produktpass mit neuen Funktionen: bonprix bereitet sich frühzeitig auf Ökodesign-Verordnung vor | https://www.presseportal.de/pm/59646/6268829 |
-| Lieferkette | Lynas Rare Earths: Die Raffinerie, die Chinas Monopol herausfordert | https://www.nzz.ch/wirtschaft/wie-aus-dreck-ein-begehrter-stoff-wird-von-der-herausforderung-eine-westliche-lieferkette-fuer-seltene-erden-aufzubauen-ld.10003639 |
-| Lieferkette | Infineon: Wie der Halbleiter-Konzern jeden einzelnen Chip testet und die Kosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-jeden-einzelnen-chip-testet-und-die-kosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
-| Lieferkette | Infineon: Wie der Halbleiter-Konzern mit dem KI-Skalpell die Chiptestkosten trimmt | https://www.manager-magazin.de/unternehmen/industrie/infineon-wie-der-halbleiter-konzern-mit-dem-ki-skalpell-die-chiptestkosten-trimmt-a-223a3739-86b8-4b25-bbab-8e982020da4a |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
 | PCB | PlayStation 2 als Handheld-Konsole: Anspruchsvolles Modding-Projekt auf Github veröffentlicht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/consumer-electronics/konsolen/69090-playstation-2-als-handheld-konsole-anspruchsvolles-modding-projekt-auf-github-ver%C3%B6ffentlicht.html |
 | Materialknappheit | ifo-Institut: Geschäftsklima in Chemieindustrie sinkt auf Dreijahrestief | https://www.handelsblatt.com/unternehmen/industrie/ifo-institut-geschaeftsklima-in-chemieindustrie-sinkt-auf-dreijahrestief/100222845.html |
