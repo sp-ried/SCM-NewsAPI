@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-20 08:33 UTC*
+*Stand: 2026-05-21 08:40 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Angriff auf GitHub über kompromittiertes Gerät: Hacker stehlen 3.800 interne Repositories   t3n | https://t3n.de/news/github-hacker-stehlen-repositories-1743454/ |
 | supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
 | supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
 | supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
@@ -12,18 +13,21 @@
 | supply chain | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | supply chain | Supply-Chain-Angriff: Daemon Tools verbreitet seit Wochen Schadsoftware - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/software/anwendungsprogramme/68991-supply-chain-angriff-daemon-tools-verbreitet-seit-wochen-schadsoftware.html |
 | supply chain | KURIER.live: Ein Austausch über goldene Werte | https://kurier.at/wirtschaft/karriere/business-people-female-empowerment-hoxton-lisz-hirn-werte/403157283 |
-| supply chain | Gefahr für DHL & Co.: Amazon wird Universal-Logistiker | https://www.computerbild.de/artikel/News-Internet-Gefahr-fuer-DHL-und-Co.-Amazon-wird-Universal-Logistiker-40920753.html |
-| supply chain | Daemon Tools: Mit Malware verseuchte Downloads | https://www.heise.de/news/Daemon-Tools-Lite-Infizierte-Installer-durch-Supply-Chain-Attacke-11282006.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
+| Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Energiewende: So könnten die Offshore-Windkraft-Projekte gerettet werden | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennten-die-offshore-windkraft-projekte-gerettet-werden/100225941.html |
+| Lieferkette | EU-Kommission: Deutschland darf Millionen in Halbleiter-Fabriken stecken | http://www.handelsblatt.com/unternehmen/industrie/eu-kommission-deutschland-darf-millionen-in-halbleiter-fabriken-stecken/100226657.html |
+| Lieferkette | Samsung droht der folgenreichste Streik in der Geschichte des Unternehmens – mit Folgen für die Chip-Lieferkette | https://www.nzz.ch/wirtschaft/samsung-droht-der-folgenreichste-streik-in-der-geschichte-des-unternehmens-mit-folgen-fuer-die-chip-lieferkette-ld.10007845 |
+| Lieferkette | Energiewende: So könnte die Rettung von Offshore-Windkraft-Projekten gelingen | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennte-die-rettung-von-offshore-windkraft-projekten-gelingen/100225941.html |
 | Lieferkette | ESET warnt vor neuer KI-Angriffsfläche und investiert 40 Millionen Euro in "AI Security" | https://www.presseportal.de/pm/71571/6278264 |
 | Lieferkette | Karen Hao kritisiert europäischen KI-Kurs | https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/ |
 | Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.merkur.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
@@ -43,13 +47,6 @@
 | Lieferkette | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | Lieferkette | HZA-GI: Bundesweite Zollkontrollen bei Paketdienstleistern: Auch Prüfungen in Nord-, Ost- und Mittelhessen | https://www.presseportal.de/blaulicht/pm/121247/6270214 |
 | Lieferkette | Anlage in Gent gebaut: Steirer setzen Meilenstein für nachhaltigen Flugkraftstoff | https://www.kleinezeitung.at/artikel/22428456/steirer-setzen-meilenstein-fuer-nachhaltigen-flugkraftstoff |
-| Lieferkette | Foodwatch: Nur drei von 84 Lachsprodukten „rückverfolgbar“ | https://orf.at/stories/3428973/ |
-| Lieferkette | Nur drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://kurier.at/wirtschaft/nur-drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar/403157108 |
-| Lieferkette | Wien: Drei von 84 Lachsprodukten laut Foodwatch "rückverfolgbar" | https://www.kleinezeitung.at/artikel/22299127/drei-von-84-lachsprodukten-laut-foodwatch-rueckverfolgbar |
-| Lieferkette | SK pharmteco erhält SBTi-Validierung für wissenschaftsbasierte Netto-Null-Ziele bis 2040 | https://www.globenewswire.com/news-release/2026/05/05/3288146/0/de/SK-pharmteco-erh%C3%A4lt-SBTi-Validierung-f%C3%BCr-wissenschaftsbasierte-Netto-Null-Ziele-bis-2040.html |
-| Lieferkette | Apple überrascht mit Chip-Plan: Warum der Konzern die Fertigung... | https://www.diepresse.com/22071842/apple-ueberrascht-mit-chip-plan-warum-der-konzern-die-fertigung-aus-zu |
-| Lieferkette | Landwirtschaft in Städten könnte 28 Prozent des Gemüsebedarfs in Europa decken | https://www.merkur.de/wissen/urbane-landwirtschaft-in-europa-koennte-28-prozent-gemuesebedarf-decken-zr-94292305.html |
-| Lieferkette | Digitaler Produktpass mit neuen Funktionen: bonprix bereitet sich frühzeitig auf Ökodesign-Verordnung vor | https://www.presseportal.de/pm/59646/6268829 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
