@@ -1,17 +1,20 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-22 08:30 UTC*
+*Stand: 2026-05-23 07:38 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
+| supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
 | supply chain | AT&S-Chef: "Müssen derzeit Kunden ablehnen" | https://kurier.at/wirtschaft/technologie-leiterplatten-ic-substrate-ats/403161818 |
 | supply chain | Angriff auf GitHub über kompromittiertes Gerät: Hacker stehlen 3.800 interne Repositories   t3n | https://t3n.de/news/github-hacker-stehlen-repositories-1743454/ |
+| supply chain | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
 | supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
+| supply chain | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
 | supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
 | supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
 | supply chain | BörsenWoche 558: Analyse: Das sind die neuen Amazon-Pläne | http://www.wiwo.de/finanzen/boerse/boersenwoche-558-analyse-das-sind-die-neuen-amazon-plaene/100222929.html |
-| supply chain | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
@@ -23,12 +26,16 @@
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
 | Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
+| Lieferkette | Axion Semiconductor erwirbt Moov Technologies | https://www.prnewswire.com/news-releases/axion-semiconductor-erwirbt-moov-technologies-302780299.html |
+| Lieferkette | Testfall Twingo – Qualitätsmanagement bei Renault | https://www.hna.de/leben/auto/testfall-twingo-qualitaetsmanagement-bei-renault-zr-94318224.html |
+| Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
 | Lieferkette | Künstliche Intelligenz: Starbucks schafft KI-Warenerfassung wieder ab – Zu viele Fehler | http://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-starbucks-schafft-ki-warenerfassung-wieder-ab-zu-viele-fehler/100227163.html |
 | Lieferkette | Zusammen mit 10-Milliarden-Invest: AMD startet Massenproduktion von Epyc | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/69130-zusammen-mit-10-milliarden-invest-amd-startet-massenproduktion-von-epyc-venice.html |
 | Lieferkette | Energiewende: So könnten die Offshore-Windkraft-Projekte gerettet werden | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennten-die-offshore-windkraft-projekte-gerettet-werden/100225941.html |
 | Lieferkette | EU-Kommission: Deutschland darf Millionen in Halbleiter-Fabriken stecken | http://www.handelsblatt.com/unternehmen/industrie/eu-kommission-deutschland-darf-millionen-in-halbleiter-fabriken-stecken/100226657.html |
 | Lieferkette | Samsung droht der folgenreichste Streik in der Geschichte des Unternehmens – mit Folgen für die Chip-Lieferkette | https://www.nzz.ch/wirtschaft/samsung-droht-der-folgenreichste-streik-in-der-geschichte-des-unternehmens-mit-folgen-fuer-die-chip-lieferkette-ld.10007845 |
 | Lieferkette | Energiewende: So könnte die Rettung von Offshore-Windkraft-Projekten gelingen | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennte-die-rettung-von-offshore-windkraft-projekten-gelingen/100225941.html |
+| Lieferkette | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
 | Lieferkette | ESET warnt vor neuer KI-Angriffsfläche und investiert 40 Millionen Euro in "AI Security" | https://www.presseportal.de/pm/71571/6278264 |
 | Lieferkette | Karen Hao kritisiert europäischen KI-Kurs | https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/ |
 | Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.merkur.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
@@ -38,14 +45,15 @@
 | Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
 | Lieferkette | Weltladentag in Korbach: Faire Früchte zeigen den Weg zu gerechten Löhnen für Bauern | https://www.hna.de/lokales/frankenberg/korbach-ort55370/faire-fruechte-zeigen-den-weg-zu-gerechten-loehnen-fuer-bauern-94309967.html |
 | Lieferkette | Amazon eröffnet ein Verteilzentrum in Kassel mit 300 Arbeitsplätzen | https://www.hna.de/kassel/amazon-eroeffnet-ein-verteilzentrum-in-kassel-mit-300-arbeitsplaetzen-94307674.html |
+| Lieferkette | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
 | Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
 | Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
 | Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
+| Lieferkette | MICROIP stellt auf der EEC 2026 seine Strategie für „softwaregesteuerte Hardware" vor und geht eine Partnerschaft mit Polen ein, um eine widerstandsfähige Lieferkette für Edge-KI und ASICs aufzubauen | https://www.prnewswire.com/news-releases/microip-stellt-auf-der-eec-2026-seine-strategie-fur-softwaregesteuerte-hardware-vor-und-geht-eine-partnerschaft-mit-polen-ein-um-eine-widerstandsfahige-lieferkette-fur-edge-ki-und-asics-aufzubauen-302767535.html |
 | Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
 | Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
 | Lieferkette | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
 | Lieferkette | Formel D: Der Automotive-Dienstleister und der Preis der Krisenjahre | http://www.wiwo.de/unternehmen/auto/formel-d-der-automotive-dienstleister-und-der-preis-der-krisenjahre/100223227.html |
-| Lieferkette | QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler | https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
