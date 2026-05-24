@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-23 07:38 UTC*
+*Stand: 2026-05-24 07:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -25,7 +25,6 @@
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
-| Lieferzeit | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
 | Lieferkette | Axion Semiconductor erwirbt Moov Technologies | https://www.prnewswire.com/news-releases/axion-semiconductor-erwirbt-moov-technologies-302780299.html |
 | Lieferkette | Testfall Twingo – Qualitätsmanagement bei Renault | https://www.hna.de/leben/auto/testfall-twingo-qualitaetsmanagement-bei-renault-zr-94318224.html |
 | Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
@@ -51,9 +50,6 @@
 | Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
 | Lieferkette | MICROIP stellt auf der EEC 2026 seine Strategie für „softwaregesteuerte Hardware" vor und geht eine Partnerschaft mit Polen ein, um eine widerstandsfähige Lieferkette für Edge-KI und ASICs aufzubauen | https://www.prnewswire.com/news-releases/microip-stellt-auf-der-eec-2026-seine-strategie-fur-softwaregesteuerte-hardware-vor-und-geht-eine-partnerschaft-mit-polen-ein-um-eine-widerstandsfahige-lieferkette-fur-edge-ki-und-asics-aufzubauen-302767535.html |
 | Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
-| Lieferkette | Öl aus Russland: So verlogen ist der Umgang mit Putins Öl | http://www.wiwo.de/unternehmen/energie/oel-aus-russland-so-verlogen-ist-der-umgang-mit-putins-oel/100221472.html |
-| Lieferkette | Zu hohe Kosten: Zieht Apple den Preis für das MacBook Neo an? | https://www.bild.de/leben-wissen/digital/zu-hohe-kosten-zieht-apple-den-preis-fuer-das-macbook-neo-an-69fdd423cd4a28c470020eec |
-| Lieferkette | Formel D: Der Automotive-Dienstleister und der Preis der Krisenjahre | http://www.wiwo.de/unternehmen/auto/formel-d-der-automotive-dienstleister-und-der-preis-der-krisenjahre/100223227.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
