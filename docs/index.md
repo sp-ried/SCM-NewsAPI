@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-24 07:52 UTC*
+*Stand: 2026-05-26 08:40 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
 | supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
 | supply chain | AT&S-Chef: "Müssen derzeit Kunden ablehnen" | https://kurier.at/wirtschaft/technologie-leiterplatten-ic-substrate-ats/403161818 |
@@ -14,9 +15,10 @@
 | supply chain | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
 | supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
 | supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
-| supply chain | BörsenWoche 558: Analyse: Das sind die neuen Amazon-Pläne | http://www.wiwo.de/finanzen/boerse/boersenwoche-558-analyse-das-sind-die-neuen-amazon-plaene/100222929.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
+| Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Luftfracht | BGA-Umfrage: Hormus-Krise lässt Preise steigen | https://www.presseportal.de/pm/6564/6272702 |
@@ -25,6 +27,8 @@
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Lieferzeiten für Elektro-Bauteile explodieren | https://ooe.orf.at/stories/3353797/ |
+| Lieferkette | Flugzeugbauer: Airbus kämpft weiter mit Lieferproblemen | https://www.wiwo.de/unternehmen/industrie/flugzeugbauer-airbus-kaempft-weiter-mit-lieferproblemen/100227743.html |
+| Lieferkette | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | Lieferkette | Axion Semiconductor erwirbt Moov Technologies | https://www.prnewswire.com/news-releases/axion-semiconductor-erwirbt-moov-technologies-302780299.html |
 | Lieferkette | Testfall Twingo – Qualitätsmanagement bei Renault | https://www.hna.de/leben/auto/testfall-twingo-qualitaetsmanagement-bei-renault-zr-94318224.html |
 | Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
@@ -49,7 +53,6 @@
 | Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
 | Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
 | Lieferkette | MICROIP stellt auf der EEC 2026 seine Strategie für „softwaregesteuerte Hardware" vor und geht eine Partnerschaft mit Polen ein, um eine widerstandsfähige Lieferkette für Edge-KI und ASICs aufzubauen | https://www.prnewswire.com/news-releases/microip-stellt-auf-der-eec-2026-seine-strategie-fur-softwaregesteuerte-hardware-vor-und-geht-eine-partnerschaft-mit-polen-ein-um-eine-widerstandsfahige-lieferkette-fur-edge-ki-und-asics-aufzubauen-302767535.html |
-| Lieferkette | Zölle: Dieser Gewürzhändler beschert Donald Trump das nächste Zolldebakel | https://www.wiwo.de/politik/ausland/zoelle-dieser-gewuerzhaendler-beschert-donald-trump-das-naechste-zolldebakel/100223598.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
