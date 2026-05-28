@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-27 08:46 UTC*
+*Stand: 2026-05-28 08:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,19 +13,20 @@
 | supply chain | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
 | supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
 | supply chain | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
-| supply chain | Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung | https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html |
-| supply chain | Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert | https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Warum der Luftfracht-Boom um Deutschland einen Bogen fliegt - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/warum-der-luftfracht-boom-um-deutschland-einen-bogen-fliegt.html |
 | Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
+| Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
+| Lieferkette | Schweizer AKW bleiben laut Greenpeace von Russland abhängig | https://www.tagesanzeiger.ch/beznau-axpo-bleibt-bis-2033-von-russischem-uran-abhaengig-239794930865 |
 | Lieferkette | Auslieferungen an Quantas: „Ein Teil der Zulieferer von Airbus hat Angst“ | http://www.wiwo.de/unternehmen/industrie/auslieferungen-an-quantas-ein-teil-der-zulieferer-von-airbus-hat-angst/100207856.html |
 | Lieferkette | AK-Chef Zangerl kritisiert „Tirol-Aufschlag“ bei Lebensmitteln   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30934740/ak-chef-zangerl-kritisiert-tirol-aufschlag-bei-lebensmitteln |
 | Lieferkette | Ranking fairer Schokolade: Tony's Chocolonely holt Spitzenplatz sowie Gender Award für Stärkung von Frauen in der Lieferkette | https://www.presseportal.de/pm/164782/6281644 |
@@ -58,4 +59,5 @@
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
 | PCB | PlayStation 2 als Handheld-Konsole: Anspruchsvolles Modding-Projekt auf Github veröffentlicht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/consumer-electronics/konsolen/69090-playstation-2-als-handheld-konsole-anspruchsvolles-modding-projekt-auf-github-ver%C3%B6ffentlicht.html |
-| Materialknappheit | *(keine Treffer heute)* | -*- |
+| Materialknappheit | Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | http://www.wiwo.de/unternehmen/industrie/stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
+| Materialknappheit | Chemie: Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | https://www.wiwo.de/unternehmen/industrie/chemie-stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
