@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-28 08:50 UTC*
+*Stand: 2026-05-29 08:49 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Warnung vor Malware aufgrund von Lieferkettenangriffen | https://www.heise.de/news/CISA-warnt-vor-Malware-durch-Supply-Chain-Attacken-11309253.html |
 | supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
 | supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
@@ -26,6 +27,7 @@
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
+| Lieferkette | Tierschutzprotest bei Mutterkonzern von Tommy Hilfiger und Calvin Klein | https://www.presseportal.de/pm/181638/6283990 |
 | Lieferkette | Schweizer AKW bleiben laut Greenpeace von Russland abhängig | https://www.tagesanzeiger.ch/beznau-axpo-bleibt-bis-2033-von-russischem-uran-abhaengig-239794930865 |
 | Lieferkette | Auslieferungen an Quantas: „Ein Teil der Zulieferer von Airbus hat Angst“ | http://www.wiwo.de/unternehmen/industrie/auslieferungen-an-quantas-ein-teil-der-zulieferer-von-airbus-hat-angst/100207856.html |
 | Lieferkette | AK-Chef Zangerl kritisiert „Tirol-Aufschlag“ bei Lebensmitteln   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30934740/ak-chef-zangerl-kritisiert-tirol-aufschlag-bei-lebensmitteln |
@@ -53,8 +55,6 @@
 | Lieferkette | Amazon eröffnet ein Verteilzentrum in Kassel mit 300 Arbeitsplätzen | https://www.hna.de/kassel/amazon-eroeffnet-ein-verteilzentrum-in-kassel-mit-300-arbeitsplaetzen-94307674.html |
 | Lieferkette | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
 | Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
-| Lieferkette | Internationale Protestwelle erreicht München: Mytheresa im Fokus von Tierschutzorganisation | https://www.presseportal.de/pm/181638/6274890 |
-| Lieferkette | Organisierte Kriminalität in Südamerika: Wer den Kokainhandel bekämpfen will, muss global denken | https://taz.de/Organisierte-Kriminalitaet-in-Suedamerika/!6177835/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
