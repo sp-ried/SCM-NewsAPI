@@ -1,10 +1,15 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-29 08:49 UTC*
+*Stand: 2026-05-30 07:48 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
+| supply chain | Bessent argues US was 'asleep' on economic security, Trump policies waking it up | https://www.miamiherald.com/news/nation-world/national/article315942243.html |
+| supply chain | Lenzing hat ab Montag einen neuen Konzernchef | https://kurier.at/wirtschaft/faserhersteller-lenzing-kasperkovitz/403164183 |
+| supply chain | Kasperkovitz neuer Lenzing-Chef | https://ooe.orf.at/stories/3356260/ |
+| supply chain | Lenzing ernennt Georg Kasperkovitz zum neuen CEO | https://www.diepresse.com/26908136/lenzing-ernennt-georg-kasperkovitz-zum-neuen-ceo |
 | supply chain | Warnung vor Malware aufgrund von Lieferkettenangriffen | https://www.heise.de/news/CISA-warnt-vor-Malware-durch-Supply-Chain-Attacken-11309253.html |
 | supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
@@ -13,7 +18,6 @@
 | supply chain | Angriff auf GitHub über kompromittiertes Gerät: Hacker stehlen 3.800 interne Repositories   t3n | https://t3n.de/news/github-hacker-stehlen-repositories-1743454/ |
 | supply chain | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
 | supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
-| supply chain | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Warum der Luftfracht-Boom um Deutschland einen Bogen fliegt - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/warum-der-luftfracht-boom-um-deutschland-einen-bogen-fliegt.html |
@@ -21,12 +25,16 @@
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
-| Luftfracht | (S+) »Chaoskoalition« von Merz und Klingbeil: Es ist ihre letzte Chance | https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeils-koalition-es-ist-ihre-letzte-chance-a-bc7544cc-9918-4d43-83db-c8e0e8235d8c |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
+| Lieferkette | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
+| Lieferkette | USMCA: US-Regierung plant wohl 50 Prozent US-Anteil bei Autoproduktion | http://www.handelsblatt.com/unternehmen/industrie/usmca-us-regierung-plant-wohl-50-prozent-us-anteil-bei-autoproduktion/100229053.html |
+| Lieferkette | „The Battery Show Europe 2026“ verbindet die Lieferkette der Batterieherstellung mit erweitertem Programm und interaktiven Angeboten | https://www.globenewswire.com/news-release/2026/05/29/3303732/0/de/The-Battery-Show-Europe-2026-verbindet-die-Lieferkette-der-Batterieherstellung-mit-erweitertem-Programm-und-interaktiven-Angeboten.html |
+| Lieferkette | Walrus Pump präsentiert seine Pumpentechnik-Produktlinie und steigt auf der Computex 2026 in den Markt für KI-Serverkühlung ein | https://www.globenewswire.com/news-release/2026/05/29/3303728/0/de/Walrus-Pump-pr%C3%A4sentiert-seine-Pumpentechnik-Produktlinie-und-steigt-auf-der-Computex-2026-in-den-Markt-f%C3%BCr-KI-Serverk%C3%BChlung-ein.html |
+| Lieferkette | Company Announcements | https://markets.ft.com/data/announce/detail?dockey=1330-9728895de-7PJFD6DK78H6ERAIDP4B33H2DJ |
 | Lieferkette | Tierschutzprotest bei Mutterkonzern von Tommy Hilfiger und Calvin Klein | https://www.presseportal.de/pm/181638/6283990 |
 | Lieferkette | Schweizer AKW bleiben laut Greenpeace von Russland abhängig | https://www.tagesanzeiger.ch/beznau-axpo-bleibt-bis-2033-von-russischem-uran-abhaengig-239794930865 |
 | Lieferkette | Auslieferungen an Quantas: „Ein Teil der Zulieferer von Airbus hat Angst“ | http://www.wiwo.de/unternehmen/industrie/auslieferungen-an-quantas-ein-teil-der-zulieferer-von-airbus-hat-angst/100207856.html |
@@ -52,9 +60,6 @@
 | Lieferkette | Vom Saatgut bis zum Produkt: Amway stellt eigenes Amway Tracing Tool vor | https://www.presseportal.de/pm/182322/6276665 |
 | Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
 | Lieferkette | Weltladentag in Korbach: Faire Früchte zeigen den Weg zu gerechten Löhnen für Bauern | https://www.hna.de/lokales/frankenberg/korbach-ort55370/faire-fruechte-zeigen-den-weg-zu-gerechten-loehnen-fuer-bauern-94309967.html |
-| Lieferkette | Amazon eröffnet ein Verteilzentrum in Kassel mit 300 Arbeitsplätzen | https://www.hna.de/kassel/amazon-eroeffnet-ein-verteilzentrum-in-kassel-mit-300-arbeitsplaetzen-94307674.html |
-| Lieferkette | Oritain veröffentlicht bahnbrechenden „Global Supply Chain Intelligence Report 2026 | https://www.prnewswire.com/news-releases/oritain-veroffentlicht-bahnbrechenden-global-supply-chain-intelligence-report-2026-302773184.html |
-| Lieferkette | Software: Wie Christian Klein SAP neu erfinden will | https://www.handelsblatt.com/technik/it-internet/software-wie-christian-klein-sap-neu-erfinden-will/100224291.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
