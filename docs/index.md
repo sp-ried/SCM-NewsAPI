@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-30 07:48 UTC*
+*Stand: 2026-05-31 08:20 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | 4. CISCE erweitert die internationale Beteiligung und ihre weltweite Reichweite | https://www.prnewswire.com/news-releases/4-cisce-erweitert-die-internationale-beteiligung-und-ihre-weltweite-reichweite-302786380.html |
 | supply chain | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
 | supply chain | Bessent argues US was 'asleep' on economic security, Trump policies waking it up | https://www.miamiherald.com/news/nation-world/national/article315942243.html |
 | supply chain | Lenzing hat ab Montag einen neuen Konzernchef | https://kurier.at/wirtschaft/faserhersteller-lenzing-kasperkovitz/403164183 |
@@ -24,12 +25,11 @@
 | Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
-| Luftfracht | Lufthansa Cargo-Vorstand: „Dass wir Russland nicht überfliegen dürfen, ist ein erheblicher Wettbewerbsnachteil“ - WELT | https://www.welt.de/wirtschaft/plus6a06c13d4166b8e84c362005/lufthansa-cargo-vorstand-dass-wir-russland-nicht-ueberfliegen-duerfen-ist-ein-erheblicher-wettbewerbsnachteil.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
 | Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
-| Lieferzeit | Schwedens Marine will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schwedens-marine-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
+| Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
 | Lieferkette | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
 | Lieferkette | USMCA: US-Regierung plant wohl 50 Prozent US-Anteil bei Autoproduktion | http://www.handelsblatt.com/unternehmen/industrie/usmca-us-regierung-plant-wohl-50-prozent-us-anteil-bei-autoproduktion/100229053.html |
 | Lieferkette | „The Battery Show Europe 2026“ verbindet die Lieferkette der Batterieherstellung mit erweitertem Programm und interaktiven Angeboten | https://www.globenewswire.com/news-release/2026/05/29/3303732/0/de/The-Battery-Show-Europe-2026-verbindet-die-Lieferkette-der-Batterieherstellung-mit-erweitertem-Programm-und-interaktiven-Angeboten.html |
@@ -59,7 +59,6 @@
 | Lieferkette | aDvens Threat Report 2025/2026: Sechs Trends in einer immer komplexeren Cyberbedrohungslandschaft | https://www.presseportal.de/pm/180001/6277526 |
 | Lieferkette | Vom Saatgut bis zum Produkt: Amway stellt eigenes Amway Tracing Tool vor | https://www.presseportal.de/pm/182322/6276665 |
 | Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
-| Lieferkette | Weltladentag in Korbach: Faire Früchte zeigen den Weg zu gerechten Löhnen für Bauern | https://www.hna.de/lokales/frankenberg/korbach-ort55370/faire-fruechte-zeigen-den-weg-zu-gerechten-loehnen-fuer-bauern-94309967.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
