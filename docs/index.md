@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-05-31 08:20 UTC*
+*Stand: 2026-06-01 10:28 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -28,7 +28,6 @@
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
-| Lieferzeit | Schweden will neue Fregatten kaufen – heimischer Hersteller könnte leer ausgehen | https://www.focus.de/politik/ausland/schweden-will-neue-fregatten-kaufen-heimischer-hersteller-koennte-leer-ausgehen_f7c2e271-9e4f-4e92-a584-72dc0e5f36a8.html |
 | Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
 | Lieferkette | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
 | Lieferkette | USMCA: US-Regierung plant wohl 50 Prozent US-Anteil bei Autoproduktion | http://www.handelsblatt.com/unternehmen/industrie/usmca-us-regierung-plant-wohl-50-prozent-us-anteil-bei-autoproduktion/100229053.html |
@@ -61,6 +60,7 @@
 | Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
 | PCB | PlayStation 2 als Handheld-Konsole: Anspruchsvolles Modding-Projekt auf Github veröffentlicht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/consumer-electronics/konsolen/69090-playstation-2-als-handheld-konsole-anspruchsvolles-modding-projekt-auf-github-ver%C3%B6ffentlicht.html |
 | Materialknappheit | Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | http://www.wiwo.de/unternehmen/industrie/stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
