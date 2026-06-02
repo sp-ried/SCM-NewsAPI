@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-01 10:28 UTC*
+*Stand: 2026-06-02 09:16 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -20,7 +20,11 @@
 | supply chain | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
 | supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
-| Seefracht | *(keine Treffer heute)* | -*- |
+| Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
+| Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
+| Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und die ganze Ukraine | http://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-die-ganze-ukraine/27982126.html |
+| Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
+| Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
 | Luftfracht | Warum der Luftfracht-Boom um Deutschland einen Bogen fliegt - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/warum-der-luftfracht-boom-um-deutschland-einen-bogen-fliegt.html |
 | Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
@@ -28,6 +32,7 @@
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
+| Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
 | Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
 | Lieferkette | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
 | Lieferkette | USMCA: US-Regierung plant wohl 50 Prozent US-Anteil bei Autoproduktion | http://www.handelsblatt.com/unternehmen/industrie/usmca-us-regierung-plant-wohl-50-prozent-us-anteil-bei-autoproduktion/100229053.html |
@@ -57,7 +62,6 @@
 | Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.hna.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
 | Lieferkette | aDvens Threat Report 2025/2026: Sechs Trends in einer immer komplexeren Cyberbedrohungslandschaft | https://www.presseportal.de/pm/180001/6277526 |
 | Lieferkette | Vom Saatgut bis zum Produkt: Amway stellt eigenes Amway Tracing Tool vor | https://www.presseportal.de/pm/182322/6276665 |
-| Lieferkette | ASML: Tata-Fab in Dholera mit 11 Milliarden Dollar - Börse Global | https://www.boerse-global.de/asml-tata-fab-in-dholera-mit-11-milliarden-dollar/786615 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
