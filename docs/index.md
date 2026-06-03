@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-02 09:16 UTC*
+*Stand: 2026-06-03 10:01 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -25,6 +25,7 @@
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und die ganze Ukraine | http://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-die-ganze-ukraine/27982126.html |
 | Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
 | Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
+| Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
 | Luftfracht | Warum der Luftfracht-Boom um Deutschland einen Bogen fliegt - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/warum-der-luftfracht-boom-um-deutschland-einen-bogen-fliegt.html |
 | Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
@@ -60,12 +61,10 @@
 | Lieferkette | Karen Hao kritisiert europäischen KI-Kurs | https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/ |
 | Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.merkur.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
 | Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.hna.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
-| Lieferkette | aDvens Threat Report 2025/2026: Sechs Trends in einer immer komplexeren Cyberbedrohungslandschaft | https://www.presseportal.de/pm/180001/6277526 |
-| Lieferkette | Vom Saatgut bis zum Produkt: Amway stellt eigenes Amway Tracing Tool vor | https://www.presseportal.de/pm/182322/6276665 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
 | PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
 | PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
-| PCB | PlayStation 2 als Handheld-Konsole: Anspruchsvolles Modding-Projekt auf Github veröffentlicht - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/consumer-electronics/konsolen/69090-playstation-2-als-handheld-konsole-anspruchsvolles-modding-projekt-auf-github-ver%C3%B6ffentlicht.html |
 | Materialknappheit | Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | http://www.wiwo.de/unternehmen/industrie/stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
 | Materialknappheit | Chemie: Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | https://www.wiwo.de/unternehmen/industrie/chemie-stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
