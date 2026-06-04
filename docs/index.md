@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-03 10:01 UTC*
+*Stand: 2026-06-04 08:57 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -17,8 +17,6 @@
 | supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
 | supply chain | AT&S-Chef: "Müssen derzeit Kunden ablehnen" | https://kurier.at/wirtschaft/technologie-leiterplatten-ic-substrate-ats/403161818 |
 | supply chain | Angriff auf GitHub über kompromittiertes Gerät: Hacker stehlen 3.800 interne Repositories   t3n | https://t3n.de/news/github-hacker-stehlen-repositories-1743454/ |
-| supply chain | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
-| supply chain | TanStack verschärft Sicherheitsvorkehrungen nach Supply-Chain-Attacken | https://www.heise.de/news/Nach-Cyberangriffen-TanStack-prueft-Einschraenkungen-fuer-Pull-Requests-11299058.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -32,7 +30,7 @@
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
 | Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
-| Lieferzeit | Verteidigungspolitik: Schweden kauft vier Fregatten aus Frankreich | http://www.handelsblatt.com/politik/international/verteidigungspolitik-schweden-kauft-vier-fregatten-aus-frankreich/100226249.html |
+| Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
 | Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
 | Lieferkette | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
@@ -56,15 +54,9 @@
 | Lieferkette | EU-Kommission: Deutschland darf Millionen in Halbleiter-Fabriken stecken | http://www.handelsblatt.com/unternehmen/industrie/eu-kommission-deutschland-darf-millionen-in-halbleiter-fabriken-stecken/100226657.html |
 | Lieferkette | Samsung droht der folgenreichste Streik in der Geschichte des Unternehmens – mit Folgen für die Chip-Lieferkette | https://www.nzz.ch/wirtschaft/samsung-droht-der-folgenreichste-streik-in-der-geschichte-des-unternehmens-mit-folgen-fuer-die-chip-lieferkette-ld.10007845 |
 | Lieferkette | Energiewende: So könnte die Rettung von Offshore-Windkraft-Projekten gelingen | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennte-die-rettung-von-offshore-windkraft-projekten-gelingen/100225941.html |
-| Lieferkette | Persistent wird von Google Cloud für die Förderung der KI-gestützten Transformation der Lieferkette ausgezeichnet | https://www.prnewswire.com/news-releases/persistent-wird-von-google-cloud-fur-die-forderung-der-ki-gestutzten-transformation-der-lieferkette-ausgezeichnet-302777330.html |
-| Lieferkette | ESET warnt vor neuer KI-Angriffsfläche und investiert 40 Millionen Euro in "AI Security" | https://www.presseportal.de/pm/71571/6278264 |
-| Lieferkette | Karen Hao kritisiert europäischen KI-Kurs | https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/ |
-| Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.merkur.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
-| Lieferkette | Tofu-Krise im Supermarkt hält an: Diese drei Alternativen sind gesund und extrem proteinreich | https://www.hna.de/verbraucher/kapazitaeten-nicht-skalierbar-rewe-und-edeka-schlagen-alarm-bei-beliebtem-veggie-produkt-zr-94313396.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
 | PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
-| PCB | Crescent Island: PCB von Intels PCIe-Inference-Beschleuniger mit 20 LPDDR5X-Chips zeigt sich - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69116-crescent-island-pcb-von-intels-pcie-inference-beschleuniger-mit-20-lpddr5x-chips-zeigt-sich.html |
 | Materialknappheit | Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | http://www.wiwo.de/unternehmen/industrie/stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
 | Materialknappheit | Chemie: Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | https://www.wiwo.de/unternehmen/industrie/chemie-stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
