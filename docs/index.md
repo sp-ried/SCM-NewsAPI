@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-04 08:57 UTC*
+*Stand: 2026-06-05 08:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
 | supply chain | 4. CISCE erweitert die internationale Beteiligung und ihre weltweite Reichweite | https://www.prnewswire.com/news-releases/4-cisce-erweitert-die-internationale-beteiligung-und-ihre-weltweite-reichweite-302786380.html |
 | supply chain | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
 | supply chain | Bessent argues US was 'asleep' on economic security, Trump policies waking it up | https://www.miamiherald.com/news/nation-world/national/article315942243.html |
@@ -16,7 +17,6 @@
 | supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
 | supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
 | supply chain | AT&S-Chef: "Müssen derzeit Kunden ablehnen" | https://kurier.at/wirtschaft/technologie-leiterplatten-ic-substrate-ats/403161818 |
-| supply chain | Angriff auf GitHub über kompromittiertes Gerät: Hacker stehlen 3.800 interne Repositories   t3n | https://t3n.de/news/github-hacker-stehlen-repositories-1743454/ |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -28,8 +28,8 @@
 | Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
 | Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
+| Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
-| Lieferzeit | Jugendliche setzen sich in Basketballkorb in Savoyer Au: Gestell kracht zu Boden | https://www.merkur.de/lokales/freising/freising-ort28692/jugendliche-setzen-sich-in-basketballkorb-in-savoyer-au-gestell-kracht-zu-boden-94315524.html |
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
 | Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
@@ -50,10 +50,6 @@
 | Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
 | Lieferkette | Künstliche Intelligenz: Starbucks schafft KI-Warenerfassung wieder ab – Zu viele Fehler | http://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-starbucks-schafft-ki-warenerfassung-wieder-ab-zu-viele-fehler/100227163.html |
 | Lieferkette | Zusammen mit 10-Milliarden-Invest: AMD startet Massenproduktion von Epyc | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/69130-zusammen-mit-10-milliarden-invest-amd-startet-massenproduktion-von-epyc-venice.html |
-| Lieferkette | Energiewende: So könnten die Offshore-Windkraft-Projekte gerettet werden | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennten-die-offshore-windkraft-projekte-gerettet-werden/100225941.html |
-| Lieferkette | EU-Kommission: Deutschland darf Millionen in Halbleiter-Fabriken stecken | http://www.handelsblatt.com/unternehmen/industrie/eu-kommission-deutschland-darf-millionen-in-halbleiter-fabriken-stecken/100226657.html |
-| Lieferkette | Samsung droht der folgenreichste Streik in der Geschichte des Unternehmens – mit Folgen für die Chip-Lieferkette | https://www.nzz.ch/wirtschaft/samsung-droht-der-folgenreichste-streik-in-der-geschichte-des-unternehmens-mit-folgen-fuer-die-chip-lieferkette-ld.10007845 |
-| Lieferkette | Energiewende: So könnte die Rettung von Offshore-Windkraft-Projekten gelingen | http://www.handelsblatt.com/politik/deutschland/energiewende-so-koennte-die-rettung-von-offshore-windkraft-projekten-gelingen/100225941.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
