@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-05 08:50 UTC*
+*Stand: 2026-06-06 07:54 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Fiege feiert Richtfest in Hessisch Lichtenau: Fertigstellung für Herbst geplant | https://www.hna.de/lokales/witzenhausen/hessisch-lichtenau-ort62262/fiege-feiert-richtfest-in-hessisch-lichtenau-fertigstellung-fuer-herbst-geplant-94337327.html |
 | supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
 | supply chain | 4. CISCE erweitert die internationale Beteiligung und ihre weltweite Reichweite | https://www.prnewswire.com/news-releases/4-cisce-erweitert-die-internationale-beteiligung-und-ihre-weltweite-reichweite-302786380.html |
 | supply chain | 4. CISCE zeigt, wie Innovationen die globalen Lieferketten vorantreiben | https://www.prnewswire.com/news-releases/4-cisce-zeigt-wie-innovationen-die-globalen-lieferketten-vorantreiben-302786115.html |
@@ -16,7 +17,6 @@
 | supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
 | supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
-| supply chain | AT&S-Chef: "Müssen derzeit Kunden ablehnen" | https://kurier.at/wirtschaft/technologie-leiterplatten-ic-substrate-ats/403161818 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -48,8 +48,6 @@
 | Lieferkette | Axion Semiconductor erwirbt Moov Technologies | https://www.prnewswire.com/news-releases/axion-semiconductor-erwirbt-moov-technologies-302780299.html |
 | Lieferkette | Testfall Twingo – Qualitätsmanagement bei Renault | https://www.hna.de/leben/auto/testfall-twingo-qualitaetsmanagement-bei-renault-zr-94318224.html |
 | Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
-| Lieferkette | Künstliche Intelligenz: Starbucks schafft KI-Warenerfassung wieder ab – Zu viele Fehler | http://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-starbucks-schafft-ki-warenerfassung-wieder-ab-zu-viele-fehler/100227163.html |
-| Lieferkette | Zusammen mit 10-Milliarden-Invest: AMD startet Massenproduktion von Epyc | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/69130-zusammen-mit-10-milliarden-invest-amd-startet-massenproduktion-von-epyc-venice.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
