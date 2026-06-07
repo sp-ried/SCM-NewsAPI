@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-06 07:54 UTC*
+*Stand: 2026-06-07 08:28 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,8 +15,6 @@
 | supply chain | Lenzing ernennt Georg Kasperkovitz zum neuen CEO | https://www.diepresse.com/26908136/lenzing-ernennt-georg-kasperkovitz-zum-neuen-ceo |
 | supply chain | Warnung vor Malware aufgrund von Lieferkettenangriffen | https://www.heise.de/news/CISA-warnt-vor-Malware-durch-Supply-Chain-Attacken-11309253.html |
 | supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
-| supply chain | Amazon startet Mega-Versanddienst: Jetzt auch für externe Firmen | https://www.bild.de/leben-wissen/digital/amazon-startet-mega-versanddienst-jetzt-auch-fuer-externe-firmen-6a0db781f0f7eb608db7838a |
-| supply chain | „Der Rechner ersetzt nicht die Straße“ – Qualitätsmanager Thierry Charvet von Renault | https://www.hna.de/leben/auto/der-rechner-ersetzt-nicht-die-strasse-qualitaetsmanager-thierry-charvet-von-renault-zr-94318225.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -30,6 +28,7 @@
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
+| Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
 | Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
@@ -45,9 +44,6 @@
 | Lieferkette | Ranking fairer Schokolade: Tony's Chocolonely holt Spitzenplatz sowie Gender Award für Stärkung von Frauen in der Lieferkette | https://www.presseportal.de/pm/164782/6281644 |
 | Lieferkette | Flugzeugbauer: Airbus kämpft weiter mit Lieferproblemen | https://www.wiwo.de/unternehmen/industrie/flugzeugbauer-airbus-kaempft-weiter-mit-lieferproblemen/100227743.html |
 | Lieferkette | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
-| Lieferkette | Axion Semiconductor erwirbt Moov Technologies | https://www.prnewswire.com/news-releases/axion-semiconductor-erwirbt-moov-technologies-302780299.html |
-| Lieferkette | Testfall Twingo – Qualitätsmanagement bei Renault | https://www.hna.de/leben/auto/testfall-twingo-qualitaetsmanagement-bei-renault-zr-94318224.html |
-| Lieferkette | BioFleax® kommt durch die Stella McCartney H&M Spring 2026 Kollektion in einen globalen Modekontext | https://www.prnewswire.com/news-releases/biofleax-kommt-durch-die-stella-mccartney-hm-spring-2026-kollektion-in-einen-globalen-modekontext-302779102.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
