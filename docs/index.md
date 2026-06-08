@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-07 08:28 UTC*
+*Stand: 2026-06-08 09:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Medline erweitert seine Produktionskapazitäten in der Slowakei, um das langfristige Wachstum in Europa zu unterstützen | https://www.prnewswire.com/news-releases/medline-erweitert-seine-produktionskapazitaten-in-der-slowakei-um-das-langfristige-wachstum-in-europa-zu-unterstutzen-302792851.html |
 | supply chain | Fiege feiert Richtfest in Hessisch Lichtenau: Fertigstellung für Herbst geplant | https://www.hna.de/lokales/witzenhausen/hessisch-lichtenau-ort62262/fiege-feiert-richtfest-in-hessisch-lichtenau-fertigstellung-fuer-herbst-geplant-94337327.html |
 | supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
 | supply chain | 4. CISCE erweitert die internationale Beteiligung und ihre weltweite Reichweite | https://www.prnewswire.com/news-releases/4-cisce-erweitert-die-internationale-beteiligung-und-ihre-weltweite-reichweite-302786380.html |
