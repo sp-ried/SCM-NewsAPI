@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-08 09:52 UTC*
+*Stand: 2026-06-09 08:38 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,7 +15,6 @@
 | supply chain | Kasperkovitz neuer Lenzing-Chef | https://ooe.orf.at/stories/3356260/ |
 | supply chain | Lenzing ernennt Georg Kasperkovitz zum neuen CEO | https://www.diepresse.com/26908136/lenzing-ernennt-georg-kasperkovitz-zum-neuen-ceo |
 | supply chain | Warnung vor Malware aufgrund von Lieferkettenangriffen | https://www.heise.de/news/CISA-warnt-vor-Malware-durch-Supply-Chain-Attacken-11309253.html |
-| supply chain | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -29,6 +28,10 @@
 | Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
+| Lieferkette | Militärnutzung von KI: US-Regierung verteidigt Vorgehen gegen... | https://www.diepresse.com/28941227/militaernutzung-von-ki-us-regierung-verteidigt-vorgehen-gegen-anthropic |
+| Lieferkette | China: Autoabsatz bricht wegen Irankrieg zweistellig ein | https://www.manager-magazin.de/unternehmen/mobilitaet/china-autoabsatz-bricht-wegen-irankrieg-zweistellig-ein-a-5e7aa8aa-637c-443c-b7b2-7916700ec591 |
+| Lieferkette | Chinas Autobauer senken Prognose für 2026 drastisch | https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384 |
+| Lieferkette | Chinas Autohersteller senken Prognose für 2026 drastisch | https://www.heise.de/news/Chinas-Autohersteller-senken-Prognose-fuer-2026-drastisch-11321746.html |
 | Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
@@ -43,8 +46,6 @@
 | Lieferkette | Auslieferungen an Quantas: „Ein Teil der Zulieferer von Airbus hat Angst“ | http://www.wiwo.de/unternehmen/industrie/auslieferungen-an-quantas-ein-teil-der-zulieferer-von-airbus-hat-angst/100207856.html |
 | Lieferkette | AK-Chef Zangerl kritisiert „Tirol-Aufschlag“ bei Lebensmitteln   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30934740/ak-chef-zangerl-kritisiert-tirol-aufschlag-bei-lebensmitteln |
 | Lieferkette | Ranking fairer Schokolade: Tony's Chocolonely holt Spitzenplatz sowie Gender Award für Stärkung von Frauen in der Lieferkette | https://www.presseportal.de/pm/164782/6281644 |
-| Lieferkette | Flugzeugbauer: Airbus kämpft weiter mit Lieferproblemen | https://www.wiwo.de/unternehmen/industrie/flugzeugbauer-airbus-kaempft-weiter-mit-lieferproblemen/100227743.html |
-| Lieferkette | Der 30-Tage-Countdown beginnt: Die 4. CISCE wird am 22. Juni in Beijing eröffnet | https://www.prnewswire.com/news-releases/der-30-tage-countdown-beginnt-die-4-cisce-wird-am-22-juni-in-beijing-eroffnet-302780771.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
