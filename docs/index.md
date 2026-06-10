@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-09 08:38 UTC*
+*Stand: 2026-06-10 08:59 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -22,12 +22,11 @@
 | Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
 | Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
 | Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
-| Luftfracht | Warum der Luftfracht-Boom um Deutschland einen Bogen fliegt - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/warum-der-luftfracht-boom-um-deutschland-einen-bogen-fliegt.html |
-| Luftfracht | „Immer mehr Luftfracht wird inzwischen über ausländische Drehkreuze abgewickelt“ - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/immer-mehr-luftfracht-wird-inzwischen-ueber-auslaendische-drehkreuze-abgewickelt.html |
-| Luftfracht | Die Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/die-luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
-| Luftfracht | Luftfracht boomt – und fliegt immer häufiger an Deutschland vorbei - WELT | https://www.welt.de/wirtschaft/plus6a117eb4f0f7eb608db7b659/luftfracht-boomt-und-fliegt-immer-haeufiger-an-deutschland-vorbei.html |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
+| Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.merkur.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
+| Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.hna.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
+| Lieferkette | Konjunktur: KI-Boom lässt Taiwans Exporte um 52 Prozent steigen | http://www.handelsblatt.com/politik/konjunktur/konjunktur-ki-boom-laesst-taiwans-exporte-um-52-prozent-steigen/100231562.html |
 | Lieferkette | Militärnutzung von KI: US-Regierung verteidigt Vorgehen gegen... | https://www.diepresse.com/28941227/militaernutzung-von-ki-us-regierung-verteidigt-vorgehen-gegen-anthropic |
 | Lieferkette | China: Autoabsatz bricht wegen Irankrieg zweistellig ein | https://www.manager-magazin.de/unternehmen/mobilitaet/china-autoabsatz-bricht-wegen-irankrieg-zweistellig-ein-a-5e7aa8aa-637c-443c-b7b2-7916700ec591 |
 | Lieferkette | Chinas Autobauer senken Prognose für 2026 drastisch | https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384 |
