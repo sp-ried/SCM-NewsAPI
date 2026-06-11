@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-10 08:59 UTC*
+*Stand: 2026-06-11 09:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -21,9 +21,13 @@
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und die ganze Ukraine | http://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-die-ganze-ukraine/27982126.html |
 | Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
 | Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
+| Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
 | Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
+| Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
+| Lieferkette | Digitalisierung stärkt Binnenschifffahrt | https://ooe.orf.at/stories/3357875/ |
+| Lieferkette | npm packt seine riskantesten Sicherheitsprobleme an | https://www.heise.de/news/npm-packt-seine-riskantesten-Sicherheitsprobleme-an-11327518.html |
 | Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.merkur.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
 | Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.hna.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
 | Lieferkette | Konjunktur: KI-Boom lässt Taiwans Exporte um 52 Prozent steigen | http://www.handelsblatt.com/politik/konjunktur/konjunktur-ki-boom-laesst-taiwans-exporte-um-52-prozent-steigen/100231562.html |
@@ -42,9 +46,6 @@
 | Lieferkette | Company Announcements | https://markets.ft.com/data/announce/detail?dockey=1330-9728895de-7PJFD6DK78H6ERAIDP4B33H2DJ |
 | Lieferkette | Tierschutzprotest bei Mutterkonzern von Tommy Hilfiger und Calvin Klein | https://www.presseportal.de/pm/181638/6283990 |
 | Lieferkette | Schweizer AKW bleiben laut Greenpeace von Russland abhängig | https://www.tagesanzeiger.ch/beznau-axpo-bleibt-bis-2033-von-russischem-uran-abhaengig-239794930865 |
-| Lieferkette | Auslieferungen an Quantas: „Ein Teil der Zulieferer von Airbus hat Angst“ | http://www.wiwo.de/unternehmen/industrie/auslieferungen-an-quantas-ein-teil-der-zulieferer-von-airbus-hat-angst/100207856.html |
-| Lieferkette | AK-Chef Zangerl kritisiert „Tirol-Aufschlag“ bei Lebensmitteln   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30934740/ak-chef-zangerl-kritisiert-tirol-aufschlag-bei-lebensmitteln |
-| Lieferkette | Ranking fairer Schokolade: Tony's Chocolonely holt Spitzenplatz sowie Gender Award für Stärkung von Frauen in der Lieferkette | https://www.presseportal.de/pm/164782/6281644 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
