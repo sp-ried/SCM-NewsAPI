@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-11 09:18 UTC*
+*Stand: 2026-06-12 09:08 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -14,7 +14,6 @@
 | supply chain | Lenzing hat ab Montag einen neuen Konzernchef | https://kurier.at/wirtschaft/faserhersteller-lenzing-kasperkovitz/403164183 |
 | supply chain | Kasperkovitz neuer Lenzing-Chef | https://ooe.orf.at/stories/3356260/ |
 | supply chain | Lenzing ernennt Georg Kasperkovitz zum neuen CEO | https://www.diepresse.com/26908136/lenzing-ernennt-georg-kasperkovitz-zum-neuen-ceo |
-| supply chain | Warnung vor Malware aufgrund von Lieferkettenangriffen | https://www.heise.de/news/CISA-warnt-vor-Malware-durch-Supply-Chain-Attacken-11309253.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -23,9 +22,10 @@
 | Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
 | Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
 | Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
+| Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
-| Lieferzeit | Paketboten klingeln nicht: „Hielt vor der Tür, blieb im Auto sitzen und fuhr nach 20 Sekunden wieder weg“ | https://www.focus.de/panorama/welt/paketboten-klingeln-nicht-hielt-vor-der-tuer-blieb-im-auto-sitzen-und-fuhr-nach-20-sekunden-wieder-weg_2adc9174-9cc2-4ceb-a00b-f017dc0fea55.html |
+| Lieferkette | SpaceX geht an die Börse und die US-Dominanz wird noch grösser – ein visueller Überblick | https://www.nzz.ch/visuals/nvidia-apple-und-bald-spacex-das-sind-die-wertvollsten-unternehmen-der-welt-ein-visueller-ueberblick-ld.10006773 |
 | Lieferkette | Digitalisierung stärkt Binnenschifffahrt | https://ooe.orf.at/stories/3357875/ |
 | Lieferkette | npm packt seine riskantesten Sicherheitsprobleme an | https://www.heise.de/news/npm-packt-seine-riskantesten-Sicherheitsprobleme-an-11327518.html |
 | Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.merkur.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
@@ -45,10 +45,8 @@
 | Lieferkette | Walrus Pump präsentiert seine Pumpentechnik-Produktlinie und steigt auf der Computex 2026 in den Markt für KI-Serverkühlung ein | https://www.globenewswire.com/news-release/2026/05/29/3303728/0/de/Walrus-Pump-pr%C3%A4sentiert-seine-Pumpentechnik-Produktlinie-und-steigt-auf-der-Computex-2026-in-den-Markt-f%C3%BCr-KI-Serverk%C3%BChlung-ein.html |
 | Lieferkette | Company Announcements | https://markets.ft.com/data/announce/detail?dockey=1330-9728895de-7PJFD6DK78H6ERAIDP4B33H2DJ |
 | Lieferkette | Tierschutzprotest bei Mutterkonzern von Tommy Hilfiger und Calvin Klein | https://www.presseportal.de/pm/181638/6283990 |
-| Lieferkette | Schweizer AKW bleiben laut Greenpeace von Russland abhängig | https://www.tagesanzeiger.ch/beznau-axpo-bleibt-bis-2033-von-russischem-uran-abhaengig-239794930865 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
 | PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
-| Materialknappheit | Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | http://www.wiwo.de/unternehmen/industrie/stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
-| Materialknappheit | Chemie: Stimmung in Chemiebranche trübt sich ein – steigende Preise erwartet | https://www.wiwo.de/unternehmen/industrie/chemie-stimmung-in-chemiebranche-truebt-sich-ein-steigende-preise-erwartet/100228558.html |
+| Materialknappheit | *(keine Treffer heute)* | -*- |
