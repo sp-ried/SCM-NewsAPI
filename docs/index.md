@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-12 09:08 UTC*
+*Stand: 2026-06-13 08:29 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -44,7 +44,6 @@
 | Lieferkette | „The Battery Show Europe 2026“ verbindet die Lieferkette der Batterieherstellung mit erweitertem Programm und interaktiven Angeboten | https://www.globenewswire.com/news-release/2026/05/29/3303732/0/de/The-Battery-Show-Europe-2026-verbindet-die-Lieferkette-der-Batterieherstellung-mit-erweitertem-Programm-und-interaktiven-Angeboten.html |
 | Lieferkette | Walrus Pump präsentiert seine Pumpentechnik-Produktlinie und steigt auf der Computex 2026 in den Markt für KI-Serverkühlung ein | https://www.globenewswire.com/news-release/2026/05/29/3303728/0/de/Walrus-Pump-pr%C3%A4sentiert-seine-Pumpentechnik-Produktlinie-und-steigt-auf-der-Computex-2026-in-den-Markt-f%C3%BCr-KI-Serverk%C3%BChlung-ein.html |
 | Lieferkette | Company Announcements | https://markets.ft.com/data/announce/detail?dockey=1330-9728895de-7PJFD6DK78H6ERAIDP4B33H2DJ |
-| Lieferkette | Tierschutzprotest bei Mutterkonzern von Tommy Hilfiger und Calvin Klein | https://www.presseportal.de/pm/181638/6283990 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
