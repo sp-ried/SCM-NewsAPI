@@ -1,14 +1,13 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-14 08:46 UTC*
+*Stand: 2026-06-15 11:20 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Medline erweitert seine Produktionskapazitäten in der Slowakei, um das langfristige Wachstum in Europa zu unterstützen | https://www.prnewswire.com/news-releases/medline-erweitert-seine-produktionskapazitaten-in-der-slowakei-um-das-langfristige-wachstum-in-europa-zu-unterstutzen-302792851.html |
 | supply chain | Fiege feiert Richtfest in Hessisch Lichtenau: Fertigstellung für Herbst geplant | https://www.hna.de/lokales/witzenhausen/hessisch-lichtenau-ort62262/fiege-feiert-richtfest-in-hessisch-lichtenau-fertigstellung-fuer-herbst-geplant-94337327.html |
 | supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
-| supply chain | 4. CISCE erweitert die internationale Beteiligung und ihre weltweite Reichweite | https://www.prnewswire.com/news-releases/4-cisce-erweitert-die-internationale-beteiligung-und-ihre-weltweite-reichweite-302786380.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
@@ -20,6 +19,9 @@
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
+| Lieferkette | Vom Abfall zur Wertschöpfung: Wie Jereh ein Kreislaufökosystem für Batterien aufbaut | https://www.prnewswire.com/news-releases/vom-abfall-zur-wertschopfung-wie-jereh-ein-kreislaufokosystem-fur-batterien-aufbaut-302800151.html |
+| Lieferkette | ZTT auf der Intersolar Deutschland 2026: Vorteile einer durchgängigen Lieferkette - Lösungen für Solarenergie, Energiespeicherung und Wasserstoff als Wegbereiter für eine kohlenstoffarme globale Zukunft | https://www.prnewswire.com/news-releases/ztt-auf-der-intersolar-deutschland-2026-vorteile-einer-durchgangigen-lieferkette--losungen-fur-solarenergie-energiespeicherung-und-wasserstoff-als-wegbereiter-fur-eine-kohlenstoffarme-globale-zukunft-302799840.html |
+| Lieferkette | Bericht: Japan prüft Abbau Seltener Erden in Grönland | http://www.handelsblatt.com/politik/international/bericht-japan-prueft-abbau-seltener-erden-in-groenland/100232839.html |
 | Lieferkette | SpaceX geht an die Börse und die US-Dominanz wird noch grösser – ein visueller Überblick | https://www.nzz.ch/visuals/nvidia-apple-und-bald-spacex-das-sind-die-wertvollsten-unternehmen-der-welt-ein-visueller-ueberblick-ld.10006773 |
 | Lieferkette | Digitalisierung stärkt Binnenschifffahrt | https://ooe.orf.at/stories/3357875/ |
 | Lieferkette | npm packt seine riskantesten Sicherheitsprobleme an | https://www.heise.de/news/npm-packt-seine-riskantesten-Sicherheitsprobleme-an-11327518.html |
@@ -33,7 +35,6 @@
 | Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
-| Lieferkette | Wie Papst Leo gegen die Verzweckung des Menschen argumentiert | https://netzpolitik.org/2026/netzpolitische-enzyklika-wie-papst-leo-gegen-die-verzweckung-des-menschen-argumentiert/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
