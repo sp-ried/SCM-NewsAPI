@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-15 11:20 UTC*
+*Stand: 2026-06-16 10:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -14,11 +14,13 @@
 | Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und die ganze Ukraine | http://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-die-ganze-ukraine/27982126.html |
 | Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
 | Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
+| Luftfracht | Leichenteile versehentlich an FACC geliefert | https://ooe.orf.at/stories/3358653/ |
 | Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
 | Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
+| Lieferkette | Greenwashing-Urteil gegen McDonald's: Deutsche Umwelthilfe stoppt irreführendes Zukunftsversprechen | https://www.presseportal.de/pm/22521/6295185 |
 | Lieferkette | Vom Abfall zur Wertschöpfung: Wie Jereh ein Kreislaufökosystem für Batterien aufbaut | https://www.prnewswire.com/news-releases/vom-abfall-zur-wertschopfung-wie-jereh-ein-kreislaufokosystem-fur-batterien-aufbaut-302800151.html |
 | Lieferkette | ZTT auf der Intersolar Deutschland 2026: Vorteile einer durchgängigen Lieferkette - Lösungen für Solarenergie, Energiespeicherung und Wasserstoff als Wegbereiter für eine kohlenstoffarme globale Zukunft | https://www.prnewswire.com/news-releases/ztt-auf-der-intersolar-deutschland-2026-vorteile-einer-durchgangigen-lieferkette--losungen-fur-solarenergie-energiespeicherung-und-wasserstoff-als-wegbereiter-fur-eine-kohlenstoffarme-globale-zukunft-302799840.html |
 | Lieferkette | Bericht: Japan prüft Abbau Seltener Erden in Grönland | http://www.handelsblatt.com/politik/international/bericht-japan-prueft-abbau-seltener-erden-in-groenland/100232839.html |
@@ -38,5 +40,4 @@
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
-| PCB | Crescent Island: Details zu Intels kommenden Datacenter-GPU mit 480 GB LPDDR5X auf Basis von Xe3P - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/grafikkarten/69229-crescent-island-details-zu-intels-kommenden-datacenter-gpu-mit-480-gb-lpddr5x-auf-basis-von-xe3p.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
