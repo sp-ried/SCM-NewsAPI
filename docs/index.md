@@ -1,25 +1,29 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-16 10:18 UTC*
+*Stand: 2026-06-17 09:58 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Das APEC China CEO Forum wird parallel zur China International Supply Chain Expo eröffnet, um die Zusammenarbeit im asiatisch-pazifischen Raum zu stärken | https://www.prnewswire.com/news-releases/das-apec-china-ceo-forum-wird-parallel-zur-china-international-supply-chain-expo-eroffnet-um-die-zusammenarbeit-im-asiatisch-pazifischen-raum-zu-starken-302801592.html |
+| supply chain | WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen | https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html |
 | supply chain | Medline erweitert seine Produktionskapazitäten in der Slowakei, um das langfristige Wachstum in Europa zu unterstützen | https://www.prnewswire.com/news-releases/medline-erweitert-seine-produktionskapazitaten-in-der-slowakei-um-das-langfristige-wachstum-in-europa-zu-unterstutzen-302792851.html |
 | supply chain | Fiege feiert Richtfest in Hessisch Lichtenau: Fertigstellung für Herbst geplant | https://www.hna.de/lokales/witzenhausen/hessisch-lichtenau-ort62262/fiege-feiert-richtfest-in-hessisch-lichtenau-fertigstellung-fuer-herbst-geplant-94337327.html |
 | supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
 | Containerfracht | *(keine Treffer heute)* | -*- |
-| Seefracht | Ukraine: Russland prüft offenbar Import von Flugzeugtreibstoff | https://www.handelsblatt.com/politik/international/ukraine-russland-prueft-offenbar-import-von-flugzeugtreibstoff/27982126.html |
-| Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und das ganze Land | https://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-das-ganze-land/27982126.html |
-| Seefracht | Ukraine: Ukraine – Massiver russischer Angriff auf Kiew und die ganze Ukraine | http://www.handelsblatt.com/politik/international/ukraine-ukraine-massiver-russischer-angriff-auf-kiew-und-die-ganze-ukraine/27982126.html |
-| Seefracht | Ukraine: Lukoil-Raffinerie setzt offenbar Betrieb nach Angriff aus | https://www.handelsblatt.com/politik/international/ukraine-lukoil-raffinerie-setzt-offenbar-betrieb-nach-angriff-aus/27982126.html |
-| Seefracht | Ukraine: Frankreich setzt russischen Tanker fest – Kreml übt Kritik | http://www.handelsblatt.com/politik/international/ukraine-frankreich-setzt-russischen-tanker-fest-kreml-uebt-kritik/27982126.html |
+| Seefracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Schock für Frau in Oberösterreich: Leichenteile fälschlich an Unternehmen geliefert   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30936177/schock-fuer-frau-in-oberoesterreich-leichenteile-faelschlich-an-unternehmen-geliefert |
+| Luftfracht | Paketdienst liefert Leichenteile an Innviertler Flugzeughersteller | https://www.diepresse.com/30643775/paketdienst-liefert-leichenteile-an-innviertler-flugzeughersteller |
+| Luftfracht | Fracht verwechselt: Leichenteile an Firma im Innviertel geliefert | https://kurier.at/chronik/oberoesterreich/paket-leichenteile-fracht-verwechslung-facc-oberoesterreich/403169466 |
+| Luftfracht | Flugzeughersteller FACC erhielt versehentlich Leichenteile | https://kurier.at/chronik/oberoesterreich/leiche-facc-flugzeug-polizei/403169469 |
+| Luftfracht | St. Martin/Innkreis: Leichenteile wurden Flugzeughersteller FACC zugestellt | https://www.kleinezeitung.at/artikel/30642965/leichenteile-wurden-flugzeughersteller-facc-zugestellt |
 | Luftfracht | Leichenteile versehentlich an FACC geliefert | https://ooe.orf.at/stories/3358653/ |
 | Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
 | Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
+| Lieferkette | Gwynne Shotwell: Die Frau hinter dem SpaceX-Erfolg | https://www.diepresse.com/30549082/gwynne-shotwell-die-frau-hinter-dem-spacex-erfolg |
 | Lieferkette | Greenwashing-Urteil gegen McDonald's: Deutsche Umwelthilfe stoppt irreführendes Zukunftsversprechen | https://www.presseportal.de/pm/22521/6295185 |
 | Lieferkette | Vom Abfall zur Wertschöpfung: Wie Jereh ein Kreislaufökosystem für Batterien aufbaut | https://www.prnewswire.com/news-releases/vom-abfall-zur-wertschopfung-wie-jereh-ein-kreislaufokosystem-fur-batterien-aufbaut-302800151.html |
 | Lieferkette | ZTT auf der Intersolar Deutschland 2026: Vorteile einer durchgängigen Lieferkette - Lösungen für Solarenergie, Energiespeicherung und Wasserstoff als Wegbereiter für eine kohlenstoffarme globale Zukunft | https://www.prnewswire.com/news-releases/ztt-auf-der-intersolar-deutschland-2026-vorteile-einer-durchgangigen-lieferkette--losungen-fur-solarenergie-energiespeicherung-und-wasserstoff-als-wegbereiter-fur-eine-kohlenstoffarme-globale-zukunft-302799840.html |
@@ -36,7 +40,6 @@
 | Lieferkette | Chinas Autohersteller senken Prognose für 2026 drastisch | https://www.heise.de/news/Chinas-Autohersteller-senken-Prognose-fuer-2026-drastisch-11321746.html |
 | Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
-| Lieferkette | In der Lebensmittelinnovation ist die nächste Herausforderung die Skalierung | https://www.presseportal.de/pm/170543/6286618 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
