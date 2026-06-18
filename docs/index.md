@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-17 09:58 UTC*
+*Stand: 2026-06-18 09:23 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -19,10 +19,11 @@
 | Luftfracht | St. Martin/Innkreis: Leichenteile wurden Flugzeughersteller FACC zugestellt | https://www.kleinezeitung.at/artikel/30642965/leichenteile-wurden-flugzeughersteller-facc-zugestellt |
 | Luftfracht | Leichenteile versehentlich an FACC geliefert | https://ooe.orf.at/stories/3358653/ |
 | Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
-| Luftfracht | UNICEF: Hohe Transportkosten gefährden Kinderleben | https://orf.at/stories/3432155/ |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
+| Lieferkette | Technologie: US-Konzern stärkt Europas Unabhängigkeit bei der Chipversorgung | http://www.handelsblatt.com/technik/it-internet/technologie-us-konzern-staerkt-europas-unabhaengigkeit-bei-der-chipversorgung/100231364.html |
+| Lieferkette | Halbleiter: US-Konzern macht Europa von Chiplieferungen aus Übersee unabhängig | http://www.handelsblatt.com/technik/it-internet/halbleiter-us-konzern-macht-europa-von-chiplieferungen-aus-uebersee-unabhaengig/100231364.html |
 | Lieferkette | Gwynne Shotwell: Die Frau hinter dem SpaceX-Erfolg | https://www.diepresse.com/30549082/gwynne-shotwell-die-frau-hinter-dem-spacex-erfolg |
 | Lieferkette | Greenwashing-Urteil gegen McDonald's: Deutsche Umwelthilfe stoppt irreführendes Zukunftsversprechen | https://www.presseportal.de/pm/22521/6295185 |
 | Lieferkette | Vom Abfall zur Wertschöpfung: Wie Jereh ein Kreislaufökosystem für Batterien aufbaut | https://www.prnewswire.com/news-releases/vom-abfall-zur-wertschopfung-wie-jereh-ein-kreislaufokosystem-fur-batterien-aufbaut-302800151.html |
@@ -42,5 +43,5 @@
 | Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | Mit Metall-3D-Druck: Gigabyte zeigt das X870E Aorus Infinity Next - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69278-mit-metall-3d-druck-gigabyte-zeigt-das-x870e-aorus-infinity-next.html |
+| PCB | *(keine Treffer heute)* | -*- |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
