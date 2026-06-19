@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-18 09:23 UTC*
+*Stand: 2026-06-19 09:49 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -19,9 +19,13 @@
 | Luftfracht | St. Martin/Innkreis: Leichenteile wurden Flugzeughersteller FACC zugestellt | https://www.kleinezeitung.at/artikel/30642965/leichenteile-wurden-flugzeughersteller-facc-zugestellt |
 | Luftfracht | Leichenteile versehentlich an FACC geliefert | https://ooe.orf.at/stories/3358653/ |
 | Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
+| Lieferzeit | Zendure Solarflow AB3000L: Zusatzakku zum Bestpreis von 409 Euro   heise online bestenlisten | https://www.heise.de/bestenlisten/deals/zendure-solarflow-ab3000l-zusatzakku-zum-bestpreis-von-409-euro/5tdmszy |
+| Lieferzeit | Schuhwallhalle öffnet voraussichtlich Ende August 2026 – ein Jahr später als geplant | https://www.hna.de/lokales/northeim/northeim-ort47320/schuhwallhalle-oeffnet-ende-august-2026-ein-jahr-spaeter-als-geplant-94357468.html |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
+| Lieferkette | Die unsichtbare Lieferkette: Joachim Reinke von einfachISO klärt auf, warum Cyberangriffe Kunden, Prozesse und Geschäftsbeziehungen gefährden | https://www.presseportal.de/pm/182384/6297595 |
+| Lieferkette | SANY liefert Kernausrüstung für das erste Windkraftprojekt in Lateinamerika und treibt damit die globale Energiewende voran | https://www.prnewswire.com/news-releases/sany-liefert-kernausrustung-fur-das-erste-windkraftprojekt-in-lateinamerika-und-treibt-damit-die-globale-energiewende-voran-302805028.html |
 | Lieferkette | Technologie: US-Konzern stärkt Europas Unabhängigkeit bei der Chipversorgung | http://www.handelsblatt.com/technik/it-internet/technologie-us-konzern-staerkt-europas-unabhaengigkeit-bei-der-chipversorgung/100231364.html |
 | Lieferkette | Halbleiter: US-Konzern macht Europa von Chiplieferungen aus Übersee unabhängig | http://www.handelsblatt.com/technik/it-internet/halbleiter-us-konzern-macht-europa-von-chiplieferungen-aus-uebersee-unabhaengig/100231364.html |
 | Lieferkette | Gwynne Shotwell: Die Frau hinter dem SpaceX-Erfolg | https://www.diepresse.com/30549082/gwynne-shotwell-die-frau-hinter-dem-spacex-erfolg |
@@ -40,7 +44,6 @@
 | Lieferkette | Chinas Autobauer senken Prognose für 2026 drastisch | https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384 |
 | Lieferkette | Chinas Autohersteller senken Prognose für 2026 drastisch | https://www.heise.de/news/Chinas-Autohersteller-senken-Prognose-fuer-2026-drastisch-11321746.html |
 | Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
-| Lieferkette | Loftware Cloud wird als von SAP Endorsed App ausgezeichnet, die skalierbare und vernetzte globale Lieferketten ermöglicht | https://www.prnewswire.com/news-releases/loftware-cloud-wird-als-von-sap-endorsed-app-ausgezeichnet-die-skalierbare-und-vernetzte-globale-lieferketten-ermoglicht-302790288.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
