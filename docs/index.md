@@ -1,15 +1,16 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-19 09:49 UTC*
+*Stand: 2026-06-20 08:27 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | DFSK treibt seine weltweite Expansion mit der Vorstellung des E5 PLUS mit Rechtslenkung in Hongkong voran | https://www.prnewswire.com/news-releases/dfsk-treibt-seine-weltweite-expansion-mit-der-vorstellung-des-e5-plus-mit-rechtslenkung-in-hongkong-voran-302805724.html |
+| supply chain | Die „Geely Farizon Green Smart Mobility Solution" feiert auf der Hong Kong Expo 2026 ihr Debüt | https://www.prnewswire.com/news-releases/die-geely-farizon-green-smart-mobility-solution-feiert-auf-der-hong-kong-expo-2026-ihr-debut-302805368.html |
 | supply chain | Das APEC China CEO Forum wird parallel zur China International Supply Chain Expo eröffnet, um die Zusammenarbeit im asiatisch-pazifischen Raum zu stärken | https://www.prnewswire.com/news-releases/das-apec-china-ceo-forum-wird-parallel-zur-china-international-supply-chain-expo-eroffnet-um-die-zusammenarbeit-im-asiatisch-pazifischen-raum-zu-starken-302801592.html |
 | supply chain | WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen | https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html |
 | supply chain | Medline erweitert seine Produktionskapazitäten in der Slowakei, um das langfristige Wachstum in Europa zu unterstützen | https://www.prnewswire.com/news-releases/medline-erweitert-seine-produktionskapazitaten-in-der-slowakei-um-das-langfristige-wachstum-in-europa-zu-unterstutzen-302792851.html |
 | supply chain | Fiege feiert Richtfest in Hessisch Lichtenau: Fertigstellung für Herbst geplant | https://www.hna.de/lokales/witzenhausen/hessisch-lichtenau-ort62262/fiege-feiert-richtfest-in-hessisch-lichtenau-fertigstellung-fuer-herbst-geplant-94337327.html |
-| supply chain | Supply Chain Attacks: Schutz vor bösartigen Abhängigkeiten im IT-Betrieb | https://dev.to/uhltak/supply-chain-attacks-schutz-vor-bosartigen-abhangigkeiten-im-it-betrieb-18dg |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Schock für Frau in Oberösterreich: Leichenteile fälschlich an Unternehmen geliefert   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30936177/schock-fuer-frau-in-oberoesterreich-leichenteile-faelschlich-an-unternehmen-geliefert |
@@ -23,7 +24,6 @@
 | Lieferzeit | Schuhwallhalle öffnet voraussichtlich Ende August 2026 – ein Jahr später als geplant | https://www.hna.de/lokales/northeim/northeim-ort47320/schuhwallhalle-oeffnet-ende-august-2026-ein-jahr-spaeter-als-geplant-94357468.html |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
-| Lieferzeit | Dr. Oetker-WM-Trikot: So bekommen Sie es | https://www.focus.de/sport/fussball/dr-oetker-wm-trikot-so-bekommen-sie-es_a9883adf-79fc-4fae-9a76-d8cc2ac97d13.html |
 | Lieferkette | Die unsichtbare Lieferkette: Joachim Reinke von einfachISO klärt auf, warum Cyberangriffe Kunden, Prozesse und Geschäftsbeziehungen gefährden | https://www.presseportal.de/pm/182384/6297595 |
 | Lieferkette | SANY liefert Kernausrüstung für das erste Windkraftprojekt in Lateinamerika und treibt damit die globale Energiewende voran | https://www.prnewswire.com/news-releases/sany-liefert-kernausrustung-fur-das-erste-windkraftprojekt-in-lateinamerika-und-treibt-damit-die-globale-energiewende-voran-302805028.html |
 | Lieferkette | Technologie: US-Konzern stärkt Europas Unabhängigkeit bei der Chipversorgung | http://www.handelsblatt.com/technik/it-internet/technologie-us-konzern-staerkt-europas-unabhaengigkeit-bei-der-chipversorgung/100231364.html |
