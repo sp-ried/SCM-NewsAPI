@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-21 09:00 UTC*
+*Stand: 2026-06-22 10:45 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -43,7 +43,6 @@
 | Lieferkette | China: Autoabsatz bricht wegen Irankrieg zweistellig ein | https://www.manager-magazin.de/unternehmen/mobilitaet/china-autoabsatz-bricht-wegen-irankrieg-zweistellig-ein-a-5e7aa8aa-637c-443c-b7b2-7916700ec591 |
 | Lieferkette | Chinas Autobauer senken Prognose für 2026 drastisch | https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384 |
 | Lieferkette | Chinas Autohersteller senken Prognose für 2026 drastisch | https://www.heise.de/news/Chinas-Autohersteller-senken-Prognose-fuer-2026-drastisch-11321746.html |
-| Lieferkette | 12,7 Prozent weniger CO₂: Supermarkt-Riese fokussiert sich künftig auf weiße Eier | https://www.focus.de/panorama/welt/12-7-prozent-weniger-co-supermarkt-riese-fokussiert-sich-kuenftig-auf-weisse-eier_7ef6c77b-3631-4ed4-a5a4-d7bc8d7e645a.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
