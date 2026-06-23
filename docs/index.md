@@ -1,15 +1,15 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-22 10:45 UTC*
+*Stand: 2026-06-23 08:35 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Geely Farizon, WeRide und Kwoon Chung stellen auf der 2026 International Automotive & Supply Chain Expo (Hongkong) Robotaxis mit Rechtslenkung vor und treiben damit ihre globale Expansion voran | https://www.prnewswire.com/news-releases/geely-farizon-weride-und-kwoon-chung-stellen-auf-der-2026-international-automotive--supply-chain-expo-hongkong-robotaxis-mit-rechtslenkung-vor-und-treiben-damit-ihre-globale-expansion-voran-302806985.html |
 | supply chain | DFSK treibt seine weltweite Expansion mit der Vorstellung des E5 PLUS mit Rechtslenkung in Hongkong voran | https://www.prnewswire.com/news-releases/dfsk-treibt-seine-weltweite-expansion-mit-der-vorstellung-des-e5-plus-mit-rechtslenkung-in-hongkong-voran-302805724.html |
 | supply chain | Die „Geely Farizon Green Smart Mobility Solution" feiert auf der Hong Kong Expo 2026 ihr Debüt | https://www.prnewswire.com/news-releases/die-geely-farizon-green-smart-mobility-solution-feiert-auf-der-hong-kong-expo-2026-ihr-debut-302805368.html |
 | supply chain | Das APEC China CEO Forum wird parallel zur China International Supply Chain Expo eröffnet, um die Zusammenarbeit im asiatisch-pazifischen Raum zu stärken | https://www.prnewswire.com/news-releases/das-apec-china-ceo-forum-wird-parallel-zur-china-international-supply-chain-expo-eroffnet-um-die-zusammenarbeit-im-asiatisch-pazifischen-raum-zu-starken-302801592.html |
 | supply chain | WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen | https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html |
-| supply chain | Medline erweitert seine Produktionskapazitäten in der Slowakei, um das langfristige Wachstum in Europa zu unterstützen | https://www.prnewswire.com/news-releases/medline-erweitert-seine-produktionskapazitaten-in-der-slowakei-um-das-langfristige-wachstum-in-europa-zu-unterstutzen-302792851.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Schock für Frau in Oberösterreich: Leichenteile fälschlich an Unternehmen geliefert   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30936177/schock-fuer-frau-in-oberoesterreich-leichenteile-faelschlich-an-unternehmen-geliefert |
