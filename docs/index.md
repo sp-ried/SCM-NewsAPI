@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-23 08:35 UTC*
+*Stand: 2026-06-24 08:31 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Vierte China International Supply Chain Expo in Peking eröffnet | https://www.prnewswire.com/news-releases/vierte-china-international-supply-chain-expo-in-peking-eroffnet-302808780.html |
 | supply chain | Geely Farizon, WeRide und Kwoon Chung stellen auf der 2026 International Automotive & Supply Chain Expo (Hongkong) Robotaxis mit Rechtslenkung vor und treiben damit ihre globale Expansion voran | https://www.prnewswire.com/news-releases/geely-farizon-weride-und-kwoon-chung-stellen-auf-der-2026-international-automotive--supply-chain-expo-hongkong-robotaxis-mit-rechtslenkung-vor-und-treiben-damit-ihre-globale-expansion-voran-302806985.html |
 | supply chain | DFSK treibt seine weltweite Expansion mit der Vorstellung des E5 PLUS mit Rechtslenkung in Hongkong voran | https://www.prnewswire.com/news-releases/dfsk-treibt-seine-weltweite-expansion-mit-der-vorstellung-des-e5-plus-mit-rechtslenkung-in-hongkong-voran-302805724.html |
 | supply chain | Die „Geely Farizon Green Smart Mobility Solution" feiert auf der Hong Kong Expo 2026 ihr Debüt | https://www.prnewswire.com/news-releases/die-geely-farizon-green-smart-mobility-solution-feiert-auf-der-hong-kong-expo-2026-ihr-debut-302805368.html |
@@ -23,6 +24,7 @@
 | Lieferzeit | Schuhwallhalle öffnet voraussichtlich Ende August 2026 – ein Jahr später als geplant | https://www.hna.de/lokales/northeim/northeim-ort47320/schuhwallhalle-oeffnet-ende-august-2026-ein-jahr-spaeter-als-geplant-94357468.html |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
 | Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
+| Lieferkette | Luxshare Precision veröffentlicht Nachhaltigkeitsbericht 2025 | https://www.prnewswire.com/news-releases/luxshare-precision-veroffentlicht-nachhaltigkeitsbericht-2025-302808519.html |
 | Lieferkette | Testfall Twingo: Wie gewähren Autohersteller die Qualität trotz China Speed? | https://www.tagesanzeiger.ch/renault-twingo-wie-der-hersteller-qualitaet-neu-misst-415220372121 |
 | Lieferkette | Die unsichtbare Lieferkette: Joachim Reinke von einfachISO klärt auf, warum Cyberangriffe Kunden, Prozesse und Geschäftsbeziehungen gefährden | https://www.presseportal.de/pm/182384/6297595 |
 | Lieferkette | SANY liefert Kernausrüstung für das erste Windkraftprojekt in Lateinamerika und treibt damit die globale Energiewende voran | https://www.prnewswire.com/news-releases/sany-liefert-kernausrustung-fur-das-erste-windkraftprojekt-in-lateinamerika-und-treibt-damit-die-globale-energiewende-voran-302805028.html |
@@ -39,10 +41,6 @@
 | Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.merkur.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
 | Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.hna.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
 | Lieferkette | Konjunktur: KI-Boom lässt Taiwans Exporte um 52 Prozent steigen | http://www.handelsblatt.com/politik/konjunktur/konjunktur-ki-boom-laesst-taiwans-exporte-um-52-prozent-steigen/100231562.html |
-| Lieferkette | Militärnutzung von KI: US-Regierung verteidigt Vorgehen gegen... | https://www.diepresse.com/28941227/militaernutzung-von-ki-us-regierung-verteidigt-vorgehen-gegen-anthropic |
-| Lieferkette | China: Autoabsatz bricht wegen Irankrieg zweistellig ein | https://www.manager-magazin.de/unternehmen/mobilitaet/china-autoabsatz-bricht-wegen-irankrieg-zweistellig-ein-a-5e7aa8aa-637c-443c-b7b2-7916700ec591 |
-| Lieferkette | Chinas Autobauer senken Prognose für 2026 drastisch | https://www.spiegel.de/wirtschaft/china-autobauer-senken-prognose-fuer-2026-drastisch-a-506c342e-3820-43bb-bde3-4e4262189384 |
-| Lieferkette | Chinas Autohersteller senken Prognose für 2026 drastisch | https://www.heise.de/news/Chinas-Autohersteller-senken-Prognose-fuer-2026-drastisch-11321746.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
