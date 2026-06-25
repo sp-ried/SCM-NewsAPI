@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-24 08:31 UTC*
+*Stand: 2026-06-25 08:29 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,7 +11,8 @@
 | supply chain | Die „Geely Farizon Green Smart Mobility Solution" feiert auf der Hong Kong Expo 2026 ihr Debüt | https://www.prnewswire.com/news-releases/die-geely-farizon-green-smart-mobility-solution-feiert-auf-der-hong-kong-expo-2026-ihr-debut-302805368.html |
 | supply chain | Das APEC China CEO Forum wird parallel zur China International Supply Chain Expo eröffnet, um die Zusammenarbeit im asiatisch-pazifischen Raum zu stärken | https://www.prnewswire.com/news-releases/das-apec-china-ceo-forum-wird-parallel-zur-china-international-supply-chain-expo-eroffnet-um-die-zusammenarbeit-im-asiatisch-pazifischen-raum-zu-starken-302801592.html |
 | supply chain | WordPress: Lieferkettenangriff auf Plug-ins gefährdet 1,2 Millionen Instanzen | https://www.heise.de/news/WordPress-Plug-ins-Lieferkettenangriff-gefaehrdet-1-2-Millionen-Seiten-11333755.html |
-| Containerfracht | *(keine Treffer heute)* | -*- |
+| Containerfracht | Zahlreiche Schwimmerinnen nach Freiwasser-Weltcup im Krankenhaus | https://www.bild.de/sport/zahlreiche-schwimmerinnen-nach-freiwasser-weltcup-im-krankenhaus-6a3bd8c8113e90346dc4b1e5 |
+| Containerfracht | Ekel-Eklat beim Freiwasser-Weltcup: Zahlreiche Schwimmerinnen erkranken | https://www.bild.de/sport/ekel-eklat-beim-freiwasser-weltcup-zahlreiche-schwimmerinnen-erkranken-6a3bd8c8113e90346dc4b1e5 |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Schock für Frau in Oberösterreich: Leichenteile fälschlich an Unternehmen geliefert   Tiroler Tageszeitung Online | https://www.tt.com/artikel/30936177/schock-fuer-frau-in-oberoesterreich-leichenteile-faelschlich-an-unternehmen-geliefert |
 | Luftfracht | Paketdienst liefert Leichenteile an Innviertler Flugzeughersteller | https://www.diepresse.com/30643775/paketdienst-liefert-leichenteile-an-innviertler-flugzeughersteller |
@@ -38,9 +39,6 @@
 | Lieferkette | SpaceX geht an die Börse und die US-Dominanz wird noch grösser – ein visueller Überblick | https://www.nzz.ch/visuals/nvidia-apple-und-bald-spacex-das-sind-die-wertvollsten-unternehmen-der-welt-ein-visueller-ueberblick-ld.10006773 |
 | Lieferkette | Digitalisierung stärkt Binnenschifffahrt | https://ooe.orf.at/stories/3357875/ |
 | Lieferkette | npm packt seine riskantesten Sicherheitsprobleme an | https://www.heise.de/news/npm-packt-seine-riskantesten-Sicherheitsprobleme-an-11327518.html |
-| Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.merkur.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
-| Lieferkette | Katastrophe wegen Iran-Krieg: Warum Millionen Krebspatienten in Indien Medikamente suchen müssen | https://www.hna.de/politik/irans-krieg-engpaesse-krebs-medikamente-indien-notstand-therapie-aerzte-medizin-behandlung-zr-94343007.html |
-| Lieferkette | Konjunktur: KI-Boom lässt Taiwans Exporte um 52 Prozent steigen | http://www.handelsblatt.com/politik/konjunktur/konjunktur-ki-boom-laesst-taiwans-exporte-um-52-prozent-steigen/100231562.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
