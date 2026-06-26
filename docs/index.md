@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-25 08:29 UTC*
+*Stand: 2026-06-26 08:33 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -20,11 +20,10 @@
 | Luftfracht | Flugzeughersteller FACC erhielt versehentlich Leichenteile | https://kurier.at/chronik/oberoesterreich/leiche-facc-flugzeug-polizei/403169469 |
 | Luftfracht | St. Martin/Innkreis: Leichenteile wurden Flugzeughersteller FACC zugestellt | https://www.kleinezeitung.at/artikel/30642965/leichenteile-wurden-flugzeughersteller-facc-zugestellt |
 | Luftfracht | Leichenteile versehentlich an FACC geliefert | https://ooe.orf.at/stories/3358653/ |
-| Luftfracht | Exportwirtschaft will krisenfest sein | https://salzburg.orf.at/stories/3357985/ |
+| Lieferzeit | CGTN: Wie schafft es China, reichliche Ernten in dauerhaften Wohlstand für Landwirte umzuwandeln? | https://www.globenewswire.com/news-release/2026/06/26/3318025/0/de/CGTN-Wie-schafft-es-China-reichliche-Ernten-in-dauerhaften-Wohlstand-f%C3%BCr-Landwirte-umzuwandeln.html |
 | Lieferzeit | Zendure Solarflow AB3000L: Zusatzakku zum Bestpreis von 409 Euro   heise online bestenlisten | https://www.heise.de/bestenlisten/deals/zendure-solarflow-ab3000l-zusatzakku-zum-bestpreis-von-409-euro/5tdmszy |
 | Lieferzeit | Schuhwallhalle öffnet voraussichtlich Ende August 2026 – ein Jahr später als geplant | https://www.hna.de/lokales/northeim/northeim-ort47320/schuhwallhalle-oeffnet-ende-august-2026-ein-jahr-spaeter-als-geplant-94357468.html |
 | Lieferzeit | 100 Einsätze in 160 Tagen: Gemeindebrandmeister warnt vor Überlastung | https://www.hna.de/lokales/northeim/noerten-hardenberg-ort80530/100-einsaetze-in-160-tagen-gemeindebrandmeister-warnt-vor-kollaps-94346798.html |
-| Lieferzeit | Preisvergleiche: Idealo überholt geizhals und setzt auf Expansion | https://kurier.at/wirtschaft/preisvergleiche-idealo-geizhals/403167907 |
 | Lieferkette | Luxshare Precision veröffentlicht Nachhaltigkeitsbericht 2025 | https://www.prnewswire.com/news-releases/luxshare-precision-veroffentlicht-nachhaltigkeitsbericht-2025-302808519.html |
 | Lieferkette | Testfall Twingo: Wie gewähren Autohersteller die Qualität trotz China Speed? | https://www.tagesanzeiger.ch/renault-twingo-wie-der-hersteller-qualitaet-neu-misst-415220372121 |
 | Lieferkette | Die unsichtbare Lieferkette: Joachim Reinke von einfachISO klärt auf, warum Cyberangriffe Kunden, Prozesse und Geschäftsbeziehungen gefährden | https://www.presseportal.de/pm/182384/6297595 |
@@ -36,9 +35,6 @@
 | Lieferkette | Vom Abfall zur Wertschöpfung: Wie Jereh ein Kreislaufökosystem für Batterien aufbaut | https://www.prnewswire.com/news-releases/vom-abfall-zur-wertschopfung-wie-jereh-ein-kreislaufokosystem-fur-batterien-aufbaut-302800151.html |
 | Lieferkette | ZTT auf der Intersolar Deutschland 2026: Vorteile einer durchgängigen Lieferkette - Lösungen für Solarenergie, Energiespeicherung und Wasserstoff als Wegbereiter für eine kohlenstoffarme globale Zukunft | https://www.prnewswire.com/news-releases/ztt-auf-der-intersolar-deutschland-2026-vorteile-einer-durchgangigen-lieferkette--losungen-fur-solarenergie-energiespeicherung-und-wasserstoff-als-wegbereiter-fur-eine-kohlenstoffarme-globale-zukunft-302799840.html |
 | Lieferkette | Bericht: Japan prüft Abbau Seltener Erden in Grönland | http://www.handelsblatt.com/politik/international/bericht-japan-prueft-abbau-seltener-erden-in-groenland/100232839.html |
-| Lieferkette | SpaceX geht an die Börse und die US-Dominanz wird noch grösser – ein visueller Überblick | https://www.nzz.ch/visuals/nvidia-apple-und-bald-spacex-das-sind-die-wertvollsten-unternehmen-der-welt-ein-visueller-ueberblick-ld.10006773 |
-| Lieferkette | Digitalisierung stärkt Binnenschifffahrt | https://ooe.orf.at/stories/3357875/ |
-| Lieferkette | npm packt seine riskantesten Sicherheitsprobleme an | https://www.heise.de/news/npm-packt-seine-riskantesten-Sicherheitsprobleme-an-11327518.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
