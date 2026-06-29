@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-28 08:26 UTC*
+*Stand: 2026-06-29 09:55 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -17,6 +17,7 @@
 | Containerfracht | Ekel-Eklat beim Freiwasser-Weltcup: Zahlreiche Schwimmerinnen erkranken | https://www.bild.de/sport/ekel-eklat-beim-freiwasser-weltcup-zahlreiche-schwimmerinnen-erkranken-6a3bd8c8113e90346dc4b1e5 |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
+| Lieferzeit | Wegen Hitzewelle: Ventilatoren und Klimaanlagen vielerorts ausverkauft – Lieferzeit bis zu zehn Wochen | https://www.merkur.de/verbraucher/wegen-hitzewelle-ventilatoren-und-klimaanlagen-vielerorts-ausverkauft-schwarzmarkt-boomt-zr-94372599.html |
 | Lieferzeit | CGTN: Wie schafft es China, reichliche Ernten in dauerhaften Wohlstand für Landwirte umzuwandeln? | https://www.globenewswire.com/news-release/2026/06/26/3318025/0/de/CGTN-Wie-schafft-es-China-reichliche-Ernten-in-dauerhaften-Wohlstand-f%C3%BCr-Landwirte-umzuwandeln.html |
 | Lieferkette | „Smart Vehicle Chain" auf der 4. China International Supply Chain Expo: Reisen bequemer gestalten | https://www.prnewswire.com/news-releases/smart-vehicle-chain-auf-der-4-china-international-supply-chain-expo-reisen-bequemer-gestalten-302812444.html |
 | Lieferkette | 4. CISCE-Bereich für Lieferkettenservice: Logistik, Finanzen und globale Vernetzung stehen im Mittelpunkt | https://www.prnewswire.com/news-releases/4-cisce-bereich-fur-lieferkettenservice-logistik-finanzen-und-globale-vernetzung-stehen-im-mittelpunkt-302812361.html |
