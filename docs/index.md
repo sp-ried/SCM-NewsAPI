@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-06-30 08:35 UTC*
+*Stand: 2026-07-01 08:53 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -12,20 +12,20 @@
 | supply chain | Der Ausstellungsbereich Fortschrittliche Fertigungskette auf der CISCE rückt die Niedrigflughöhen-Wirtschaft, die Wertschöpfungskette der Luftfahrt und Innovationen bei neuen Werkstoffen in den Fokus. | https://www.prnewswire.com/news-releases/der-ausstellungsbereich-fortschrittliche-fertigungskette-auf-der-cisce-ruckt-die-niedrigflughohen-wirtschaft-die-wertschopfungskette-der-luftfahrt-und-innovationen-bei-neuen-werkstoffen-in-den-fokus-302812122.html |
 | supply chain | Die 4. International Supply Chain Expo in China: Healthy Life Chain präsentiert das gesamte Spektrum globaler Innovationen in der Gesundheitsversorgungskette | https://www.prnewswire.com/news-releases/die-4-international-supply-chain-expo-in-china-healthy-life-chain-prasentiert-das-gesamte-spektrum-globaler-innovationen-in-der-gesundheitsversorgungskette-302812093.html |
 | supply chain | Bereich Grüne Landwirtschaftskette auf der 4. CISCE: KI-gestützte Innovation in den globalen Lieferketten der Agrar- und Lebensmittelbranche | https://www.prnewswire.com/news-releases/bereich-grune-landwirtschaftskette-auf-der-4-cisce-ki-gestutzte-innovation-in-den-globalen-lieferketten-der-agrar--und-lebensmittelbranche-302812021.html |
-| supply chain | Vierte China International Supply Chain Expo in Peking eröffnet | https://www.prnewswire.com/news-releases/vierte-china-international-supply-chain-expo-in-peking-eroffnet-302808780.html |
 | Containerfracht | Zahlreiche Schwimmerinnen nach Freiwasser-Weltcup im Krankenhaus | https://www.bild.de/sport/zahlreiche-schwimmerinnen-nach-freiwasser-weltcup-im-krankenhaus-6a3bd8c8113e90346dc4b1e5 |
 | Containerfracht | Ekel-Eklat beim Freiwasser-Weltcup: Zahlreiche Schwimmerinnen erkranken | https://www.bild.de/sport/ekel-eklat-beim-freiwasser-weltcup-zahlreiche-schwimmerinnen-erkranken-6a3bd8c8113e90346dc4b1e5 |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | Wegen Hitzewelle: Ventilatoren und Klimaanlagen vielerorts ausverkauft – Lieferzeit bis zu zehn Wochen | https://www.merkur.de/verbraucher/wegen-hitzewelle-ventilatoren-und-klimaanlagen-vielerorts-ausverkauft-schwarzmarkt-boomt-zr-94372599.html |
 | Lieferzeit | CGTN: Wie schafft es China, reichliche Ernten in dauerhaften Wohlstand für Landwirte umzuwandeln? | https://www.globenewswire.com/news-release/2026/06/26/3318025/0/de/CGTN-Wie-schafft-es-China-reichliche-Ernten-in-dauerhaften-Wohlstand-f%C3%BCr-Landwirte-umzuwandeln.html |
+| Lieferkette | Anaplan stellt Agentic Enterprise vor – eine vertrauenswürdige, KI-gestützte Entscheidungsinfrastruktur für effiziente Ressourcenallokation sowie höhere Entscheidungsqualität und -geschwindigkeit in großem Maßstab | https://www.globenewswire.com/news-release/2026/06/30/3320227/0/de/Anaplan-stellt-Agentic-Enterprise-vor-eine-vertrauensw%C3%BCrdige-KI-gest%C3%BCtzte-Entscheidungsinfrastruktur-f%C3%BCr-effiziente-Ressourcenallokation-sowie-h%C3%B6here-Entscheidungsqualit%C3%A4t-und-gesc.html |
+| Lieferkette | US-Verteidigungsministerium unterstützt gemeinsam mit Phoenix Tailings den Aufbau einer Initiative im Umfang von rund 1 Milliarde US-Dollar zum Wiederaufbau der amerikanischen Industriebasis für Seltene Erden | https://www.globenewswire.com/news-release/2026/06/30/3319648/0/de/US-Verteidigungsministerium-unterst%C3%BCtzt-gemeinsam-mit-Phoenix-Tailings-den-Aufbau-einer-Initiative-im-Umfang-von-rund-1-Milliarde-US-Dollar-zum-Wiederaufbau-der-amerikanischen-Indu.html |
+| Lieferkette | EU-Zollerhöhung verteuert Einfuhr von China-Ware / eCommerce-Markt wird laut Berliner Zolldienstleister eClear um zwei Drittel einbrechen | https://www.presseportal.de/pm/135165/6305225 |
 | Lieferkette | „Smart Vehicle Chain" auf der 4. China International Supply Chain Expo: Reisen bequemer gestalten | https://www.prnewswire.com/news-releases/smart-vehicle-chain-auf-der-4-china-international-supply-chain-expo-reisen-bequemer-gestalten-302812444.html |
 | Lieferkette | 4. CISCE-Bereich für Lieferkettenservice: Logistik, Finanzen und globale Vernetzung stehen im Mittelpunkt | https://www.prnewswire.com/news-releases/4-cisce-bereich-fur-lieferkettenservice-logistik-finanzen-und-globale-vernetzung-stehen-im-mittelpunkt-302812361.html |
 | Lieferkette | Bereich Grüne Landwirtschaftskette auf der 4. CISCE: KI-gestützte Innovation in den globalen Lieferketten der Agrar- und Lebensmittelbranche | https://www.prnewswire.com/news-releases/bereich-grune-landwirtschaftskette-auf-der-4-cisce-ki-gestutzte-innovation-in-den-globalen-lieferketten-der-agrar--und-lebensmittelbranche-302812021.html |
 | Lieferkette | Balkonkraftwerke: Grazer EET stellt einen Konkursantrag | https://www.kleinezeitung.at/artikel/33225710/grazer-photovoltaik-firma-stellt-einen-konkursantrag |
 | Lieferkette | Apple faltbares iPhone: Massenproduktion startet offenbar Ende Juli | https://www.bild.de/leben-wissen/digital/apple-faltbares-iphone-massenproduktion-startet-offenbar-ende-juli-6a3e5d15f35865c1dfe233f5 |
-| Lieferkette | Tierschützer dringen in Lidl-Konzernzentralen ein - und fordern ein Ende des Erstickens von Garnelen / Polizei-Einsatz unter Verdacht des Hausfriedensbruchs | https://www.presseportal.de/pm/181138/6302748 |
-| Lieferkette | Luxshare Precision veröffentlicht Nachhaltigkeitsbericht 2025 | https://www.prnewswire.com/news-releases/luxshare-precision-veroffentlicht-nachhaltigkeitsbericht-2025-302808519.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
