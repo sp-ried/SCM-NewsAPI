@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-05 08:10 UTC*
+*Stand: 2026-07-06 09:07 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,7 +10,7 @@
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
-| Lieferzeit | Wegen Hitzewelle: Ventilatoren und Klimaanlagen vielerorts ausverkauft – Lieferzeit bis zu zehn Wochen | https://www.merkur.de/verbraucher/wegen-hitzewelle-ventilatoren-und-klimaanlagen-vielerorts-ausverkauft-schwarzmarkt-boomt-zr-94372599.html |
+| Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | Zusammenfassung nach der Show: ZTTs komplette Wertschöpfungskette für Solarenergie, Energiespeicherung und Wasserstoff glänzt auf der Intersolar Europe 2026 | https://www.prnewswire.com/news-releases/zusammenfassung-nach-der-show-ztts-komplette-wertschopfungskette-fur-solarenergie-energiespeicherung-und-wasserstoff-glanzt-auf-der-intersolar-europe-2026-302817904.html |
 | Lieferkette | Intel verteuert seinen beliebtesten Desktop-Prozessor | https://www.heise.de/news/Intel-verteuert-seinen-beliebtesten-Desktop-Prozessor-11353550.html |
 | Lieferkette | Reformpaket der Koalition: Gesetz für 150 Unternehmen | https://taz.de/Reformpaket-der-Koalition/!6193040/ |
