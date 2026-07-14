@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-13 08:25 UTC*
+*Stand: 2026-07-14 07:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,9 +15,8 @@
 | Lieferkette | Burckhardt Compression von HYDS für die Lieferung von Wasserstoff-Hochdruckverdichtungslösungen in Skandinavien ausgewählt | https://www.globenewswire.com/news-release/2026/07/09/3324567/0/de/Burckhardt-Compression-von-HYDS-f%C3%BCr-die-Lieferung-von-Wasserstoff-Hochdruckverdichtungsl%C3%B6sungen-in-Skandinavien-ausgew%C3%A4hlt.html |
 | Lieferkette | Asia Techonomics: China setzt nun auf Bildungslieferketten | https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-china-setzt-nun-auf-bildungslieferketten/100238087.html |
 | Lieferkette | Strategische Partnerschaft: Cargoclix und Loady kooperieren bei Logistikdaten und Prozessintegration | https://www.presseportal.de/pm/170432/6310226 |
-| Lieferkette | iPhone Ultra: Warum Apples faltbares Smartphone schnell ausverkauft sein könnte   t3n | https://t3n.de/news/apple-soll-beim-iphone-ultra-soll-schon-zum-start-lieferschwierigkeiten-haben-1751440/ |
-| Lieferkette | Die ukrainische Drohnenindustrie startet Asien-Offensive in Japan | https://www.handelsblatt.com/politik/international/die-ukrainische-drohnenindustrie-startet-asien-offensive-in-japan/100238091.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
+| PCB | Rückseitige Anschlüsse: Gigabyte B850M AORUS Stealth (Ice) stellt sich vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69667-rueckseitige-anschluesse-gigabyte-b850m-aorus-stealth-ice-stellt-sich-vor.html |
 | PCB | Versteckte Kosten beim Immobilienkauf – so erkennst du die größten Geldfresser | https://www.presseportal.de/pm/173485/6311746 |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
