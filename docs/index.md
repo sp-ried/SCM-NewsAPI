@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-20 08:15 UTC*
+*Stand: 2026-07-21 07:40 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -22,5 +22,5 @@
 | Lieferkette | Stahlhersteller: Großbritannien verstaatlicht British Steel | https://www.handelsblatt.com/unternehmen/industrie/stahlhersteller-grossbritannien-verstaatlicht-british-steel/100240690.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | Rückseitige Anschlüsse: Gigabyte B850M AORUS Stealth (Ice) stellt sich vor - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/69667-rueckseitige-anschluesse-gigabyte-b850m-aorus-stealth-ice-stellt-sich-vor.html |
+| PCB | *(keine Treffer heute)* | -*- |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
