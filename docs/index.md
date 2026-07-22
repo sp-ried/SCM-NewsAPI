@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-21 07:40 UTC*
+*Stand: 2026-07-22 07:40 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,7 +10,6 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Erste Frachtdaten zur EU-Abgabe zeigen: So hart hat trifft „Temu-Zoll“ die Luftfracht – der internationale Flughafen Liszt Ferenc ist stark betroffen | https://www.focus.de/finanzen/news/erste-frachtdaten-zur-eu-abgabe-zeigen-so-hart-hat-trifft-temu-zoll-die-luftfracht-der-internationale-flughafen-liszt-ferenc-ist-stark-betroffen_96b7dfdd-494d-4fb3-a813-1c21d81c68d1.html |
 | Luftfracht | Erste Frachtdaten zur EU-Abgabe: So hart hat der „Temu-Zoll“ die Luftfracht getroffen – der internationale Flughafen Liszt Ferenc ist stark betroffen | https://www.focus.de/finanzen/news/erste-frachtdaten-zur-eu-abgabe-so-hart-hat-der-temu-zoll-die-luftfracht-getroffen-der-internationale-flughafen-liszt-ferenc-ist-stark-betroffen_96b7dfdd-494d-4fb3-a813-1c21d81c68d1.html |
-| Luftfracht | Erste Frachtdaten zur EU-Abgabe: So hart hat der „Temu-Zoll“ die Luftfracht getroffen – internationaler Flughafen Liszt Ferenc ist stark betroffen | https://www.focus.de/finanzen/news/erste-frachtdaten-zur-eu-abgabe-so-hart-hat-der-temu-zoll-die-luftfracht-getroffen-internationaler-flughafen-liszt-ferenc-ist-stark-betroffen_96b7dfdd-494d-4fb3-a813-1c21d81c68d1.html |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | Farizon eröffnet ein globales Ersatzteil-Vertriebszentrum zur Stärkung des internationalen Kundendienstes | https://www.prnewswire.com/news-releases/farizon-eroffnet-ein-globales-ersatzteil-vertriebszentrum-zur-starkung-des-internationalen-kundendienstes-302829005.html |
 | Lieferkette | Berichtspflichten: Europas Wirtschaft zwischen den Stühlen | https://www.diepresse.com/38160829/berichtspflichten-europas-wirtschaft-zwischen-den-stuehlen |
