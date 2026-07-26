@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-25 07:25 UTC*
+*Stand: 2026-07-26 07:43 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,6 @@
 | Lieferkette | „Politischer Skandal“ beim Lieferkettengesetz: Grüne werfen Regierung Missachtung geltenden Rechts vor | https://www.tagesspiegel.de/politik/politischer-skandal-beim-lieferkettengesetz-grune-werfen-regierung-missachtung-geltenden-rechts-vor-15868007.html |
 | Lieferkette | Bei sechs österreichischen raten Experten nun zum Kauf | https://www.diepresse.com/38940928/bei-vier-oesterreichischen-aktien-haben-experten-soeben-das-kursziel |
 | Lieferkette | Airbus will Gewinn in den nächsten drei Jahren verdoppeln | https://www.sueddeutsche.de/wirtschaft/airbus-produktion-gewinn-li.3519855 |
-| Lieferkette | Farizon eröffnet ein globales Ersatzteil-Vertriebszentrum zur Stärkung des internationalen Kundendienstes | https://www.prnewswire.com/news-releases/farizon-eroffnet-ein-globales-ersatzteil-vertriebszentrum-zur-starkung-des-internationalen-kundendienstes-302829005.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
