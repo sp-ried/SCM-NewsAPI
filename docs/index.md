@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-07-28 07:45 UTC*
+*Stand: 2026-07-29 07:50 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,6 +11,8 @@
 | Luftfracht | Kühne+Nagel: Logistikkonzern hebt Gewinnprognose für 2026 dank KI an | https://www.manager-magazin.de/unternehmen/dienstleister/kuehne-nagel-logistikkonzern-hebt-gewinnprognose-fuer-2026-dank-ki-an-a-00716aeb-79e4-4416-ad61-0b8d5606db97 |
 | Luftfracht | Logistik: Qualitätsprobleme bei DSV nach der Schenker-Integration | https://www.wiwo.de/unternehmen/dienstleister/logistik-qualitaetsprobleme-bei-dsv-nach-der-schenker-integration/100242098.html |
 | Lieferzeit | Lange Wartezeiten bei Briefzustellungen | https://ooe.orf.at/stories/3363732/ |
+| Lieferkette | Cybersicherheit: USA verbieten Import von humanoiden Robotern aus China | https://www.zeit.de/wirtschaft/2026-07/importverbot-roboter-china-usa-unitree-wechselrichter |
+| Lieferkette | USA: Import-Verbot für neue chinesische Roboter und Wechselrichter | https://www.handelsblatt.com/technik/ki/usa-import-verbot-fuer-neue-chinesische-roboter-und-wechselrichter/100243540.html |
 | Lieferkette | Souveräne KI: Japan und Südkorea begegnen der KI-Übermacht der USA und Chinas | https://www.handelsblatt.com/technik/ki/souveraene-ki-japan-und-suedkorea-begegnen-der-ki-uebermacht-der-usa-und-chinas/100243039.html |
 | Lieferkette | Aumovio-Chef fordert Rückkehr zur 40-Stunden-Woche ohne Lohnausgleich | https://www.wiwo.de/unternehmen/industrie/aumovio-chef-fordert-rueckkehr-zur-40-stunden-woche-ohne-lohnausgleich-01/100240815.html |
 | Lieferkette | Trump wird woke – und die Schweiz selber Zoll-Weltmeister | https://www.blick.ch/politik/absurder-vorwand-fuer-neue-strafzoelle-und-unsere-eigene-doppelmoral-trump-wird-woke-und-die-schweiz-schaut-weg-id22133124.html |
