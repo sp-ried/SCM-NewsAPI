@@ -1,10 +1,12 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-08-22 05:37 UTC*
+*Stand: 2026-08-23 05:38 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | KI in den produktiven Alltag bringen: Worauf es nach der Demo ankommt | https://t3n.de/news/ki-projekte-produktivbetrieb-demo-skalierung-1756968/ |
+| supply chain | Auswirkungen von Niedrigwasser - „Endverbraucher muss mit Preiserhöhungen rechnen“ | https://www.cicero.de/innenpolitik/auswirkungen-von-niedrigwasser-unternehmen-sind-nicht-vorbereitet |
 | supply chain | Michelle Northey, CPO von Loftware, gewinnt den Women in Supply Chain Forum™ Award 2026 | https://www.prnewswire.com/news-releases/michelle-northey-cpo-von-loftware-gewinnt-den-women-in-supply-chain-forum-award-2026-302853788.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
