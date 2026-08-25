@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-08-24 05:49 UTC*
+*Stand: 2026-08-25 05:41 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -9,7 +9,8 @@
 | supply chain | Auswirkungen von Niedrigwasser - „Endverbraucher muss mit Preiserhöhungen rechnen“ | https://www.cicero.de/innenpolitik/auswirkungen-von-niedrigwasser-unternehmen-sind-nicht-vorbereitet |
 | supply chain | Michelle Northey, CPO von Loftware, gewinnt den Women in Supply Chain Forum™ Award 2026 | https://www.prnewswire.com/news-releases/michelle-northey-cpo-von-loftware-gewinnt-den-women-in-supply-chain-forum-award-2026-302853788.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
-| Seefracht | *(keine Treffer heute)* | -*- |
+| Seefracht | Logistik-Milliardär Klaus-Michael Kühne mit 89 Jahren verstorben   Kleine Zeitung | https://www.kleinezeitung.at/artikel/41198762/logistik-milliardaer-klaus-michael-kuehne-verstorben |
+| Seefracht | Klaus-Michael Kühne: Logistikmilliardär stirbt im Alter von 89 Jahren | https://www.manager-magazin.de/unternehmen/klaus-michael-kuehne-logistikmilliardaer-stirbt-im-alter-von-89-jahren-a-536f46b2-74da-4bae-8837-66ce16773adb |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | SK pharmteco nimmt an der CPHI teil und präsentiert dort seine multimodalen CDMO-Kompetenzen sowie seine globale Produktionsinfrastruktur | https://www.globenewswire.com/news-release/2026/08/21/3349070/0/de/sk-pharmteco-nimmt-an-der-cphi-teil-und-pr%C3%A4sentiert-dort-seine-multimodalen-cdmo-kompetenzen-sowie-seine-globale-produktionsinfrastruktur.html |
