@@ -1,12 +1,12 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-09-05 08:59 UTC*
+*Stand: 2026-09-06 09:20 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Nun auch die Mainboards: Preise steigen durch den KI-Boom in Wellen weiter an - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/70243-nun-auch-die-mainboards-preise-steigen-durch-den-ki-boom-in-wellen-weiter-an.html |
 | supply chain | VW-Sparplan sorgt in OÖ für Unsicherheit | https://ooe.orf.at/stories/3369903/ |
-| supply chain | Reproducible Builds: Wie man Python-Software vor Supply-Chain-Angriffen schützt | https://linuxnews.de/reproducible-builds-wie-man-python-software-vor-supply-chain-angriffen-schuetzt/ |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Goldreserven: Flucht aus USA geht weiter | https://orf.at/stories/3441071/ |
