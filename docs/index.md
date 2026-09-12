@@ -1,12 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-09-11 09:34 UTC*
+*Stand: 2026-09-12 09:13 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Nun auch die Mainboards: Preise steigen durch den KI-Boom in Wellen weiter an - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/hardware/mainboards/70243-nun-auch-die-mainboards-preise-steigen-durch-den-ki-boom-in-wellen-weiter-an.html |
-| supply chain | VW-Sparplan sorgt in OÖ für Unsicherheit | https://ooe.orf.at/stories/3369903/ |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
@@ -18,8 +17,7 @@
 | Lieferkette | Voll bereit! FOTON präsentiert sich auf der IAA in Hannover mit kompletter Produktpalette | https://www.prnewswire.com/news-releases/voll-bereit-foton-prasentiert-sich-auf-der-iaa-in-hannover-mit-kompletter-produktpalette-302873493.html |
 | Lieferkette | EU-Rechnungshof: "Europa ist der Aufgabe nicht gewachsen" - Illegale Tabakfabriken boomen | https://www.tagesschau.de/investigativ/report-mainz/eu-rechnungshof-zigaretten-100.html |
 | Lieferkette | CelluPro erhält EXCiPACT™-Zertifizierung für die Herstellung von Zellkulturmedien in GMP-Qualität und stärkt damit seine globalen Lieferkapazitäten im Bereich der biopharmazeutischen Produktion | https://www.prnewswire.com/news-releases/cellupro-erhalt-excipact-zertifizierung-fur-die-herstellung-von-zellkulturmedien-in-gmp-qualitat-und-starkt-damit-seine-globalen-lieferkapazitaten-im-bereich-der-biopharmazeutischen-produktion-302865586.html |
-| Lieferkette | Grundig stellt auf der IFA 2026 neue Produktpalette vor und läutet damit eine neue Phase der strategischen Partnerschaft ein | https://www.prnewswire.com/news-releases/grundig-stellt-auf-der-ifa-2026-neue-produktpalette-vor-und-lautet-damit-eine-neue-phase-der-strategischen-partnerschaft-ein-302870521.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | Eklat im Palast: Nationalspieler boykottiert Audienz bei König Charles | https://www.focus.de/kultur/royals/eklat-im-palast-nationalspieler-boykottiert-audienz-bei-koenig-charles_3a0ac9d0-cdf8-48b0-b3bc-8ff88c9afeb8.html |
+| PCB | ASUS ROG Strix B850-F Gaming WiFi7 Neo im Test: Refresh-Board mit sinnvollen Änderungen - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/mainboards/70017-asus-rog-strix-b850-f-gaming-wifi7-neo-im-test-refresh-board-mit-sinnvollen-aenderungen.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
