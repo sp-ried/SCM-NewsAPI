@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-09-18 09:38 UTC*
+*Stand: 2026-09-19 09:25 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -30,5 +30,4 @@
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Schadstoff-Alarm in Nürnberg: Katholische Kirche bis auf Weiteres gesperrt | https://www.merkur.de/bayern/nuernberg/schadstoff-alarm-in-nuernberg-katholische-kirche-bis-auf-weiteres-gesperrt-94495399.html |
-| PCB | ASUS ROG Strix B850-F Gaming WiFi7 Neo im Test: Refresh-Board mit sinnvollen Änderungen - Hardwareluxx | https://www.hardwareluxx.de/index.php/artikel/hardware/mainboards/70017-asus-rog-strix-b850-f-gaming-wifi7-neo-im-test-refresh-board-mit-sinnvollen-aenderungen.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
