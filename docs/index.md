@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-09-25 10:08 UTC*
+*Stand: 2026-09-26 09:49 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,6 +13,7 @@
 | Seefracht | Logistik: Amazon erwirbt Aktienoptionen von Kühne+Nagel | https://www.handelsblatt.com/unternehmen/dienstleister/logistik-amazon-erwirbt-aktienoptionen-von-kuehnenagel/100256124.html |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Kommentar: Der "Tankrabatt" ist richtig | https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html |
 | Lieferkette | TSMC & Co.: Was der Chip-Streik in Taiwan für KI bedeutet | https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html |
 | Lieferkette | The Elmet Group investiert rund 125 Millionen US-Dollar in Masan High-Tech Materials, um die Wolfram-Lieferkette zu stärken | https://www.globenewswire.com/news-release/2026/09/24/3368665/0/de/The-Elmet-Group-investiert-rund-125-Millionen-US-Dollar-in-Masan-High-Tech-Materials-um-die-Wolfram-Lieferkette-zu-st%C3%A4rken.html |
 | Lieferkette | XZ Utils Backdoor: Die Lehren aus dem Beinahe-GAU für Open Source | https://dev.to/nova-reik/xz-utils-backdoor-die-lehren-aus-dem-beinahe-gau-fur-open-source-4gfi |
@@ -20,7 +21,6 @@
 | Lieferkette | REHLKO VERDOPPELT DIE JÄHRLICHE NOTSTROMKAPAZITÄT AM PRODUKTIONSSTANDORT CHANGZHOU | https://www.prnewswire.com/news-releases/rehlko-verdoppelt-die-jahrliche-notstromkapazitat-am-produktionsstandort-changzhou-302884071.html |
 | Lieferkette | Produktdesign bei SONNENTOR: Echte Naturtalente statt künstlicher Intelligenz! | https://www.presseportal.de/pm/114996/6356936 |
 | Lieferkette | Produktdesign bei SONNENTOR: Echte Naturtalente statt künstlicher Intelligenz! | https://kurier.at/apa-ots/wirtschaft/produktdesign-bei-sonnentor-echte-naturtalente-statt-kuenstlicher-intelligenz/403192663 |
-| Lieferkette | Wegen Fehler in der Steuererklärung ins Gefängnis? Wirtschaft warnt vor Ende der strafbefreienden Selbstanzeige | https://www.merkur.de/wirtschaft/ende-der-strafbefreienden-selbstanzeige-geplant-gefahr-bei-steuererklaerung-zr-94504418.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
