@@ -1,16 +1,13 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-09-28 11:37 UTC*
+*Stand: 2026-09-29 11:18 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | XZ Utils Backdoor: Die Lehren aus dem Beinahe-GAU für Open Source | https://dev.to/nova-reik/xz-utils-backdoor-die-lehren-aus-dem-beinahe-gau-fur-open-source-4gfi |
-| supply chain | Logistik: Amazon erwirbt Aktienoptionen von Kühne+Nagel | https://www.handelsblatt.com/unternehmen/dienstleister/logistik-amazon-erwirbt-aktienoptionen-von-kuehnenagel/100256124.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | So bäckt und programmiert Team Austria bei der WM in China | https://www.kleinezeitung.at/artikel/41289863/so-baeckt-und-programmiert-team-austria-bei-der-wm-in-china |
-| Seefracht | Ukraine: DHL dient sich als Logistiker für ukrainische Waffenexporte an | https://www.handelsblatt.com/politik/international/ukraine-dhl-dient-sich-als-logistiker-fuer-ukrainische-waffenexporte-an/100256248.html |
-| Seefracht | Logistik: Amazon erwirbt Aktienoptionen von Kühne+Nagel | https://www.handelsblatt.com/unternehmen/dienstleister/logistik-amazon-erwirbt-aktienoptionen-von-kuehnenagel/100256124.html |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | Merinoshirt-Anbieter im Test: Wie es den Schafen geht, bleibt oft unklar | https://www.test.de/Merinoshirt-Anbieter-im-Test-Tierwohl-Arbeitsbedingungen-Umweltschutz-6328335-0/ |
