@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-10-12 13:03 UTC*
+*Stand: 2026-10-13 12:38 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -13,14 +13,14 @@
 | Luftfracht | Kritik an Rindertransport: Von Linz nach Turkmenistan | https://ooe.orf.at/stories/3374335/ |
 | Lieferzeit | Technologie: Hersteller rationieren Chips – mehr als 52 Wochen Lieferzeit | https://www.handelsblatt.com/technik/it-internet/technologie-hersteller-rationieren-chips-mehr-als-52-wochen-lieferzeit/100258580.html |
 | Lieferzeit | Eingelagerte Stolpersteine in Lüneburg gestohlen | https://www.noz.de/deutschland-welt/niedersachsen/artikel/eingelagerte-stolpersteine-in-lueneburg-gestohlen-51552447 |
+| Lieferkette | Kommentar: BMW und KI – lernt von Mr. Flexibility oder verliert | https://www.handelsblatt.com/meinung/kommentare/kommentar-bmw-und-ki-lernt-von-mr.-flexibility-oder-verliert/100261477.html |
+| Lieferkette | Kommentar: Diese Innovation bei BMW sollte sich die deutsche Wirtschaft abschauen | https://www.handelsblatt.com/meinung/kommentare/kommentar-diese-innovation-bei-bmw-sollte-sich-die-deutsche-wirtschaft-abschauen/100261477.html |
+| Lieferkette | 90 Millionen Dollar Schaden: Wie Betrüger manipulierte... | https://www.diepresse.com/41347349/90-millionen-dollar-schaden-wie-betrueger-manipulierte-ledger-wallets |
 | Lieferkette | Alte E-Auto-Batterien gesucht: Bis zu 80 Prozent Restkapazität warten auf ihren zweiten Einsatz | https://t3n.de/news/zoelle-stromausfaelle-rechenzentren-dieses-startup-sieht-in-gebrauchten-e-auto-batterien-die-loesung-1767574/ |
 | Lieferkette | Iran-Krieg: Diese Produkte werden jetzt teurer – von Cola bis Kondome | https://www.bild.de/politik/iran-krieg-diese-produkte-werden-jetzt-teurer-von-cola-bis-kondome-6ac3b8e601cab9f08b4f0c87 |
 | Lieferkette | Umfassende Modernisierung des Produkthaftungsrechts: Koalition setzt Serie von Verbesserungen im Verbraucherschutz fort | https://www.presseportal.de/pm/181322/6368167 |
 | Lieferkette | 2 Milliarden US-Dollar: GlobalFoundries fertigt für TSMC zukünftig Silicon Interposer - Hardwareluxx | https://www.hardwareluxx.de/index.php/news/allgemein/wirtschaft/70574-2-milliarden-us-dollar-globalfoundries-fertigt-fuer-tsmc-zukuenftig-silicon-interposer.html |
 | Lieferkette | Socfin veröffentlicht seine Nachhaltigkeitsstrategie 2026-2031 und die aktualisierte Richtlinie zur verantwortungsvollen Unternehmensführung | https://www.prnewswire.com/news-releases/socfin-veroffentlicht-seine-nachhaltigkeitsstrategie-20262031-und-die-aktualisierte-richtlinie-zur-verantwortungsvollen-unternehmensfuhrung-302901110.html |
-| Lieferkette | Resonant Clinical Solutions und Haier Biomedical stellen eine innovative Tischzentrifuge mit einem natürlichen Kältemittel vor | https://www.prnewswire.com/news-releases/resonant-clinical-solutions-und-haier-biomedical-stellen-eine-innovative-tischzentrifuge-mit-einem-naturlichen-kaltemittel-vor-302901550.html |
-| Lieferkette | Weißenbacher Unternehmen Knauf setzt auf E-Lkw in der Logistik | https://www.kleinezeitung.at/artikel/41325747/weissenbacher-unternehmen-knauf-setzt-auf-e-lkw-in-der-logistik |
-| Lieferkette | Cognizant wurde von SITA ausgewählt, um eine KI-gestützte globale Finanztransformation in der Cloud durchzuführen | https://www.prnewswire.com/news-releases/cognizant-wurde-von-sita-ausgewahlt-um-eine-ki-gestutzte-globale-finanztransformation-in-der-cloud-durchzufuhren-302898285.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
