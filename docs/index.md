@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-10-25 09:44 UTC*
+*Stand: 2026-10-26 10:59 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -11,6 +11,7 @@
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
 | Lieferzeit | *(keine Treffer heute)* | -*- |
+| Lieferkette | Medline und WRAP feiern 10 Jahre Zusammenarbeit für verantwortungsvolle und nachhaltige Produktion | https://www.prnewswire.com/news-releases/medline-und-wrap-feiern-10-jahre-zusammenarbeit-fur-verantwortungsvolle-und-nachhaltige-produktion-302917433.html |
 | Lieferkette | Russland entdeckt die Arktis für verstärkte Öl-Exporte – 20 Millionen Barrel sollen nach Asien geflossen sein | https://www.focus.de/finanzen/news/russland-entdeckt-die-arktis-fuer-verstaerkte-oel-exporte-20-millionen-barrel-sollen-nach-asien-geflossen-sein_ecefb962-939e-4869-8945-e100e5ff1fe7.html |
 | Lieferkette | Wie Aosom den Einkauf von großen Möbeln durch wettbewerbsfähige Preise und bequeme Lieferung vereinfacht | https://www.prnewswire.com/news-releases/wie-aosom-den-einkauf-von-groWen-mobeln-durch-wettbewerbsfahige-preise-und-bequeme-lieferung-vereinfacht-302917644.html |
 | Lieferkette | Arclin kündigt strategische Erweiterung der Nomex®-Produktionskapazität an | https://www.prnewswire.com/news-releases/arclin-kundigt-strategische-erweiterung-der-nomex-produktionskapazitat-an-302916197.html |
@@ -18,7 +19,6 @@
 | Lieferkette | Helium-Lieferkette ist in der Krise – Europa braucht das Edelgas für MRTs Arzneimittel | https://www.focus.de/finanzen/news/helium-lieferkette-ist-in-der-krise-europa-braucht-das-edelgas-fuer-mrts-arzneimittel_16e5b169-55f0-4831-b7d8-72587dbbb61d.html |
 | Lieferkette | Russische Ölexporte über die Arktis-Route steigen inmitten der weltweiten Frachtkrise um 50 Prozent – Asien profitiert | https://www.focus.de/finanzen/news/russische-oelexporte-ueber-die-arktis-route-steigen-inmitten-der-weltweiten-frachtkrise-um-50-prozent-asien-profitiert_ecefb962-939e-4869-8945-e100e5ff1fe7.html |
 | Lieferkette | Helium ist weitaus wichtiger, als man vielleicht denkt – Und die Lieferkette ist in der Krise | https://www.focus.de/finanzen/news/helium-ist-weitaus-wichtiger-als-man-vielleicht-denkt-und-die-lieferkette-ist-in-der-krise_16e5b169-55f0-4831-b7d8-72587dbbb61d.html |
-| Lieferkette | Mutti zieht solide Bilanz in einer von extremen Wetterbedingungen geprägten Saison | https://www.presseportal.de/pm/148143/6373793 |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
