@@ -1,12 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-10-28 11:15 UTC*
+*Stand: 2026-10-29 11:27 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | JFrog führt BYOK-Unterstützung für KI-Sicherheitsscans ein | https://www.heise.de/news/JFrog-AI-Security-Mehr-Kontrolle-ueber-Schatten-KI-auf-Entwicklerrechnern-11496904.html |
-| supply chain | Körber investiert in NAiSE und treibt herstellerunabhängiges Flottenmanagement in der Intralogistik voran | https://www.presseportal.de/pm/71329/6375841 |
 | Containerfracht | Tui: Mein Schiff 3 Kreuzfahrtschiff muss nach Kollision mit Containerfrachter in die Werft | https://www.manager-magazin.de/unternehmen/mobilitaet/tui-mein-schiff-3-kreuzfahrtschiff-muss-nach-kollision-mit-containerfrachter-in-die-werft-a-5d821c22-695c-4093-9fd5-3e6047a30175 |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
@@ -16,9 +15,7 @@
 | Lieferkette | Medline und WRAP feiern 10 Jahre Zusammenarbeit für verantwortungsvolle und nachhaltige Produktion | https://www.prnewswire.com/news-releases/medline-und-wrap-feiern-10-jahre-zusammenarbeit-fur-verantwortungsvolle-und-nachhaltige-produktion-302917433.html |
 | Lieferkette | Russland entdeckt die Arktis für verstärkte Öl-Exporte – 20 Millionen Barrel sollen nach Asien geflossen sein | https://www.focus.de/finanzen/news/russland-entdeckt-die-arktis-fuer-verstaerkte-oel-exporte-20-millionen-barrel-sollen-nach-asien-geflossen-sein_ecefb962-939e-4869-8945-e100e5ff1fe7.html |
 | Lieferkette | Wie Aosom den Einkauf von großen Möbeln durch wettbewerbsfähige Preise und bequeme Lieferung vereinfacht | https://www.prnewswire.com/news-releases/wie-aosom-den-einkauf-von-groWen-mobeln-durch-wettbewerbsfahige-preise-und-bequeme-lieferung-vereinfacht-302917644.html |
-| Lieferkette | Arclin kündigt strategische Erweiterung der Nomex®-Produktionskapazität an | https://www.prnewswire.com/news-releases/arclin-kundigt-strategische-erweiterung-der-nomex-produktionskapazitat-an-302916197.html |
-| Lieferkette | Zu junge Pakete müssen draußen bleiben: Rust schützt die Lieferkette | https://www.heise.de/news/Zu-junge-Pakete-muessen-draussen-bleiben-Rust-schuetzt-die-Lieferkette-11495856.html |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
-| PCB | *(keine Treffer heute)* | -*- |
+| PCB | Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp | https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html |
 | Materialknappheit | *(keine Treffer heute)* | -*- |
