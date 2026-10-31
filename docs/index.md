@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-10-30 11:19 UTC*
+*Stand: 2026-10-31 10:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -16,7 +16,6 @@
 | Lieferkette | Quartalszahlen: HSBC mit Gewinnsprung – Paypal stellt mehr Gewinn in Aussicht | https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-hsbc-mit-gewinnsprung-paypal-stellt-mehr-gewinn-in-aussicht/24098412.html |
 | Lieferkette | Rüstung: Helsing steigt in den Wettlauf deutscher Drohnenjäger ein | https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-steigt-in-den-wettlauf-deutscher-drohnenjaeger-ein/100264960.html |
 | Lieferkette | Medline und WRAP feiern 10 Jahre Zusammenarbeit für verantwortungsvolle und nachhaltige Produktion | https://www.prnewswire.com/news-releases/medline-und-wrap-feiern-10-jahre-zusammenarbeit-fur-verantwortungsvolle-und-nachhaltige-produktion-302917433.html |
-| Lieferkette | Russland entdeckt die Arktis für verstärkte Öl-Exporte – 20 Millionen Barrel sollen nach Asien geflossen sein | https://www.focus.de/finanzen/news/russland-entdeckt-die-arktis-fuer-verstaerkte-oel-exporte-20-millionen-barrel-sollen-nach-asien-geflossen-sein_ecefb962-939e-4869-8945-e100e5ff1fe7.html |
 | Elektronikfertigung | Chinas Industrieprofite schnellen hoch   Börsen-Zeitung | https://www.boersen-zeitung.de/konjunktur-politik/chinas-industriegewinne-schnellen-hoch |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp | https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html |
