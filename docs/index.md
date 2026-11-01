@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-10-31 10:52 UTC*
+*Stand: 2026-11-01 11:46 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | Vienna Business School: HAK & HAS mit Praxis, Matura und Zukunftsperspektive | https://kurier.at/cm/wkw/vienna-business-school-ausbildung-wirtschaft-angebot/403201314 |
 | supply chain | JAS zählt zu den besten 1 % der Unternehmen im EcoVadis-Nachhaltigkeitsrating | https://www.prnewswire.com/news-releases/jas-zahlt-zu-den-besten-1--der-unternehmen-im-ecovadis-nachhaltigkeitsrating-302924499.html |
 | Containerfracht | Tui: Mein Schiff 3 Kreuzfahrtschiff muss nach Kollision mit Containerfrachter in die Werft | https://www.manager-magazin.de/unternehmen/mobilitaet/tui-mein-schiff-3-kreuzfahrtschiff-muss-nach-kollision-mit-containerfrachter-in-die-werft-a-5d821c22-695c-4093-9fd5-3e6047a30175 |
 | Seefracht | *(keine Treffer heute)* | -*- |
