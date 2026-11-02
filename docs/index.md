@@ -1,22 +1,21 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-01 11:46 UTC*
+*Stand: 2026-11-02 13:24 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | Vienna Business School: HAK & HAS mit Praxis, Matura und Zukunftsperspektive | https://kurier.at/cm/wkw/vienna-business-school-ausbildung-wirtschaft-angebot/403201314 |
 | supply chain | JAS zählt zu den besten 1 % der Unternehmen im EcoVadis-Nachhaltigkeitsrating | https://www.prnewswire.com/news-releases/jas-zahlt-zu-den-besten-1--der-unternehmen-im-ecovadis-nachhaltigkeitsrating-302924499.html |
-| Containerfracht | Tui: Mein Schiff 3 Kreuzfahrtschiff muss nach Kollision mit Containerfrachter in die Werft | https://www.manager-magazin.de/unternehmen/mobilitaet/tui-mein-schiff-3-kreuzfahrtschiff-muss-nach-kollision-mit-containerfrachter-in-die-werft-a-5d821c22-695c-4093-9fd5-3e6047a30175 |
+| Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
-| Luftfracht | *(keine Treffer heute)* | -*- |
-| Lieferzeit | *(keine Treffer heute)* | -*- |
+| Luftfracht | Flughafen Zürich: Immer mehr «Luftfracht» rollt auf der Strasse statt in der Luft | https://www.tagesanzeiger.ch/flughafen-zuerich-mehr-luftfracht-rollt-per-lkw-842225375741 |
+| Lieferzeit | Internationale Beobachter bewundern die Produktionsleistung von Naval Group, die gerade die zweite griechische FDI-Fregatte ausgeliefert hat | https://www.focus.de/politik/ausland/internationale-beobachter-bewundern-die-produktionsleistung-von-naval-group-die-gerade-die-zweite-griechische-fdi-fregatte-ausgeliefert-hat_81913504-8b14-4c92-9b9d-684800afb7d3.html |
 | Lieferkette | JAS zählt zu den besten 1 % der Unternehmen im EcoVadis-Nachhaltigkeitsrating | https://www.prnewswire.com/news-releases/jas-zahlt-zu-den-besten-1--der-unternehmen-im-ecovadis-nachhaltigkeitsrating-302924499.html |
 | Lieferkette | Resonant Clinical Solutions stellt eine Reihe von Asset-Management-Programmen vor, die Informationen und Unterstützung für Strategien zur Probenlagerung in klinischen Studien bieten | https://www.prnewswire.com/news-releases/resonant-clinical-solutions-stellt-eine-reihe-von-asset-management-programmen-vor-die-informationen-und-unterstutzung-fur-strategien-zur-probenlagerung-in-klinischen-studien-bieten-302924439.html |
 | Lieferkette | Sicherheitsrisiko: Wenn kompromittierte Tor-Knoten SSH-Zugangsdaten stehlen | https://www.heise.de/hintergrund/Sicherheitsrisiko-Wenn-kompromittierte-Tor-Knoten-SSH-Zugangsdaten-stehlen-11499571.html |
 | Lieferkette | Quartalszahlen: HSBC mit Gewinnsprung – Paypal stellt mehr Gewinn in Aussicht | https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-hsbc-mit-gewinnsprung-paypal-stellt-mehr-gewinn-in-aussicht/24098412.html |
 | Lieferkette | Rüstung: Helsing steigt in den Wettlauf deutscher Drohnenjäger ein | https://www.handelsblatt.com/unternehmen/start-ups/ruestung-helsing-steigt-in-den-wettlauf-deutscher-drohnenjaeger-ein/100264960.html |
-| Lieferkette | Medline und WRAP feiern 10 Jahre Zusammenarbeit für verantwortungsvolle und nachhaltige Produktion | https://www.prnewswire.com/news-releases/medline-und-wrap-feiern-10-jahre-zusammenarbeit-fur-verantwortungsvolle-und-nachhaltige-produktion-302917433.html |
 | Elektronikfertigung | Chinas Industrieprofite schnellen hoch   Börsen-Zeitung | https://www.boersen-zeitung.de/konjunktur-politik/chinas-industriegewinne-schnellen-hoch |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp | https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html |
