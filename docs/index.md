@@ -1,10 +1,11 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-03 12:43 UTC*
+*Stand: 2026-11-04 12:55 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
+| supply chain | MediaMarkt-Saturn-Übernahme: Chinesischer Onlinehändler setzt europäische Hersteller unter Zugzwang | https://www.presseportal.de/pm/78805/6383828 |
 | supply chain | Vienna Business School: HAK & HAS mit Praxis, Matura und Zukunftsperspektive | https://kurier.at/cm/wkw/vienna-business-school-ausbildung-wirtschaft-angebot/403201314 |
 | supply chain | JAS zählt zu den besten 1 % der Unternehmen im EcoVadis-Nachhaltigkeitsrating | https://www.prnewswire.com/news-releases/jas-zahlt-zu-den-besten-1--der-unternehmen-im-ecovadis-nachhaltigkeitsrating-302924499.html |
 | Containerfracht | *(keine Treffer heute)* | -*- |
@@ -18,7 +19,7 @@
 | Lieferkette | JAS zählt zu den besten 1 % der Unternehmen im EcoVadis-Nachhaltigkeitsrating | https://www.prnewswire.com/news-releases/jas-zahlt-zu-den-besten-1--der-unternehmen-im-ecovadis-nachhaltigkeitsrating-302924499.html |
 | Lieferkette | Resonant Clinical Solutions stellt eine Reihe von Asset-Management-Programmen vor, die Informationen und Unterstützung für Strategien zur Probenlagerung in klinischen Studien bieten | https://www.prnewswire.com/news-releases/resonant-clinical-solutions-stellt-eine-reihe-von-asset-management-programmen-vor-die-informationen-und-unterstutzung-fur-strategien-zur-probenlagerung-in-klinischen-studien-bieten-302924439.html |
 | Lieferkette | Sicherheitsrisiko: Wenn kompromittierte Tor-Knoten SSH-Zugangsdaten stehlen | https://www.heise.de/hintergrund/Sicherheitsrisiko-Wenn-kompromittierte-Tor-Knoten-SSH-Zugangsdaten-stehlen-11499571.html |
-| Elektronikfertigung | Chinas Industrieprofite schnellen hoch   Börsen-Zeitung | https://www.boersen-zeitung.de/konjunktur-politik/chinas-industriegewinne-schnellen-hoch |
+| Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | ROUNDUP 2: Starkes Pharmageschäft stimmt Bayer optimistischer für 2026 | https://www.finanzen.net/nachricht/aktien/roundup-2-starkes-pharmageschaeft-stimmt-bayer-optimistischer-fuer-2026-16031849 |
 | PCB | Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp | https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html |
