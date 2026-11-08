@@ -1,13 +1,12 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-07 11:40 UTC*
+*Stand: 2026-11-08 11:52 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | ONEKEY Cybersecurity Report 2026: Supply Chain spielt Schlüsselrolle bei CRA-Compliance | https://www.presseportal.de/pm/151206/6384686 |
 | supply chain | MediaMarkt-Saturn-Übernahme: Chinesischer Onlinehändler setzt europäische Hersteller unter Zugzwang | https://www.presseportal.de/pm/78805/6383828 |
-| supply chain | Vienna Business School: HAK & HAS mit Praxis, Matura und Zukunftsperspektive | https://kurier.at/cm/wkw/vienna-business-school-ausbildung-wirtschaft-angebot/403201314 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | Flughafen Zürich: Immer mehr «Luftfracht» rollt auf der Strasse statt in der Luft | https://www.tagesanzeiger.ch/flughafen-zuerich-mehr-luftfracht-rollt-per-lkw-842225375741 |
