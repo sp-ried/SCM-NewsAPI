@@ -1,16 +1,15 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-10 13:24 UTC*
+*Stand: 2026-11-11 12:38 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
 | supply chain | AssureTrace ernennt Graham Clark zum Business Director und Chief Revenue Officer | https://www.prnewswire.com/news-releases/assuretrace-ernennt-graham-clark-zum-business-director-und-chief-revenue-officer-302934645.html |
 | supply chain | ONEKEY Cybersecurity Report 2026: Supply Chain spielt Schlüsselrolle bei CRA-Compliance | https://www.presseportal.de/pm/151206/6384686 |
-| supply chain | MediaMarkt-Saturn-Übernahme: Chinesischer Onlinehändler setzt europäische Hersteller unter Zugzwang | https://www.presseportal.de/pm/78805/6383828 |
 | Containerfracht | *(keine Treffer heute)* | -*- |
 | Seefracht | *(keine Treffer heute)* | -*- |
-| Luftfracht | *(keine Treffer heute)* | -*- |
+| Luftfracht | Boom der Luftfracht: Mit diesem „Nein“ verpasst Emirates Airbus einen schmerzhaften Tiefschlag - WELT | https://www.welt.de/wirtschaft/plus6af2fc0ef0b67a4b24663ef3/boom-der-luftfracht-mit-diesem-nein-verpasst-emirates-airbus-einen-schmerzhaften-tiefschlag.html |
 | Lieferzeit | Beobachter staunen über die Produktionsleistung von Frankreichs Naval Group, die gerade die zweite griechische FDI-Fregatte ausgeliefert hat | https://www.focus.de/politik/ausland/beobachter-staunen-ueber-die-produktionsleistung-von-frankreichs-naval-group-die-gerade-die-zweite-griechische-fdi-fregatte-ausgeliefert-hat_81913504-8b14-4c92-9b9d-684800afb7d3.html |
 | Lieferkette | Boeing streicht fünf Prozent der Stellen | https://www.focus.de/politik/ausland/boeing-streicht-fuenf-prozent-der-stellen_9f08fee5-516e-473b-8c34-5a83bc840c97.html |
 | Lieferkette | Erholung der Märkte: Nach KI-Ausverkauf: Börsen in Ostasien starten mit Gewinnen | https://www.tagesanzeiger.ch/nach-ki-ausverkauf-boersen-in-ostasien-starten-mit-gewinnen-131123726027 |
