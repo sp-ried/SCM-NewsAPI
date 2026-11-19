@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-18 13:51 UTC*
+*Stand: 2026-11-19 14:19 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -10,15 +10,15 @@
 | Containerfracht | Logistik: Deutsche Häfen bereiten sich auf Atomantrieb vor | https://www.handelsblatt.com/unternehmen/industrie/logistik-deutsche-haefen-bereiten-sich-auf-atomantrieb-vor/100269158.html |
 | Seefracht | *(keine Treffer heute)* | -*- |
 | Luftfracht | *(keine Treffer heute)* | -*- |
-| Lieferzeit | Online einkaufen: Kundin kritisiert Bestellung und bekommt Anwaltspost | https://www.focus.de/digital/online-einkaufen-kundin-kritisiert-bestellung-und-bekommt-anwaltspost_048b5c5f-5046-4a3b-a0fb-bb90707aa8b5.html |
+| Lieferzeit | *(keine Treffer heute)* | -*- |
 | Lieferkette | Loftware übernimmt Seagull Software und vereint damit Produktidentifizierungslösungen für Unternehmen entlang der gesamten Lieferkette. | https://www.prnewswire.com/news-releases/loftware-ubernimmt-seagull-software-und-vereint-damit-produktidentifizierungslosungen-fur-unternehmen-entlang-der-gesamten-lieferkette-302940653.html |
 | Lieferkette | Landraub in der Lieferkette? Kleinbauern des brasilianischen Cerrado reichen Beschwerden gegen deutsche Fleischhersteller ein | https://www.presseportal.de/pm/22521/6391221 |
 | Lieferkette | Neue Tochterfirma: Audi macht Kreislaufwirtschaft zum Geschäftsmodell | https://www.merkur.de/wirtschaft/neue-tochterfirma-audi-macht-kreislaufwirtschaft-zum-geschaeftsmodell-zr-94593805.html |
 | Lieferkette | Neue Tochterfirma: Audi macht Kreislaufwirtschaft zum Geschäftsmodell | https://www.hna.de/wirtschaft/neue-tochterfirma-audi-macht-kreislaufwirtschaft-zum-geschaeftsmodell-zr-94593805.html |
 | Lieferkette | Autobauer: Wie Angriffe in der Ukraine die Lieferketten bei BMW und Skoda stören | https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-angriffe-in-der-ukraine-die-lieferketten-bei-bmw-und-skoda-stoeren/100268739.html |
-| Lieferkette | WDH: Brenntag legt neue Mittelfristziele vor | https://www.finanzen.net/nachricht/aktien/wdh-brenntag-legt-neue-mittelfristziele-vor-16059614 |
-| Lieferkette | ROUNDUP: Brenntag legt neue Mittelfristziele vor - Aktie verliert | https://www.finanzen.net/nachricht/aktien/roundup-brenntag-legt-neue-mittelfristziele-vor-aktie-verliert-16059615 |
-| Lieferkette | Brenntag legt neue Mittelfristziele vor - Aktienkurs legt etwas zu | https://www.finanzen.net/nachricht/aktien/brenntag-legt-neue-mittelfristziele-vor-aktienkurs-legt-etwas-zu-16059242 |
+| Lieferkette | Munitionsproduktion: Nitrozellulose „Made in Europe“ | https://www.handelsblatt.com/politik/background-sicherheit-und-verteidigung/munitionsproduktion-nitrozellulose-made-in-europe/100270879.html |
+| Lieferkette | Pelico nimmt am Sovereign AI Summit von Google Cloud teil, um sich mit KI und Datensouveränität in der Fertigung auseinanderzusetzen. | https://www.prnewswire.com/news-releases/pelico-nimmt-am-sovereign-ai-summit-von-google-cloud-teil-um-sich-mit-ki-und-datensouveranitat-in-der-fertigung-auseinanderzusetzen-302942004.html |
+| Lieferkette | Rendezvous mit Harry - Technische Analyse live - Montag 19:00 Uhr | https://derivate.bnpparibas.com/service/sendungen/rendezvous-mit-harry/ |
 | Elektronikfertigung | *(keine Treffer heute)* | -*- |
 | Elektronikkomponent | *(keine Treffer heute)* | -*- |
 | PCB | *(keine Treffer heute)* | -*- |
