@@ -1,7 +1,7 @@
 # SCM News Übersicht
 # News-Übersicht
 
-*Stand: 2026-11-19 14:19 UTC*
+*Stand: 2026-11-20 13:56 UTC*
 
 | Keyword | Headline | Link |
 |---|---|---|
@@ -15,7 +15,7 @@
 | Lieferkette | Landraub in der Lieferkette? Kleinbauern des brasilianischen Cerrado reichen Beschwerden gegen deutsche Fleischhersteller ein | https://www.presseportal.de/pm/22521/6391221 |
 | Lieferkette | Neue Tochterfirma: Audi macht Kreislaufwirtschaft zum Geschäftsmodell | https://www.merkur.de/wirtschaft/neue-tochterfirma-audi-macht-kreislaufwirtschaft-zum-geschaeftsmodell-zr-94593805.html |
 | Lieferkette | Neue Tochterfirma: Audi macht Kreislaufwirtschaft zum Geschäftsmodell | https://www.hna.de/wirtschaft/neue-tochterfirma-audi-macht-kreislaufwirtschaft-zum-geschaeftsmodell-zr-94593805.html |
-| Lieferkette | Autobauer: Wie Angriffe in der Ukraine die Lieferketten bei BMW und Skoda stören | https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-angriffe-in-der-ukraine-die-lieferketten-bei-bmw-und-skoda-stoeren/100268739.html |
+| Lieferkette | AtomVie Global Radiopharma und ITM schließen Liefervereinbarung über n.c.a. Lutetium-177 | https://www.prnewswire.com/news-releases/atomvie-global-radiopharma-und-itm-schlieWen-liefervereinbarung-uber-nca-lutetium-177-302946579.html |
 | Lieferkette | Munitionsproduktion: Nitrozellulose „Made in Europe“ | https://www.handelsblatt.com/politik/background-sicherheit-und-verteidigung/munitionsproduktion-nitrozellulose-made-in-europe/100270879.html |
 | Lieferkette | Pelico nimmt am Sovereign AI Summit von Google Cloud teil, um sich mit KI und Datensouveränität in der Fertigung auseinanderzusetzen. | https://www.prnewswire.com/news-releases/pelico-nimmt-am-sovereign-ai-summit-von-google-cloud-teil-um-sich-mit-ki-und-datensouveranitat-in-der-fertigung-auseinanderzusetzen-302942004.html |
 | Lieferkette | Rendezvous mit Harry - Technische Analyse live - Montag 19:00 Uhr | https://derivate.bnpparibas.com/service/sendungen/rendezvous-mit-harry/ |
